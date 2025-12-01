@@ -1,0 +1,2549 @@
+KECERDASAN BUATAN (AI) DALAM PENDIDIKAN: TINJAUAN
+LITERATUR SISTEMATIS TENTANG PELUANG, MASALAH
+ETIKA, DAN IMPLIKASI PEDAGOGIS
+ARTIFICIAL INTELLIGENCE IN EDUCATION: A SYSTEMATIC
+LITERATURE REVIEW ON OPPORTUNITIES, ETHICAL ISSUES,
+AND PEDAGOGICAL IMPLICATIONS
+ABSTRAK:
+AUTHOR:
+Integrasi cepat Artificial Intelligence (AI) dalam pendidikan
+1Zakaria Efendi*
+2Meysella Al Firdha Hanim menghadirkan peluang sekaligus tantangan yang menuntut
+3Adi Santoso
+kajian kritis terkait nilai pedagogis, implikasi etis, dan
+AFFILIATION: transformasinya. Studi ini menggunakan metode Systematic
+Indonesia
+Indonesia
+pada periode 2020–2025 dan diperoleh secara sistematis dari
+3IAIN Pontianak, Indonesia
+berbagai basis data akademik utama. Hasil studi
+CORRESPONDING*:
+mengidentifikasi tiga tema utama. Pertama, AI menawarkan
+peluang pedagogis yang signifikan melalui pembelajaran
+ARTICLE HISTORY:
+adaptif, umpan balik personal, dan otomatisasi asesmen yang
+Received : 25-09-2025
+Revised : 07-10-2025 secara kolektif meningkatkan keterlibatan mahasiswa serta
+Accepted : 08-10-2025
+mendukung praktik mengajar berbasis data. Kedua, literatur
+Copyright © 2025 by Author(s) menyoroti tantangan etis berupa privasi data, bias algoritmik,
+dan kurangnya transparansi dalam pengambilan keputusan
+otomatis, sehingga menegaskan urgensi pembentukan
+This work is licensed under a
+( 134 )
+NonCommercial 4.0 International pedagogis integrasi AI menuntut pengembangan literasi AI
+License
+pada pendidik, perancangan ulang strategi pembelajaran,
+dan kesadaran kritis terhadap peran teknologi dalam
+membentuk praktik pendidikan. Sebagai respons atas
+fenomena tersebut, studi ini menegaskan perlunya model tata
+kelola AI dalam pendidikan yang berpusat pada manusia
+(human-centered governance model) dengan menempatkan
+nilai-nilai pedagogis, keadilan, dan otonomi guru sebagai
+fondasi utama. Implementasi model ini mencakup tiga
+strategi: (1) integrasi literasi etika-AI dalam kurikulum
+pendidikan guru agar mereka mampu menilai dan memandu
+penggunaan teknologi secara kritis; (2) kolaborasi lintas
+disiplin antara pendidik, pengembang teknologi, dan pembuat
+kebijakan untuk merumuskan panduan etik yang kontekstual;
+serta (3) penguatan riset empiris berbasis lokal untuk
+memastikan penerapan AI selaras dengan kebutuhan sosial,
+budaya, dan pendidikan di tingkat akar rumput. Dengan
+pendekatan ini, AI tidak hanya dipahami sebagai inovasi
+teknologi, melainkan juga sebagai instrumen reflektif untuk
+merumuskan ulang pedagogi, etika, dan tata kelola ekosistem
+pembelajaran digital yang berkeadilan dan berkelanjutan.
+KATA KUNCI:
+Pedagogis, Analitik Pembelajaran, Tinjauan Sistematis
+ABSTRACT:
+The rapid integration of Artificial Intelligence (AI) into
+education presents both opportunities and challenges that
+demand critical examination of its pedagogical values, ethical
+implications, and transformative impact. This study employs a
+framework to analyze fifteen Scopus-indexed articles
+published between 2020 and 2025, systematically retrieved
+from major academic databases. The findings identify three
+major themes. First, AI offers substantial pedagogical
+opportunities through adaptive learning, personalized
+feedback, and automated assessment, collectively enhancing
+student engagement and supporting data-driven teaching
+practices. Second, the literature highlights ethical challenges
+such as data privacy, algorithmic bias, and the lack of
+( 135 )
+transparency in automated decision-making, emphasizing the
+urgency of establishing robust ethical frameworks and
+governance mechanisms. Third, the pedagogical implications
+of AI integration call for the development of AI literacy among
+educators, the redesign of learning strategies, and critical
+awareness of technology’s role in shaping educational
+practice. In response to these issues, this study argues for the
+establishment of a human-centered AI governance model in
+education, grounded in pedagogical values, equity, and
+teacher autonomy. The proposed solution involves three
+interrelated strategies: (1) integrating ethical-AI literacy into
+teacher education curricula to foster critical and responsible
+use of technology; (2) promoting cross-disciplinary
+collaboration among educators, technologists, and
+policymakers to develop contextually grounded ethical
+guidelines; and (3) strengthening empirical, locally grounded
+research to ensure AI implementation aligns with socio-
+cultural and educational realities. Through this framework, AI
+is not merely viewed as a technological innovation, but as a
+reflective instrument to reframe pedagogy, ethics, and
+governance toward a more just and sustainable digital
+learning ecosystem.
+KEYWORD:
+Review
+PENDAHULUAN
+membawa dampak signifikan terhadap berbagai sektor, termasuk pendidikan. Kehadiran
+AI memperkenalkan sistem adaptif, analitik pembelajaran prediktif, serta teknologi
+berbasis kecerdasan mesin yang memungkinkan intervensi lebih cepat dan tepat dalam
+proses belajar (Kabudi et al., 2021). Perubahan ini mencerminkan transformasi sosial di
+mana teknologi digital tidak lagi sekadar alat bantu, tetapi menjadi instrumen strategis
+yang memengaruhi cara siswa belajar, guru mengajar, dan institusi merancang kurikulum
+(Timotheou et al., 2023). Dengan potensi AI yang begitu besar di era teknologi dapat
+dimanfaatkan menjadi peluang dalam meningkatkan kualitas pembelajaran meskipun
+memunculkan risiko etis yang kompleks.
+Studi-studi sebelumnya menegaskan bahwa AI memiliki potensi besar dalam mendukung
+personalisasi pembelajaran, meningkatkan keterlibatan siswa, dan memperkuat akses
+( 136 )
+pendidikan bagi kelompok dengan kebutuhan khusus (Bayly-Castaneda et al., 2024).
+Studi lain juga mengidentifikasi sejumlah persoalan etis, seperti privasi data, bias
+algoritmik, serta tantangan integritas akademik akibat generative AI (Ye et al., 2024).
+Selanjutnya, kajian mengenai implikasi pedagogis menunjukkan bahwa integrasi AI
+menuntut kesiapan guru, desain asesmen baru, serta literasi AI dalam kurikulum (S. Wang
+et al., 2024). Meskipun studi-studi sebelumnya memberi kontribusi penting, namun telaah
+sistematis dalam satu kerangka yang komprehensif yang menyatukan tiga konteks
+opportunities, ethical issues, dan pedagogical implications belum cukup memuaskan.
+Dengan demikian, studi ini dilakukan untuk melengkapi kesenjangan tersebut.
+Studi ini bertujuan untuk melakukan kajian literatur sistematis mengenai penerapan
+AI dalam pendidikan dengan menyoroti tiga aspek utama: peluang strategis, persoalan
+etis, dan implikasi pedagogis. Dengan pendekatan Systematic Literature Review (SLR)
+berbasis artikel jurnal terindeks Scopus pada periode 2020-2025, studi ini berusaha
+menyajikan pemetaan tren temuan, mengidentifikasi kesenjangan, dan memberikan
+sintesis yang lebih mendalam untuk melengkapi studi-studi sebelumnya. Fokus pada
+ketiga konteks ini diharapkan dapat membantu akademisi, praktisi, dan pembuat
+kebijakan memahami secara lebih utuh bagaimana AI memengaruhi ekosistem
+pendidikan.
+Studi ini berangkat dari asumsi dasar bahwa integrasi AI dalam pendidikan
+merupakan fenomena dialektis yang tidak hanya menghadirkan inovasi teknologi, tetapi
+juga merekonstruksi norma etis dan praktik pedagogis. Dengan kata lain, keberhasilan
+pemanfaatan AI dalam berbagai aspek kehidupan, khususnya di sektor pendidikan, tidak
+semata bergantung pada kecanggihan teknologi yang digunakan, melainkan juga pada
+sejauh mana isu-isu etis dapat ditangani serta pada kemampuan kurikulum dan
+kompetensi guru untuk beradaptasi. Argumen ini menegaskan bahwa AI dalam
+pendidikan harus dipahami bukan hanya sebagai technological adoption, tetapi sebagai
+proses transformasi sistemik yang secara simultan melibatkan dimensi sosial, etis, dan
+pedagogis.
+pembelajaran yang lebih personal dan efisien. AI memungkinkan personalisasi
+pembelajaran melalui sistem rekomendasi berbasis data, analisis prediktif, dan chatbot
+cerdas yang dapat menganalisis gaya belajar individual dan menyesuaikan materi ajar
+sesuai kebutuhan masing-masing siswa (Labadze et al., 2023). Teknologi ini sangat
+bermanfaat bagi anak berkebutuhan khusus dengan menyediakan materi pembelajaran
+adaptif, alat bantu komunikasi, sistem penilaian otomatis, dan identifikasi dini kebutuhan
+pendidikan khusus (Kooli & Chakraoui, 2025). AI juga mengotomatisasi tugas
+administratif, menciptakan pengalaman belajar adaptif, dan memberikan umpan balik
+yang cepat dan tepat (Merino-Campos, 2025). Implementasi AI dapat berperan sebagai
+sistem tutor, intelligent tutee, alat pembelajaran, dan panduan kebijakan pendidikan,
+( 137 )
+meskipun masih memerlukan bimbingan langsung untuk aspek etika (Caccavale et al.,
+2024).
+AI sedang merevolusi pendidikan dengan mengubah metode pembelajaran
+tradisional dan menawarkan solusi inovatif di berbagai bidang. AI memberikan tiga
+keunggulan utama: pengalaman pembelajaran yang dipersonalisasi, optimasi tugas
+administratif, dan evaluasi kinerja yang cerdas (Garzón et al., 2025). Aplikasi saat ini
+meliputi sistem pembelajaran adaptif, sistem bimbingan cerdas, platform pembelajaran
+yang dipersonalisasi, sistem penilaian otomatis, dan analitik pendidikan (du Plooy et al.,
+2024). Teknologi ini memungkinkan pendidik untuk mengambil keputusan berbasis data
+sambil meningkatkan keterlibatan siswa dan peluang belajar (Paolucci et al., 2024). AI
+memungkinkan fleksibilitas dan kustomisasi yang belum pernah terjadi sebelumnya
+dalam pendidikan, sehingga memudahkan pekerjaan pendidik (Bhutoria, 2022). Namun,
+implementasinya menghadapi tantangan signifikan termasuk masalah etika, privasi data,
+bias algoritmik, pertimbangan keadilan, dan pertanyaan tentang ketergantungan pada
+pendidik manusia (Akgun & Greenhow, 2021).
+Masalah etika dalam pendidikan dan penelitian berpusat pada prinsip keadilan,
+integritas, dan penghormatan terhadap hak dan martabat individu (Atenas et al., 2023).
+Dalam konteks pendidikan, salah satu masalah etika utama adalah perlakuan yang adil
+bagi semua siswa, memastikan bahwa tidak ada kelompok yang dirugikan berdasarkan
+gender, ras, status sosial-ekonomi, atau disabilitas (Iniesto & Bossu, 2023). Guru dan
+administrator harus menciptakan lingkungan yang mendukung inklusi dan penghormatan,
+juga menangani bias dan ketidaksetaraan sistemik yang dapat memengaruhi hasil belajar
+siswa (Batruch et al., 2023). Selain itu, penggunaan data dan penilaian dalam lingkungan
+pendidikan menimbulkan pertanyaan etika terkait privasi, persetujuan, dan potensi
+penyalahgunaan informasi pribadi (L. Wang & Liang, 2025). Guru dan peneliti harus
+menavigasi keseimbangan yang rumit antara pengumpulan data untuk perbaikan
+pendidikan dan penghormatan terhadap kerahasiaan siswa dan keluarganya (Alfredo et
+al., 2024). Pengambilan keputusan etis menjadi sangat kritis saat membuat pilihan tentang
+pemantauan kinerja siswa atau penggunaan ujian berisiko tinggi untuk menentukan
+peluang masa depan.
+Dalam beberapa penelitian, isu etika menonjol terutama terkait perlakuan terhadap
+peserta, integritas data, dan transparansi hasil penelitian. Peneliti harus mematuhi standar
+etika yang ketat untuk mencegah pelanggaran etika seperti plagiarisme, pemalsuan data,
+atau penyajian hasil yang menyesatkan (Zhaksylyk et al., 2023). Selain itu, masalah
+persetujuan yang terinformasi sangat penting dalam penelitian pendidikan, terutama saat
+bekerja dengan populasi rentan, seperti anak di bawah umur atau individu dari komunitas
+terpinggirkan (Alotaibi, 2024). Peneliti diwajibkan untuk memberikan informasi lengkap
+kepada peserta tentang sifat penelitian dan memperoleh persetujuan mereka tanpa
+paksaan. Pertimbangan etika juga berlaku dalam penerapan hasil penelitian, memastikan
+bahwa hasil tersebut digunakan secara bertanggung jawab dan tidak memperburuk
+( 138 )
+kerugian atau menyesatkan kebijakan publik (Mollen, 2024). Tanggung jawab etika baik
+bagi pendidik maupun peneliti terletak pada kemampuan mereka untuk mempromosikan
+keadilan, transparansi, dan akuntabilitas dalam praktik profesional mereka, yang pada
+akhirnya memastikan kesejahteraan semua individu yang terlibat (Yan et al., 2024).
+Implikasi pedagogis merujuk pada konsekuensi praktis dan strategi yang harus
+dipertimbangkan oleh pendidik saat menerapkan teori pembelajaran, temuan penelitian,
+dan praktik pengajaran di kelas (Moldavan et al., 2022). Implikasi ini dipengaruhi oleh
+kombinasi faktor kognitif, sosial, dan budaya, serta perkembangan teknologi pendidikan
+(Alshammari & Alrehaili, 2025). Integrasi pembelajaran aktif, pendekatan berpusat pada
+siswa, dan penekanan pada keterampilan berpikir kritis telah mendorong pendidik untuk
+mempertimbangkan kembali metode pembelajaran tradisional. Misalnya, pergeseran dari
+model terpusat pada guru ke model yang memprioritaskan keterlibatan dan kolaborasi
+siswa telah dikaitkan dengan peningkatan hasil belajar (Woods & Copur-Gencturk,
+2024). Penelitian Rittmann & Mpofu (2024), menunjukkan bahwa ketika guru
+menciptakan lingkungan yang mendorong eksplorasi, diskusi, dan pemecahan masalah,
+siswa lebih mampu mengingat informasi dan menerapkannya dalam konteks dunia nyata.
+Selain itu, implikasi pedagogis sangat dipengaruhi oleh pengakuan yang semakin
+meningkat terhadap kebutuhan belajar yang beragam, termasuk kebutuhan siswa dengan
+disabilitas, tingkat kemahiran bahasa yang bervariasi, dan latar belakang budaya yang
+berbeda (Jackson-Summers et al., 2024). Pedagogi yang efektif mengharuskan pendidik
+untuk menyesuaikan metode mereka agar dapat memenuhi kebutuhan yang beragam ini
+sambil mempromosikan inklusi (Langelaan et al., 2024). Kemajuan terbaru dalam
+instruksi yang dibedakan, penilaian formatif, dan pembelajaran yang dipersonalisasi telah
+memperluas alat yang tersedia bagi guru untuk menyesuaikan pendekatan mereka
+(Jufrianto et al., 2025). Seiring dengan peran teknologi yang semakin signifikan dalam
+pendidikan, pendidik harus mempertimbangkan bagaimana alat digital dapat mendukung
+atau menghambat pembelajaran siswa. Penggunaan sistem manajemen pembelajaran,
+platform kolaborasi online, dan perangkat lunak pendidikan interaktif telah menyoroti
+pentingnya literasi digital sebagai kompetensi inti dalam pedagogi modern (Bach & Thiel,
+2024). Oleh karena itu, implikasi pedagogis tidak bersifat statis, melainkan berkembang
+seiring dengan penelitian yang sedang berlangsung, perkembangan teknologi, dan sifat
+dinamis populasi siswa.
+METODE
+Unit analisis studi ini yaitu artikel-artikel ilmiah yang membahas penerapan
+peluang (opportunities), isu etis (ethical issues), dan implikasi pedagogis (pedagogical
+implications). Artikel yang dianalisis terdiri dari lima artikel disetiap konteks yang
+mencakup publikasi peer-reviewed dalam jurnal internasional terindeks Scopus pada
+periode 2020-2025. Pemilihan periode ini didasarkan pada pertimbangan relevansi dan
+( 139 )
+kemutakhiran literatur, mengingat perkembangan teknologi AI dalam pendidikan
+mengalami akselerasi pesat dalam lima tahun terakhir.
+Studi ini menggunakan pendekatan Systematic Literature Review (SLR) yang
+mengacu pada panduan Preferred Reporting Items for Systematic Reviews and Meta-
+Analyses (PRISMA). Pendekatan ini dipilih karena mampu menyajikan gambaran
+komprehensif mengenai tren penelitian sekaligus mengidentifikasi pola temuan dalam
+literatur yang relevan. Tahapan SLR meliputi identifikasi, seleksi, penyaringan, dan
+analisis data dari artikel-artikel yang sesuai dengan kriteria inklusi, yaitu membahas AI
+dalam konteks pendidikan formal dan non-formal serta mengaitkan dengan setiap konteks
+analisis.
+Data yang digunakan dalam studi ini yaitu data sekunder berupa publikasi ilmiah.
+Artikel yang menjadi sampel studi dipilih dari database Scopus dengan kriteria: (1) ditulis
+dalam bahasa Inggris, (2) terbit pada rentang waktu tahun 2020-2025, (3) isi artikel fokus
+pada integrasi AI dalam pendidikan, dan (4) relevan dengan dimensi peluang, isu etis,
+dan implikasi pedagogis. Artikel berupa prosiding atau non peer-reviewed dikecualikan
+untuk menjaga kualitas dan validitas analisis. Hasil seleksi kemudian menghasilkan lima
+artikel yang mewakili tiga konteks fokus studi untuk dianalisis secara tematik.
+Proses pengumpulan data dalam studi ini dilakukan melalui pencarian sistematis
+pada database Scopus dengan menggunakan kombinasi kata kunci: Artificial Intelligence
+in Education, Opportunities, Ethical Issues, dan Pedagogical Implications. Pencarian
+awal menghasilkan sejumlah artikel yang kemudian disaring berdasarkan judul, abstrak,
+dan kata kunci untuk menghapus duplikasi dan artikel yang tidak relevan sehingga
+kemudian dipilih lima artikel disetiap konteks fokus studi untuk dijadikan bahan analisis.
+Setelah penyaringan, artikel yang memenuhi kriteria inklusi diunduh dalam bentuk teks
+lengkap kemudian dibaca untuk menemukan relevansi artikel pada fokus studi untuk
+tahap analisis lebih lanjut.
+Data yang terkumpul selanjutnya dianalisis secara tematik dengan pendekatan
+deduktif, mengacu pada penjelasan Proudfoot (2023), dengan membagi pada tiga kategori
+utama hasil penelitian: peluang, isu etis, dan implikasi pedagogis. Setiap artikel
+dikodekan untuk mengidentifikasi temuan kunci yang relevan dengan kategori tersebut,
+kemudian disintesis dalam bentuk tabel ringkasan (Tabel 1, Tabel 2, dan Tabel 3).
+Analisis ini memungkinkan perbandingan lintas studi serta identifikasi pola konsistensi
+maupun perbedaan temuan dalam literatur. Hasil sintesis menjadi dasar dalam menyusun
+bagian Results dan memperkuat argumen dalam Discussion terkait bagaimana AI dalam
+pendidikan dipahami dari perspektif inovasi, etika, dan pedagogi.
+HASIL PENELITIAN DAN PEMBAHASAN
+Peluang AI dalam Pendidikan (Opportunities)
+Hasil kajian literatur menunjukkan bahwa penerapan Artificial Intelligence (AI)
+dalam pendidikan memberikan sejumlah peluang strategis yang signifikan. Studi-studi
+( 140 )
+terkini secara konsisten menegaskan bahwa AI berperan dalam meningkatkan efektivitas
+proses belajar, memperluas akses, serta memperkaya pengalaman belajar siswa. Temuan
+utama terkait konteks ini dapat dikategorikan pada aspek personalisasi pembelajaran,
+dukungan asesmen, optimalisasi analitik pembelajaran, dan peningkatan inklusivitas
+pendidikan. Konteks tersebut ditunjukkan dalam lima artikel dalam tabel berikut:
+Tabel 1. Ringkasan Temuan Sistematis tentang AI dalam Pendidikan
+Opportunities AI meningkatkan personalisasi Artificial intelligence in intelligent
+pembelajaran dan keterlibatan tutoring systems toward sustainable
+siswa melalui sistem adaptif. education: a systematic review
+00260-y
+(ITS) terbukti meningkatkan the Student's Learning Outcome Based
+pencapaian akademik dibanding on Online Learning Activities
+pembelajaran tradisional.
+Learning analytics prediktif Recent advances in Predictive
+mampu mengidentifikasi siswa Learning Analytics: A decade
+berisiko dengan akurasi tinggi. systematic review (2012–2022)
+11536-0
+AI memfasilitasi automated Evaluating the student performance
+feedback yang mempercepat prediction and action framework
+siklus umpan balik formatif. through a learning analytics
+intervention study
+12923-5
+Alat AI inklusif (text-to-speech, Inclusive education through
+screen readers) memperkuat technology: a systematic review of
+akses pendidikan untuk siswa types, tools and characteristics
+berkebutuhan khusus.
+( 141 )
+Tabel 1 di atas memperlihatkan bahwa penerapan AI dalam pendidikan telah
+menghasilkan berbagai peluang nyata yang berdampak langsung pada kualitas
+pembelajaran. Studi-studi mutakhir menegaskan bahwa AI berkontribusi dalam
+memfasilitasi personalisasi pembelajaran melalui sistem adaptif, meningkatkan hasil
+akademik melalui Intelligent Tutoring Systems (ITS), serta memperkuat peran learning
+analytics prediktif untuk mengidentifikasi siswa berisiko. Selain itu, AI juga
+memungkinkan umpan balik otomatis yang lebih cepat dalam mendukung perbaikan
+belajar dan memperluas aksesibilitas bagi siswa dengan kebutuhan khusus melalui
+teknologi inklusif. Dengan demikian, temuan ini menegaskan bahwa AI bukan hanya
+memperkenalkan inovasi teknologi, tetapi juga berperan sebagai instrumen strategis
+dalam menciptakan pembelajaran yang lebih efektif, responsif, dan inklusif.
+Lima artikel di atas menyajikan berbagai peluang yang ditawarkan oleh penerapan
+AI dalam pendidikan, meliputi personalisasi pembelajaran, penggunaan intelligent
+tutoring systems, analitik pembelajaran prediktif, pemberian umpan balik otomatis,
+hingga dukungan aksesibilitas bagi peserta didik dengan kebutuhan khusus. Setiap
+temuan dirangkum dari penelitian-penelitian dalam lima tahun terakhir yang menyoroti
+bagaimana AI diaplikasikan di berbagai konteks pendidikan. Dengan tampilan ringkas
+ini, tabel mempermudah pembaca dalam memahami tren utama yang berkembang
+sekaligus membandingkan kontribusi berbeda dari setiap studi
+Selain membuka peluang, pemanfaatan AI dalam pendidikan juga menimbulkan
+beragam persoalan etis yang tidak dapat diabaikan. Literatur terbaru menekankan bahwa
+keberhasilan adopsi AI sangat dipengaruhi oleh sejauh mana isu-isu seperti privasi data,
+bias algoritmik, integritas akademik, transparansi sistem, hingga kerangka tata kelola
+dapat dikelola secara memadai. Hasil kajian ini memperlihatkan bahwa tanpa penanganan
+etis yang tepat, penerapan AI berisiko memperlebar kesenjangan serta mengurangi
+kepercayaan guru, siswa, dan lembaga pendidikan terhadap teknologi tersebut. Konteks
+tersebut dijelaskan pada artikel-artikel dalam tabel berikut:
+Tabel 2. Ringkasan Temuan Sistematis tentang Isu Etis AI dalam Pendidikan
+Issues data siswa menjadi isu analytics: Model development
+utama dalam penerapan
+AI di sekolah maupun 
+perguruan tinggi.
+( 142 )
+Bias algoritmik dapat Navigating the ethical terrain of AI in
+memperkuat education: A systematic review on framing
+ketidakadilan dalam responsible human-centered AI practices
+akses pendidikan.
+Generative AI A comprehensive AI policy education
+menimbulkan masalah framework for university teaching and
+baru terkait integritas learning
+akademik (plagiarisme
+dan orisinalitas tugas). 
+Black-box AI mengurangi Ethical principles for artificial intelligence
+kepercayaan karena in education
+minimnya explainability
+bagi guru dan siswa. 
+Belum ada kerangka Towards responsible artificial intelligence
+regulasi maupun in education: a systematic review on
+pedoman tata kelola yang identifying and mitigating ethical risks
+konsisten di lembaga
+pendidikan dalam 
+mengoperasionalkan AI. 6
+Tabel 2 menggambarkan beragam isu etis yang muncul dari pemanfaatan AI dalam
+pendidikan. Temuan literatur memperlihatkan bahwa teknologi ini masih diwarnai
+problem mendasar, seperti kerentanan data pribadi siswa, ketidakadilan akibat algoritme
+yang bias, serta kesulitan memastikan keaslian karya akademik di tengah kemunculan
+generative AI. Di samping itu, keterbatasan transparansi sistem berbasis AI mengurangi
+tingkat kepercayaan pengguna, sementara itu kurangnya kerangka regulasi yang jelas
+membuat pengoperasian AI berjalan tanpa standar yang konsisten. Dengan demikian,
+persoalan etis yang tercatat dalam literatur ini menegaskan pentingnya penyusunan
+kebijakan dan tata kelola yang mampu menjamin perlindungan, keadilan, serta tanggung
+jawab dalam penerapan AI di lingkungan pendidikan.
+Lima artikel di atas menegaskan bahwa penggunaan AI dalam pendidikan tidak
+hanya membawa manfaat, tetapi juga menghadirkan sejumlah persoalan etis yang perlu
+diperhatikan secara serius. Studi-studi terkini menunjukkan bahwa isu dominan
+mencakup kekhawatiran terhadap privasi dan keamanan data siswa, risiko bias algoritmik
+( 143 )
+yang dapat memperkuat ketidakadilan, serta masalah transparansi dan akuntabilitas dalam
+pengambilan keputusan berbasis AI. Selain itu, tantangan terkait ketergantungan
+berlebihan pada teknologi dan potensi pengurangan peran guru juga menjadi perhatian
+penting. Temuan ini menekankan bahwa keberhasilan integrasi AI di sektor pendidikan
+sangat bergantung pada kemampuan institusi dan pembuat kebijakan dalam
+menyeimbangkan inovasi dengan prinsip etika yang melindungi kepentingan peserta
+didik dan memastikan keadilan dalam proses pembelajaran.
+Hasil sintesis sistematis mengungkap sejumlah implikasi pedagogis yang muncul
+dari integrasi kecerdasan buatan AI dalam pendidikan. Temuan-temuan yang dihimpun
+dari literatur terkini menegaskan bahwa aspek kesiapan guru, desain asesmen, serta
+literasi AI dalam kurikulum merupakan faktor strategis yang menentukan efektivitas
+pemanfaatan teknologi ini. Selain itu, bukti empiris menunjukkan adanya potensi
+ambivalensi, di mana AI dapat berkontribusi pada perluasan akses maupun justru
+memperdalam kesenjangan pendidikan. Dengan demikian, temuan yang teridentifikasi
+tidak hanya menyoroti kebutuhan pembaruan kurikulum yang lebih adaptif, tetapi juga
+menekankan pentingnya pengembangan praktik pedagogis yang kritis dan berlandaskan
+etika. Konteks tersebut terlihat dalam lima artikel pada tabel berikut:
+Tabel 3. Ringkasan Temuan Sistematis tentang Implikasi
+Pedagogis AI dalam Pendidikan
+Implications guru menentukan systematic review of types, tools and
+keberhasilan integrasi characteristics
+AI.
+Desain asesmen perlu Predictive learning analytics in online
+menekankan penilaian education: A deeper understanding through
+formatif dan explaining algorithmic errors
+keterampilan tingkat
+tinggi, bukan sekadar 
+output teks.
+AI literacy penting AI literacy in K-12: a systematic literature
+dimasukkan dalam review
+kurikulum lintas jenjang
+pendidikan. 
+( 144 )
+AI berpotensi Advancing equity and inclusion in
+mempersempit atau educational practices with AI-powered
+memperlebar educational decision support systems (AI-
+kesenjangan pendidikan, EDSS)
+tergantung konteks akses
+dan kebijakannya. 
+Kurikulum perlu Artificial intelligence literacy for
+diperbarui dengan technology education
+menekankan evaluasi
+kritis dan penggunaan 
+etis AI.
+Tabel 3 menegaskan bahwa keberhasilan integrasi AI dalam pendidikan sangat
+bergantung pada kesiapan dan pelatihan guru, yang menjadi faktor kunci dalam
+efektivitas penerapan teknologi tersebut. Desain asesmen perlu difokuskan pada penilaian
+formatif dan pengembangan keterampilan berpikir tingkat tinggi, bukan hanya pada
+output teks. Selain itu, literasi AI harus diintegrasikan ke dalam kurikulum lintas jenjang
+pendidikan untuk membekali peserta didik dengan kemampuan adaptif terhadap
+kemajuan teknologi. AI memiliki potensi ambivalen, yaitu dapat memperluas kesempatan
+belajar sekaligus berisiko memperdalam kesenjangan pendidikan, tergantung pada akses
+dan kebijakan yang diterapkan. Dengan demikian, pembaruan kurikulum yang
+menekankan evaluasi kritis serta penggunaan AI secara etis menjadi sangat penting untuk
+memastikan praktik pedagogis yang efektif, inklusif, dan berkelanjutan.
+Lima artikel di atas menunjukkan bahwa implementasi AI dalam konteks
+pendidikan menuntut kesiapan yang matang dari para pendidik, baik dalam hal
+pengetahuan teknis maupun strategi pedagogis. Desain asesmen harus mengutamakan
+pengembangan keterampilan berpikir kritis dan evaluasi formatif, sehingga teknologi
+tidak sekadar menjadi alat untuk menghasilkan output teks. Memasukkan literasi AI ke
+dalam kurikulum juga menjadi penting agar peserta didik mampu memahami dan
+memanfaatkan teknologi secara efektif. Temuan ini juga mengungkap adanya
+ketimpangan potensial, akses dan kebijakan yang berbeda dapat memperlebar atau
+mempersempit kesenjangan pendidikan. Oleh karena itu, penyesuaian kurikulum dan
+praktik pembelajaran yang menekankan pemikiran kritis serta etika penggunaan AI
+menjadi langkah strategis untuk mewujudkan integrasi teknologi yang adil dan
+berkelanjutan.
+Pendidikan
+( 145 )
+Temuan studi kajian literatur ini menegaskan bahwa integrasi Artificial Intelligence
+(AI) dalam pendidikan merupakan fenomena dialektis yang menghadirkan peluang
+strategis sekaligus tantangan etis dan pedagogis (Holmes et al., 2022). Dari sisi peluang,
+hasil sintesis menunjukkan bahwa AI berperan signifikan dalam memperkuat
+personalisasi pembelajaran, mendukung asesmen formatif, serta memperluas akses
+pendidikan melalui teknologi inklusif. Hal tersebut juga sejalan dengan penelitian
+sebelumnya yang menunjukkan AI sebagai instrumen strategis dalam meningkatkan
+kualitas pembelajaran. Namun, temuan lain juga menunjukkan resiko etis berupa privasi
+data, bias algoritmik, hingga problem integritas akademik. Kompleksitas ini
+memperlihatkan bahwa AI tidak dapat dipahami semata sebagai teknologi, tetapi sebagai
+medium yang berpengaruh bagi relasi sosial, regulasi etis, dan desain pedagogi (Sharples,
+2023).
+Peluang yang ditawarkan AI memperlihatkan pergeseran paradigma fundamental
+dalam praktik pembelajaran. Sistem adaptif dan intelligent tutoring systems (ITS) mampu
+menghadirkan personalisasi pembelajaran dalam skala yang sebelumnya sulit dicapai
+dalam ruang kelas konvensional (Fernández-Herrero, 2024). Analitik pembelajaran
+prediktif juga terbukti efektif dalam mengidentifikasi siswa berisiko dan mendukung
+intervensi yang lebih cepat (Azizah et al., 2024). Selain itu, teknologi berbasis AI seperti
+text-to-speech dan screen readers memperkuat inklusivitas pendidikan dengan membuka
+akses bagi peserta didik berkebutuhan khusus (Andrade-Hidalgo et al., 2024). Dengan
+demikian, AI dapat dipandang sebagai media transformasi sistem pendidikan menuju
+model yang lebih responsif, adaptif, dan inklusif jika distribusi akses teknologi
+memperoleh pemantauan yang ketat.
+Meskipun demikian, isu etis yang muncul menunjukkan bahwa inovasi teknologi
+selalu dibayangi dilema moral (Stahl & Eke, 2024). Kerentanan data pribadi siswa
+menimbulkan persoalan serius terkait keamanan informasi, sementara bias algoritmik
+berisiko memperkuat ketidakadilan sosial dalam distribusi kesempatan belajar (Parambil
+et al., 2024). Kemunculan generative AI juga menambah kompleksitas baru dalam
+menjaga integritas akademik, seperti plagiarisme dan orisinalitas karya ilmiah (Cotton et
+al., 2024). Selain itu, keterbatasan transparansi sistem black-box AI telah menyebabkan
+kekhawatiran pada legitimasi teknologi bagi guru dan siswa, tidak adanya kerangka tata
+kelola yang konsisten di lembaga pendidikan akan memperburuk keadaan (Al-Zahrani,
+2024). Oleh karena itu, pemanfaatan AI dalam pendidikan harus diimbangi dengan
+mekanisme regulasi yang kuat, literasi etis, dan akuntabilitas yang jelas agar inovasi tidak
+berujung pada marginalisasi.
+Implikasi pedagogis yang teridentifikasi dalam literatur memperlihatkan bahwa
+keberhasilan integrasi AI tidak hanya ditentukan oleh kecanggihan teknologi, melainkan
+juga kesiapan guru dalam merespons perubahan. Guru dituntut memiliki keterampilan
+baru untuk mengoperasikan teknologi AI dan mengadaptasikan strategi pembelajaran
+secara kritis dan bukan sekadar menggunakannya secara kosmetik (Sperling et al., 2024).
+( 146 )
+Lebih lanjut, AI mendorong pergeseran paradigma asesmen dari sekadar mengukur hasil
+akhir menjadi penilaian formatif yang menekankan keterampilan berpikir kritis (Zhai &
+Nehm, 2023). Transformasi ini menegaskan bahwa AI tidak hanya melengkapi praktik
+pedagogis yang ada, melainkan berpotensi merekonstruksi fondasi epistemologis
+pendidikan (Fu et al., 2024).
+Selain keterampilan teknis, literasi AI menjadi kebutuhan penting untuk
+diintegrasikan ke dalam kurikulum lintas jenjang di sektor pendidikan (Southworth et al.,
+2023). Literasi ini tidak hanya berorientasi pada kemampuan menggunakan perangkat
+berbasis AI, tetapi juga pada pengembangan kesadaran kritis mengenai dampak etis dan
+sosial dari penggunaannya (Almatrafi et al., 2024). Dengan literasi yang cukup terhadap
+AI, peserta didik tidak sekadar menjadi pengguna pasif, namun juga berperan aktif yang
+mampu menilai potensi risiko dan peluang teknologi dalam konteks akademik maupun
+kehidupan sosial (Pinski & Benlian, 2024). Dengan demikian, hal tersebut akan
+berdampak pada penyusunan kurikulum yang tidak hanya adaptif terhadap perkembangan
+teknologi, tetapi juga transformatif dalam membentuk etika, kritis, dan bertanggung
+jawab bagi pengguna teknologi.
+Secara keseluruhan, studi ini menegaskan bahwa AI dalam pendidikan merupakan
+ruang dialektis antara inovasi, etika, dan pedagogi. Peluang besar yang ditawarkan AI
+hanya akan tercapai jika dioperasionalkan menggunakan tata kelola yang etis, distribusi
+akses yang adil, serta pembaruan pedagogis yang komprehensif (Aler Tubella et al.,
+2024). Dengan demikian, penelitian ke depan perlu mengeksplorasi model implementasi
+AI yang bersifat kontekstual, menghubungkan aspek teknis dengan regulasi pendidikan
+dan praktik pedagogis. Pendekatan lintas disiplin sangat diperlukan untuk memastikan
+bahwa AI bukan hanya instrumen teknologi, tetapi juga agen transformasi sistem
+pendidikan yang mampu menyeimbangkan inovasi dengan tanggung jawab sosial dan
+etika (Bond et al., 2024).
+KESIMPULAN
+Studi literatur sistematis ini menegaskan bahwa penerapan AI dalam pendidikan
+telah memunculkan peluang strategis sekaligus tantangan yang kompleks. Dari sisi
+peluang, AI terbukti berkontribusi pada personalisasi pembelajaran, peningkatan capaian
+akademik melalui sistem tutoring cerdas, optimalisasi analitik pembelajaran prediktif,
+serta perluasan akses pendidikan yang lebih inklusif. Namun, peluang tersebut
+menyebabkan beberapa masalah etis, termasuk privasi data, bias algoritmik, transparansi
+sistem, serta problem integritas akademik. Selain itu, studi ini juga menunjukkan
+implikasi pedagogis yang signifikan, seperti kebutuhan literasi AI, pelatihan guru, serta
+pembaruan kurikulum agar mampu mengakomodasi penggunaan AI secara kritis dan etis.
+Hasil studi ini menunjukkan bahwa integrasi AI dalam pendidikan tidak dapat
+dipandang hanya sebagai inovasi teknologi, tetapi harus dipahami sebagai proses
+transformasi sistemik yang menyentuh aspek sosial, etis, dan pedagogis. Implikasi
+( 147 )
+praktisnya yaitu dengan meninjau pentingnya kesiapan guru dalam mengintegrasikan AI
+secara profesional, pengembangan asesmen yang lebih menekankan keterampilan
+berpikir kritis, serta penyusunan kebijakan tata kelola yang mampu menjamin
+perlindungan data, keadilan, dan akuntabilitas penggunaan AI. Dengan demikian,
+keberhasilan AI dalam pendidikan bergantung pada keseimbangan antara inovasi dan
+tanggung jawab etis, serta kemampuan institusi untuk memastikan kesetaraan akses
+teknologi.
+Meskipun studi ini menjelaskan berbagai masalah AI yang kompleks, studi ini
+memiliki keterbatasan karena hanya memfokuskan pada literatur yang terindeks Scopus
+yang terbit dalam periode 2020-2025, sehingga potensi kontribusi dari sumber lain di luar
+cakupan ini belum sepenuhnya terakomodasi. Oleh karena itu, penelitian mendatang
+disarankan untuk mengeksplorasi data longitudinal maupun pendekatan empiris lintas
+negara guna memahami variasi konteks penerapan AI dalam pendidikan. Penelitian
+selanjutnya juga perlu menjelaskan bagaimana model tata kelola AI yang lebih
+kontekstual, termasuk integrasi literasi AI dalam kurikulum nasional serta dampaknya
+terhadap kesenjangan sosial. Dengan melengkapi aspek tersebut, kajian tentang AI dalam
+pendidikan akan semakin komprehensif dan mampu memberikan kontribusi nyata
+terhadap arah kebijakan dan praktik pendidikan global di era digital.
+Akgun, S., & Greenhow, C. (2021). Artificial intelligence in education: Addressing
+ethical challenges in K?12 settings. AI and Ethics, 2(3), 431–440.
+Al-Zahrani, A. M. (2024). Unveiling the shadows: Beyond the hype of AI in education.
+Heliyon, 10(9), e30696. 
+AI in Higher Education: challenges and opportunities. Ethics and Information
+Technology, 26(1), 1–14. 
+Alfredo, R., Echeverria, V., Jin, Y., Yan, L., Swiecki, Z., Gašević, D., & Martinez-
+Maldonado, R. (2024). Human-centred learning analytics and AI in education: A
+systematic literature review. Computers and Education: Artificial Intelligence,
+6(December 2023). 
+Almatrafi, O., Johri, A., & Lee, H. (2024). A systematic review of AI literacy
+conceptualization, constructs, and implementation and assessment efforts (2019–
+2023). Computers and Education Open, 6(March), 100173.
+Alotaibi, T. S. (2024). Ethical Challenges with the Informed Consent Process in Pediatric
+Alshammari, S. H., & Alrehaili, T. A. (2025). The effect of teaching, social, and cognitive
+( 148 )
+presence on student engagement in online courses: a structural equation modelling
+approach. Acta Psychologica, 258(February), 105183.
+Andrade-Hidalgo, G., Mio-Cango, P., & Iparraguirre-Villanueva, O. (2024). Exploring
+the Impact of Artificial Intelligence on Research Ethics - A Systematic Review.
+Journal of Academic Ethics, 2023. 
+Atenas, J., Havemann, L., & Timmermann, C. (2023). Reframing data ethics in research
+methods education: a pathway to critical data literacy. International Journal of
+00380-y
+Azizah, Z., Ohyama, T., Zhao, X., Ohkawa, Y., & Mitsuishi, T. (2024). Predicting at-risk
+students in the early stage of a blended learning course via machine learning using
+limited data. Computers and Education: Artificial Intelligence, 7(July), 100261.
+Bach, A., & Thiel, F. (2024). Collaborative online learning in higher education—quality
+of digital interaction and associations with individual and group-related factors.
+Frontiers in Education, 9(November), 1–12.
+Batruch, A., Geven, S., Kessenich, E., & van de Werfhorst, H. G. (2023). Are tracking
+recommendations biased? A review of teachers’ role in the creation of inequalities
+in tracking decisions. In Teaching and Teacher Education.
+Bayly-Castaneda, K., Ramirez-Montoya, M. S., & Morita-Alexander, A. (2024). Crafting
+personalized learning paths with AI for lifelong learning: a systematic literature
+review. Frontiers in Education, 9(August), 1–12.
+Bhutoria, A. (2022). Personalized education and Artificial Intelligence in the United
+States, China, and India: A systematic review using a Human-In-The-Loop model.
+Computers and Education: Artificial Intelligence, 3(January), 100068.
+Bond, M., Khosravi, H., De Laat, M., Bergdahl, N., Negrea, V., Oxley, E., Pham, P.,
+Chong, S. W., & Siemens, G. (2024). A meta systematic review of artificial
+intelligence in higher education: a call for increased ethics, collaboration, and
+rigour. International Journal of Educational Technology in Higher Education,
+21(1). 
+Caccavale, F., Gargalo, C. L., Gernaey, K. V., & Krühne, U. (2024). Towards Education
+4.0: The role of Large Language Models as virtual tutors in chemical engineering.
+Education for Chemical Engineers, 49(July), 1–11.
+Cotton, D. R. E., Cotton, P. A., & Shipway, J. R. (2024). Chatting and cheating: Ensuring
+( 149 )
+academic integrity in the era of ChatGPT. Innovations in Education and Teaching
+International. 
+du Plooy, E., Casteleijn, D., & Franzsen, D. (2024). Personalized adaptive learning in
+higher education: A scoping review of key characteristics and impact on academic
+performance and engagement. Heliyon, 10(21), e39630.
+Fernández-Herrero, J. (2024). Evaluating Recent Advances in Affective Intelligent
+Fu, Y., Weng, Z., & Wang, J. (2024). Examining AI Use in Educational Contexts: A
+Garzón, J., Patiño, E., & Marulanda, C. (2025). Systematic Review of Artificial
+Intelligence in Education: Trends, Benefits, and Challenges. Multimodal
+Technologies and Interaction, 9(8), 1–19. 
+Holmes, W., Porayska-Pomsta, K., Holstein, K., Sutherland, E., Baker, T., Shum, S. B.,
+Santos, O. C., Rodrigo, M. T., Cukurova, M., Bittencourt, I. I., & Koedinger, K. R.
+(2022). Ethics of AI in Education: Towards a Community-Wide Framework.
+Iniesto, F., & Bossu, C. (2023). Equity, diversity, and inclusion in open education: A
+systematic literature review. Distance Education.
+Jackson-Summers, A. G., Mrakovcich, K. L., Gray, J. P., Fleischmann, C. M., Emami,
+T., & Page, E. J. (2024). A systematic review of inclusive pedagogical research
+using the CIRTL inclusive pedagogy framework: multi-disciplinary and STEM
+perspectives, current trends and a research agenda. Discover Education, 3(1).
+Jufrianto, M., Basri, M., & Iskandar. (2025). A mixed-methods framework for assessing
+differentiated instruction implementation barriers in EFL secondary education
+contexts. MethodsX, 15(June), 103457. 
+Kabudi, T., Pappas, I., & Olsen, D. H. (2021). AI-enabled adaptive learning systems: A
+systematic mapping of the literature. Computers and Education: Artificial
+Intelligence. 
+Kooli, C., & Chakraoui, R. (2025). AI-driven assistive technologies in inclusive
+education: benefits, challenges, and policy recommendations. Sustainable Futures,
+10(June), 101042. 
+Labadze, L., Grigolia, M., & Machaidze, L. (2023). Role of AI chatbots in education:
+systematic literature review. International Journal of Educational Technology in
+( 150 )
+Langelaan, B. N., Gaikhorst, L., Smets, W., & Oostdam, R. J. (2024). Differentiating
+instruction: Understanding the key elements for successful teacher preparation and
+development. Teaching and Teacher Education, 140(May 2023), 104464.
+Merino-Campos, C. (2025). The Impact of Artificial Intelligence on Personalized
+Learning in Higher Education: A Systematic Review. Trends in Higher Education,
+4(2). 
+Moldavan, A. M., Edwards-Leis, C., & Murray, J. (2022). Design and pedagogical
+implications of a digital learning platform to promote well-being in teacher
+education. Teaching and Teacher Education.
+Mollen, J. (2024). Towards a research ethics of real-world experimentation with emerging
+technology. Journal of Responsible Technology, 20(October), 100098.
+Paolucci, C., Vancini, S., Bex, R. T., Cavanaugh, C., Salama, C., & de Araujo, Z. (2024).
+A review of learning analytics opportunities and challenges for K-12 education.
+Heliyon, 10(4), e25767. 
+Parambil, M. M. A., Rustamov, J., Ahmed, S. G., Rustamov, Z., Awad, A. I., Zaki, N., &
+Alnajjar, F. (2024). Integrating AI-based and conventional cybersecurity measures
+into online higher education settings: Challenges, opportunities, and prospects.
+Computers and Education: Artificial Intelligence, 7(June), 100327.
+Pinski, M., & Benlian, A. (2024). AI literacy for users – A comprehensive review and
+future research directions of learning methods, components, and effects. Computers
+in Human Behavior: Artificial Humans, 2(1), 100062.
+Proudfoot, K. (2023). Inductive/Deductive Hybrid Thematic Analysis in Mixed Methods
+Research. Journal of Mixed Methods Research.
+Rittmann, H., & Mpofu, N. (2024). Exploring teachers’ self-reported practices for
+fostering critical thinking skills in ESL multilingual high school settings. Social
+Sciences and Humanities Open, 10(April), 101156.
+Sharples, M. (2023). Towards social generative AI for education: theory, practices and
+ethics. Learning: Research and Practice.
+Southworth, J., Migliaccio, K., Glover, J., Glover, J. N., Reed, D., McCarty, C.,
+Brendemuhl, J., & Thomas, A. (2023). Developing a model for AI Across the
+curriculum: Transforming the higher education landscape via innovation in AI
+( 151 )
+literacy. Computers and Education: Artificial Intelligence.
+Sperling, K., Stenberg, C. J., McGrath, C., Åkerfeldt, A., Heintz, F., & Stenliden, L.
+(2024). In search of artificial intelligence (AI) literacy in teacher education: A
+scoping review. Computers and Education Open, 6(December 2023).
+Stahl, B. C., & Eke, D. (2024). The ethics of ChatGPT – Exploring the ethical issues of
+an emerging technology. International Journal of Information Management,
+74(August 2023), 102700. 
+Timotheou, S., Miliou, O., Dimitriadis, Y., Sobrino, S. V., Giannoutsou, N., Cachia, R.,
+Monés, A. M., & Ioannou, A. (2023). Impacts of digital technologies on education
+and factors influencing schools’ digital capacity and transformation: A literature
+review. Education and Information Technologies. 
+022-11431-8
+Wang, L., & Liang, G. (2025). Data-Driven Teaching and Learning Effect Evaluation in
+Technologies, 20(1). 
+Wang, S., Wang, F., Zhu, Z., Wang, J., Tran, T., & Du, Z. (2024). Artificial intelligence
+in education: A systematic literature review. Expert Systems with Applications,
+252(PA), 124167. 
+Woods, P. J., & Copur-Gencturk, Y. (2024). Examining the role of student-centered
+versus teacher-centered pedagogical approaches to self-directed learning through
+teaching. Teaching and Teacher Education, 138(August 2023), 104415.
+Yan, L., Sha, L., Zhao, L., Li, Y., Martinez-Maldonado, R., Chen, G., Li, X., Jin, Y., &
+Gašević, D. (2024). Practical and ethical challenges of large language models in
+education: A systematic scoping review. In British Journal of Educational
+Technology. 
+Ye, X., Yan, Y., Li, J., & Jiang, B. (2024). Privacy and personal data risk governance for
+generative artificial intelligence: A Chinese perspective. Telecommunications
+Policy, 48(10). 
+Zhai, X., & Nehm, R. H. (2023). AI and formative assessment: The train has left the
+station. In Journal of Research in Science Teaching.
+Zhaksylyk, A., Zimba, O., Yessirkepov, M., & Kocyigit, B. F. (2023). Research Integrity:
+38(47), 1–11. 
+( 152 )
+Department of Digital Business
+Journal of Artificial Intelligence and Digital Business (RIGGS)
+Homepage: 
+1,2,3,4,5,6,7 
+Pemanfaatannya dalam pembelajaran, evaluasi, dan penyelesaian tugas akademik menghadirkan peluang baru sekaligus
+tantangan etis, terutama terkait integritas akademik. Artikel ini membahas secara mendalam lima isu utama: isu plagiarisme
+dan keaslian karya siswa, pedoman penggunaan AI yang bertanggung jawab, pengembangan kebijakan AI (AI policy) di
+sekolah, mengajarkan siswa tentang penggunaan AI yang etis, serta dampaknya terhadap kemampuan berpikir kritis. Dengan
+menggunakan metode kualitatif berbasis literatur, artikel ini menyajikan strategi dan rekomendasi praktis bagi sekolah untuk
+menyeimbangkan kemajuan teknologi dengan nilai-nilai pendidikan yang mendasar.
+Kata kunci: AI, Etika, Sekolah, Plagiarisme, Kebijakan AI, Integritas Akademik, Berpikir Kritis
+1. Latar Belakang
+Di era digital, teknologi, khususnya AI, menjadi solusi untuk menghadapi tantangan dalam proses
+pembelajaran, seperti perbedaan gaya belajar siswa dan keterbatasan sumber daya guru (Iryanto, 2021). (Putra et
+al., 2024). AI dapat digunakan dalam berbagai aspek pembelajaran, seperti memberikan umpan balik otomatis,
+menciptakan materi belajar yang dipersonalisasi, serta membantu siswa memahami konsep yang sulit melalui
+simulasi interaktif. Perkembangan teknologi yang semakin pesat mampu memberikan dampak signifikan dalam
+berbagai aspek kehidupan termasuk pendidikan. Salah satu perkembangan teknologi yang kini menjadi perhatian
+utama adalah Artificial Intelligence (AI) atau kecerdasan buatan (Marlin, dkk., 2023). AI tidak hanya merevolusi
+cara manusia bekerja tetapi juga cara mereka belajar. AI telah digunakan dalam dunia pendidikan untuk
+mendukung pembelajaran yang lebih interaktif, personal, dan efisien (Akhyar, dkk., 2023). (Ummah et al., 2025).
+Kecerdasan buatan (AI) memiliki potensi untuk meningkatkan pengalaman pembelajaran, keterampilan kritis, dan
+kemandirian siswa. Teknologi ini efektif dalam memberikan umpan balik cepat, menyederhanakan materi
+kompleks, serta mendukung keterlibatan siswa dalam pembelajaran. John, Smith, dan Lee (Amalia, Majid, and As
+2024) menyatakan bahwa AI dapat memberikan umpan balik yang cepat dan disesuaikan, yang membantu
+mahasiswa dalam memahami materi dengan lebih baik dan meningkatkan kemampuan berpikir kritis mereka.
+mudah dan mendalam. Seperti yang diungkapkan dalam salah satu penelitian, penggunaan teknologi ini "dapat
+meningkatkan keterlibatan siswa dalam pembelajaran dan memperkaya pengalaman belajar dengan akses
+informasi yang lebih mudah" (Maulida 2024). Namun, penelitian juga menunjukkan bahwa ada potensi masalah
+yang perlu diwaspadai, seperti ketergantungan berlebihan yang bisa menurunkan kreativitas dan pemahaman
+mendalam terhadap materi, serta risiko plagiarisme. Sebagaimana dinyatakan dalam penelitian lain, "ChatGPT
+efektif dalam memberikan umpan balik cepat, menyederhanakan materi kompleks, dan mendukung" (Harlina
+2024). (Sukma et al., 2025)
+Tindakan mengakui ide, konsepsi, atau karya orang lain sebagai milik sendiri, atau memanfaatkan karya
+orang lain tanpa menyebutkan sumbernya dengan tepat, dapat menimbulkan kesalahpahaman tentang asal usul
+suatu karya (Rosalina Belinda, 2010). Lebih lanjut, ada yang beranggapan bahwa plagiarisme adalah tindakan
+menggunakan, mencuri, mengambil alih, menerbitkan, menyatakan, atau mengklaim karya orang lain sebagai
+miliknya (Silalahi et al., 2024). Plagiarisme dan penurunan keaslian karya siswa menjadi isu utama dalam
+Journal of Artificial Intelligence and Digital Business (RIGGS) Volume 4 Nomor 2, 2025
+diskursus etika penggunaan AI di lingkungan sekolah. Tanpa panduan yang jelas, penggunaan AI berisiko
+melemahkan nilai-nilai kejujuran akademik yang selama ini dijunjung tinggi dalam proses pembelajaran. Oleh
+karena itu, dibutuhkan pedoman penggunaan AI yang bertanggung jawab, yang tidak hanya menjelaskan batasan
+dan potensi penggunaan AI dalam konteks pendidikan, tetapi juga menanamkan pemahaman etis kepada siswa
+mengenai pentingnya orisinalitas dalam berkarya. Sekolah memiliki peran strategis dalam mengembangkan
+kebijakan AI (AI policy) yang menyeluruh dan kontekstual, guna mengarahkan penggunaan teknologi ini secara
+bijak dan proporsional.
+Pembelajaran kolaboratif juga dapat didorong dengan bantuan AI. Platform pembelajaran yang
+memungkinkan siswa bekerja sama dalam proyek yang melibatkan pemecahan masalah nyata dengan bantuan
+analisis data oleh AI dapat meningkatkan keterampilan kolaboratif dan kritis siswa. Ini tidak hanya membantu
+dalam pemahaman materi, tetapi juga dalam pengembangan keterampilan sosial yang penting untuk kehidupan
+mereka di masa depan(Ridho et al., 2022). (Muqorrobin et al., 2024).
+Etika penggunaan kecerdasan buatan khsusunya dalam dunia pendidikan dengan demikian harus dibahas.
+Meskipun teknologi kecerdasan buatan membawa pengaruh positif namun juga dapat berdampak negatif. Menurut
+modul etika yang dibuat oleh Jaringan Pegiat Literasi Digital (Japelidi) dan Siberkreasi, etika digital biasanya
+mencakup pertanggung jawaban perilaku yang dipenuhi dengan pemahaman diri, kewajiban, kejujuran, dan
+prinsip nilai moral (Kusumastuti et al ., 2021). Siswa perlu mengikuti beberapa prinsip moral dan aturan akademik
+saat menggunakan kecerdasan buatan. Beberapa contoh etika dalam penerapan kecerdasan buatan yang jika
+terapkan dapat mengembangkan kemampuan berpikir kritis dan kreatif siswa, menggunakan teknologi dengan
+bijak, bertanggung jawab, tidak menyalahgunakan informasi yang diperoleh, dan jujur adalah etika yang dapat
+diterapkan. Ini mendukung studi (Maulana et al., (2023) yang menyatakan bahwa kualitas akademik yang harus
+dimiliki siswa saat menggunakan kecerdasan buatan adalah kepercayaan diri, kejujuran, kebenaran, kreativitas,
+dan berpikir kritis. Klaim ini diperkuat oleh Amala et al., (2023) yang menyatakan bahwa kecerdasan buatan harus
+digunakan dengan hati-hati, mengikuti standar komunikasi, dan menghindari penyalahgunaan sistem dan data yang
+telah dihapus. Sufendi (2023) berpendapat bahwa untuk menjaga orisinalitas karya, pengolahan kembali jawaban
+yang dihasilkan kecerdasan buatan sangat penting. (Ikhsan et al., 2025)
+Penerapan AI dalam pendidikan secara signifikan memengaruhi pembelajaran siswa. Kemudahan yang
+diberikan AI dapat mendorong siswa untuk mencari solusi langsung, sehingga mengurangi peluang mereka untuk
+pembelajaran yang mendalam dan introspektif (Kasneci dkk., 2023). Hal ini dapat mengakibatkan pemahaman
+yang dangkal terhadap subjek dan penurunan kemampuan berpikir kritis, yang vital untuk mengatasi kesulitan di
+dunia nyata. Selain itu, teknologi AI seperti ChatAPI dan ChatGPT menimbulkan beberapa masalah dan
+kekhawatiran, terutama terkait integritas akademik dan plagiarisme (Cotton dkk., 2024). Kesenjangan antara
+pemanfaatan teknologi dan pemahaman etis tentang penerapannya menjadi semakin mendesak; oleh karena itu,
+penting untuk menyelidiki sudut pandang siswa tentang penggunaan AI. Dengan memahami sudut pandang
+mereka, pendidik dapat mengembangkan program yang memprioritaskan pemanfaatan AI yang tepat dan etis serta
+mendorong dialog tentang pengaruh teknologi dalam lingkungan akademik dan kehidupan sehari-hari
+(Kurniahtunnisa et al., 2025)
+Penelitian terdahulu merujuk pada beberapa penelitian yang sudah dilakukan oleh (Putra et al., 2024)
+dengan judul “Analisis Pemanfaatan Artificial Intelligence (AI) dalam Pendidikan terhadap Kualitas
+Pembelajaran di Sekolah Dasar” menunjukkan bahwa untuk memaksimalkan manfaat AI dalam pendidikan,
+beberapa langkah berikut disarankan. Pemerintah dan lembaga pendidikan perlu berinvestasi dalam pengadaan
+perangkat keras dan perangkat lunak yang memadai untuk mendukung implementasi AI di sekolah.
+Menyelenggarakan program pelatihan. Menyesuaikan kurikulum untuk memasukkan penggunaan AI, sehingga
+siswa dapat memanfaatkan teknologi ini secara optimal dalam proses belajar. Menerapkan kebijakan yang ketat
+terkait privasi dan keamanan data siswa untuk mencegah penyalahgunaan informasi pribadi. Membangun
+kemitraan dengan perusahaan teknologi untuk mendapatkan akses ke sumber daya dan keahlian yang diperlukan
+dalam implementasi AI. Dengan langkah-langkah tersebut, diharapkan AI dapat menjadi alat yang efektif dalam
+meningkatkan kualitas pendidikan di Sekolah Dasar mempersiapkan siswa untuk meghadapi tantangan di era
+digital.
+Penelitian (Muqorrobin et al., 2024) berjudul “Membangun Karakter di Era AI (Menggabungkan Teknologi
+dan Nilai Kemanusiaan dalam Pendidikan)” Telah ditemukan bahwa di era AI, pengembangan karakter dalam
+pendidikan membutuhkan keseimbangan antara teknologi modern dan nilai-nilai kemanusiaan. Teknologi AI
+memiliki beberapa manfaat dalam proses pendidikan; namun, penting untuk memastikan bahwa penggunaannya
+Lisensi: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Journal of Artificial Intelligence and Digital Business (RIGGS) Volume 4 Nomor 2, 2025
+tidak mengorbankan prinsip-prinsip etika, empati, dan moralitas. Pendidikan harus terstruktur untuk memastikan
+bahwa siswa mahir dalam teknologi sekaligus menunjukkan karakter dan integritas yang kuat. Mengintegrasikan
+kecerdasan buatan dengan nilai-nilai kemanusiaan dapat melahirkan generasi yang siap menghadapi masalah di
+masa depan dengan kebijaksanaan dan perilaku etis.
+Penelitian berjudul “Kecerdasan Buatan dalam Pendidikan: Meningkatkan Pembelajaran Personalisasi”
+oleh (Widodo et al., 2024) menampakkan jika penggunaan AI di kelas dapat meningkatkan keterlibatan siswa,
+mempercepat proses pembelajaran, dan membuat umpan balik lebih tepat waktu. Namun, untuk memaksimalkan
+AI sekaligus meminimalkan bahaya, diperlukan hukum dan peraturan yang tepat. Algoritma pembelajaran mesin
+memungkinkan sistem pendidikan untuk menilai pola belajar unik siswa dan mempersonalisasi rencana
+pembelajaran yang sesuai. Kekhawatiran tentang privasi dan etika siswa juga akan dipertimbangkan dalam studi
+ini. Penggunaan AI dalam pendidikan berpotensi meningkatkan kemampuan adaptasi dan personalisasinya secara
+signifikan. Namun, untuk memaksimalkan AI dalam pendidikan, diperlukan banyak perencanaan, termasuk
+menyusun kebijakan, melatih pendidik, dan memastikan setiap orang memiliki akses yang sama terhadap
+infrastruktur yang diperlukan.
+Terakhir penelitian serupa juga dilakukan oleh (Zaini, M., Wardani, M., & Gina, 2025) dengan judul judul
+“Integrasi Kecerdasan Buatan (AI) Dalam pembelajaran: Dampaknya Pada Literasi Digital dan Berfikir Kritis
+Siswa” menegaskan bahwa AI efektif sebagai media pembelajaran reflektif, asalkan didukung desain instruksional
+berbasis pertanyaan terbuka dan pembimbingan aktif guru. Implikasi penelitian ini merekomendasikan
+pengembangan kebijakan pendidikan yang mengintegrasikan AI secara etis dan reflektif, serta mendorong studi
+longitudinal tentang dampak jangka panjang penggunaan AI di pendidikan.
+Tujuan dari artikel ini adalah membahas bagaimana sekolah dapat menyeimbangkan antara pemanfaatan
+inovasi AI dan penjagaan integritas akademik melalui pendekatan etis, pembentukan kebijakan yang tepat, serta
+integrasi pendidikan etika AI dalam proses pembelajaran. Hal ini penting untuk memastikan bahwa kemajuan
+teknologi mendukung, bukan menggeser, tujuan fundamental dari pendidikan: membentuk individu yang berpikir
+kritis, kreatif, dan berintegritas.
+2. Metode Penelitian
+Paparan artikel ini menggunakan metode kualitatif berbasis literatur (literature based qualitative
+research). Metode ini dipilih karena bertujuan untuk mengkaji dan menganalisis secara mendalam berbagai
+sumber literatur ilmiah yang relevan guna memahami permasalahan etika dalam penggunaan kecerdasan
+buatan (AI) di lingkungan sekolah. Fokus utama dari artikel ini adalah pada isu plagiarisme keaslian karya
+siswa, pedoman penggunaan AI yang bertanggung jawab, pengembangan kebijakan AI (AI policy), pentingnya
+pembelajaran etika AI kepada siswa, serta dampaknya terhadap kemampuan berpikir kritis. Berupa artikel di
+jurnal dan teori yang ada di dalam buku; bertujuan memberi sajian dengan penegasan pada materi yang pada
+akhirnya bisa menghasilkan temuan terkini (Paré et al., 2015; Xiao & Watson, 2019; Snyder, 2019; Snyder
+2023; Onwuegbuzie & Frels, 2016). (Yam, 2024)
+3. Hasil dan Diskusi
+1. Isu Plagiarisme dan Keaslian Karya Siswa
+Kata "plagiarisme" dalam bahasa Inggris, yang berarti "menyalin", merupakan asal usul istilah tersebut.
+Berdasarkan asal usul dan penggunaannya saat ini, istilah "plagiarisme" mengacu pada praktik mengakui kata-
+kata, gagasan, atau kekayaan intelektual orang lain sebagai milik sendiri. Plagiarisme, dalam bentuknya yang
+paling sederhana, adalah memberikan penghargaan kepada orang yang berhak menerimanya dengan mengakui
+kata-kata atau gagasan orang lain sebagai milik sendiri tanpa mencantumkan sumbernya dengan tepat. Platypus
+didefinisikan sebagai "setiap upaya, baik disengaja maupun tidak, untuk mendapatkan penghargaan atau nilai atas
+suatu karya ilmiah dengan mengutip sebagian atau seluruh karya dan/atau karya ilmiah pihak lain yang diakui
+sebagai karya ilmiahnya, tanpa mencantumkan sumbernya secara tepat dan memadai" dalam Peraturan Menteri
+Ketika orang berbicara tentang menjaga integritas akademik, mereka mengacu pada standar moral dan etika
+tinggi yang harus dipatuhi oleh setiap orang dalam komunitas akademik. Gagasan ini mencakup perlunya bersikap
+jujur, adil, dan bertanggung jawab dalam semua aspek kehidupan sekolah, seperti menulis, penelitian, ujian, dan
+proyek kelompok. Integritas akademik berpusat pada prinsip-prinsip seperti jujur, adil, dan mengikuti standar etika
+Lisensi: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Journal of Artificial Intelligence and Digital Business (RIGGS) Volume 4 Nomor 2, 2025
+yang relevan. Mempertahankan standar kejujuran akademik yang tinggi sangat penting bagi keberhasilan setiap
+upaya pendidikan atau ilmiah. Landasan etika untuk menciptakan lingkungan yang adil, jujur, dan sopan akan
+hilang ketika integritas akademik tidak dijunjung tinggi dalam proses penelitian dan pendidikan. Penelitian oleh
+Rohmanu (2016) menunjukkan bahwa mahasiswa yang sikap dan tindakannya konsisten dengan integritas
+akademik lebih mampu belajar, berpikir kritis, dan berkembang sebagai individu. Integritas akademik mencakup
+beberapa aspek, seperti: (1) kredibilitas. Segala macam kejujuran diperlukan untuk integritas akademik.
+Diharapkan bahwa mahasiswa, peneliti, dan akademisi akan menyajikan materi yang tepat dan benar serta
+mengutip sumber mereka dengan benar. Setiap orang yang terlibat perlu melakukan bagian mereka sambil juga
+memperhatikan hak cipta dan kontribusi orang lain; (2) Perlindungan dan Penegakan Hak Cipta Buronan,
+Integritas akademik adalah menahan diri dari menjiplak karya orang lain. Demi melindungi kekayaan intelektual
+dan hak cipta (Fitri et al., 2022). Sikap etis dalam akademisi termasuk menggunakan karya orang lain dengan izin
+mereka atau dengan memberikan penghargaan yang tepat; (3). Bekerja Keras dan Mandiri, Etika kemandirian dan
+usaha keras juga merupakan bagian dari kejujuran akademis. (4) kejujuran dan transparansi, Integritas akademik
+adalah memperlakukan setiap orang dengan hormat dan bermartabat, dan mahasiswa dan peneliti diharapkan untuk
+berhasil secara mandiri, tanpa menggunakan metode yang tidak jujur atau curang. Ini mencakup menahan diri dari
+praktik yang tidak adil seperti diskriminasi, kolusi, atau kecurangan. Keberanian etis, yang didefinisikan sebagai
+kapasitas untuk berbicara dan berperilaku sesuai dengan standar moral dan etika meskipun ada kemungkinan
+ketidakpopuleran atau hasil yang tidak diinginkan, memang ada (Silalahi et al., 2024)
+Berdasarkan penjelasan tersebut, plagiarisme adalah tindakan menjiplak atau menggunakan karya orang
+lain (baik berupa tulisan, gambar, ide, atau hasil penelitian) tanpa memberikan pengakuan atau mencantumkan
+sumber yang jelas, sehingga dianggap sebagai karya sendiri, keaslian karya mencerminkan integritas pribadi siswa.
+Di era digital, penting bagi siswa untuk tetap menjunjung tinggi nilai kejujuran dan tanggung jawab akademik
+sebagai bagian dari pembentukan karakter. Masalah plagiarisme dalam konteks penggunaan AI bukan hanya soal
+penyalinan teks, melainkan menyangkut integritas intelektual. Penggunaan AI untuk menyelesaikan tugas tanpa
+pengakuan atau pemahaman atas kontennya mengarah pada bentuk plagiarisme konseptual, yaitu mengklaim ide
+atau argumen yang bukan berasal dari pemikiran sendiri. Penggunaan AI yang tidak transparan menurunkan
+validitas proses penilaian karena guru menilai hasil yang tidak sepenuhnya mewakili kompetensi siswa. Ini juga
+berdampak pada perkembangan keterampilan berpikir kritis, analitis, dan ekspresif siswa yang seharusnya
+dibentuk melalui proses menulis dan berpikir mandiri.
+2. Pedoman Penggunaan AI yang Bertanggung Jawab
+Banyak orang membicarakan bagaimana sekolah seharusnya menerapkan kecerdasan buatan (AI). Di
+antara banyak keuntungan ChatGPT, sebuah alat AI, adalah peningkatan keterlibatan siswa, kerja sama tim, dan
+aksesibilitas (Cotton dkk., 2023). Komunikasi asinkron dimungkinkan oleh model bahasa AI, yang merupakan
+salah satu keuntungan utamanya. Berkat fitur ini, siswa dapat saling bertanya dan mengerjakan proyek bersama
+tanpa harus berada di ruangan yang sama secara fisik (Li & Xing, 2021). Kemampuan untuk mendorong kerja
+sama siswa merupakan keuntungan lain dari ChatGPT. Sebagai contoh, kelompok siswa dapat dibentuk
+menggunakan ChatGPT dan kemudian mengerjakan tugas dan proyek bersama (Lewis, 2022). Ranah afektif siswa
+dapat memperoleh manfaat dari teknologi AI dengan cara berikut: (Hsieh dkk., 2020), kepercayaan diri siswa
+dapat meningkat, dan kecemasan mereka tentang pembelajaran dapat berkurang, berkat kemampuan AI untuk
+menciptakan lingkungan belajar yang lebih menarik dan nyaman (Rooein, 2019; Kim dkk., 2021). Siswa
+berprestasi rendah dapat memperoleh manfaat dari interaksi manusia-robot dalam hal harga diri, kegunaan, dan
+berkurangnya rasa malu (Chiu, Moorhouse, dkk., 2023). Intervensi pendidikan berbasis kecerdasan buatan terbukti
+berhasil menurunkan tingkat kecemasan siswa SMA, menurut penelitian yang dilakukan oleh Crompton dan rekan-
+rekannya (2019). Hasilnya, AI dapat meredakan ketakutan siswa dan memberi mereka rasa percaya diri yang
+mereka butuhkan untuk berkembang di kelas (Suariqi Diantama, 2023)
+Dengan demikian, penggunaan AI dalam pendidikan bisa sangat bermanfaat jika dilakukan secara etis,
+jujur, dan bertanggung jawab. AI bukan alat untuk curang, tapi sarana untuk belajar lebih efektif dan produktif,
+asalkan tetap mengutamakan nilai integritas akademik.
+Pedoman yang ada umumnya meliputi prinsip transparansi dalam penggunaan AI, larangan menggunakan
+AI untuk mencontek atau menghasilkan karya sepenuhnya, serta dorongan untuk menjadikan AI sebagai alat bantu
+belajar, bukan sebagai pengganti proses berpikir siswa.
+Pengembangan pedoman tidak dapat dilakukan secara sepihak. Diperlukan keterlibatan semua pemangku
+kepentingan sekolah termasuk siswa, guru, kepala sekolah, dan orang tua agar pedoman yang dihasilkan
+Lisensi: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Journal of Artificial Intelligence and Digital Business (RIGGS) Volume 4 Nomor 2, 2025
+kontekstual, aplikatif, dan dapat diterima oleh seluruh komunitas sekolah. Dengan adanya pedoman penggunaan
+AI yang bertanggung jawab, sekolah dapat mengarahkan pemanfaatan teknologi ke arah yang positif. AI tidak lagi
+menjadi ancaman bagi integritas akademik, melainkan alat bantu yang memperkaya proses pembelajaran dan
+mendorong siswa untuk berpikir kritis, kreatif, dan etis dalam berteknologi.
+3. Pengembangan Kebijakan AI (AI policy) di Sekolah
+Istilah "kebijakan" berakar dari kata Yunani "Polis", yang secara etimologi berarti kota. Untuk mencapai
+tujuan mereka, pemerintah dan organisasi bergantung pada pola kesepakatan eksplisit yang dikenal sebagai
+kebijakan, yang berkaitan dengan konsep pengendalian organisasi (Monahan dalam Syafaruddin, 2008:75).
+Kemajuan dalam AI memberikan keuntungan signifikan bagi peningkatan kualitas pendidikan, terutama
+melalui kemampuannya untuk menyesuaikan strategi pembelajaran agar memenuhi kebutuhan spesifik masing-
+masing siswa, sehingga mewujudkan konsep pembelajaran yang disesuaikan. Melalui analisis data, AI dapat
+memastikan tingkat pemahaman setiap siswa dan memberikan materi pembelajaran yang disesuaikan. Hal ini
+memungkinkan siswa untuk berkembang sesuai kecepatan mereka sendiri dan menciptakan lingkungan belajar
+yang kondusif bagi perkembangan optimal mereka. Lebih lanjut, AI membantu membentuk siswa menjadi pribadi
+yang siap menghadapi tantangan dan berkarya di dunia yang terus berubah (Ageng Surat Cakraningtyas et al.,
+2025)
+Kehadiran AI memicu adanya revolusi di berbagai bidang, termasuk dalam dunia pendidikan dan riset.
+Sekararang ini banyak perguruan tinggi yang saling berlombalomba mengembangkan kebijakan dan strategi yang
+berkaitan dengan AI. Dalam lingkungan akademik terutama dunia pendidikan, inovasi pendidikan terkait
+kecerdasan buatan merupakan bidang yang mengalami perkembangan yang cukup pesat dan berimplikasi
+signifikan terhadap pengajaran dan pembelajaran di perguruan tinggi dan juga pada pendidikan dasar. Penelitian
+yang dilaksanakan (Chen et al., 2020) menitikberatkan pada pengaruh positif dari AI terhadap pendidikan,
+termasuk meningkatkan efisiensi, pembelajaran yang dipersonalisasikan, dan efektivitas administrasi pendidikan
+yang semakin meningkat. Penelitian sejenis namun berada di sekolah dasar dilakukan oleh (Yudical Firdaus &
+dasar, Hal ini menggaris bawahi potensi AI untuk merevolusi praktik pendidikan tradisional. Kemudian penelitian
+yang dilaksanakan (Popenici & Kerr, 2017) mengidentifikasi pengaruh AI terhadap pengajaran dan pembelajaran
+di pendidikan tinggi, menyoroti pentingnya melakukan adaptasi terhadap perkembangan teknologi untuk
+meningkatkan kualitas pendidikan di masa depan. Integrasi kecerdasan buatan dalam pendidikan dipersepsikan
+menjadi sebuah kekuatan transformasi yang akan membuat pengalaman belajar anak semakin meningkat serta
+mempersiapkan siswa untuk menghadapi perubahan dunia yang lambat lain peran dari manusia akan tergantikan
+teknologi. Setelah itu, (ZawackiRichter et al., 2019) menggaris bawahi peranan AI yang sedang berkembang
+menjadi aspek penting dalam teknologi pendidikan. Hal tersebut memperlihatkan pentingnya pemanfaatan AI bagi
+guru untuk mendorong inovasi dan mempersonalisasikan pengalaman belajar bagi siswa. Teknologi AI mampu
+membuat pembelajaran jauh lebih efekti dan efisien. Serta membuat pembelajaran yang dipersonalisasi dengan
+memberikan umpan balik yang disesuaikan dan materi pembelajaran adaptif berdasarkan kebutuhan siswa secara
+individu. AI membantu mengidentifikasi kesenjangan pembelajaran. Serta menawarkan perbaikan segera.
+(Erlynda Ayu Kusumawati1, Ngatman2, 2025)
+Dari analisis tersebut, pengembangan kebijakan AI di sekolah merupakan langkah strategis untuk mengatur
+penggunaan teknologi kecerdasan buatan secara bijak, adil, dan bertanggung jawab dalam lingkungan pendidikan.
+Seiring meningkatnya penggunaan alat bantu berbasis AI oleh siswa dan guru, sekolah perlu memiliki panduan
+yang jelas untuk memastikan bahwa inovasi teknologi tidak mengorbankan nilai-nilai pendidikan seperti
+kejujuran, tanggung jawab, dan integritas akademik.
+4. Pentingnya Pembelajaran Etika AI Kepada Siswa
+Kemajuan teknologi informasi dan komunikasi, termasuk kecerdasan buatan, berpotensi merevolusi
+keberadaan kita dengan menggantikan manusia sebagai pengendali sistem. Banyak perusahaan besar berlomba-
+lomba berinvestasi dalam kecerdasan buatan. Antara tahun 2018 dan 2020, investasi dalam AI melonjak signifikan,
+sebagaimana terlihat dari statistik Preqin dan NetBase Quid. Meskipun demikian, kecerdasan buatan juga
+memengaruhi masyarakat. Frey dan Osborne, PwC, dan OECD memproyeksikan bahwa persentase signifikan
+lapangan kerja akan diotomatisasi oleh kecerdasan buatan pada tahun 2030. Hal ini menunjukkan bahwa
+otomatisasi dapat secara substansial memengaruhi jumlah pekerjaan yang ada. Untuk mencegah sistem kecerdasan
+buatan menyebabkan dampak yang tidak adil atau merugikan pada populasi tertentu, penting untuk memantau dan
+mengaudit sistem ini secara cermat. Kemungkinan pengaruh kecerdasan buatan terhadap kehidupan kita menuntut
+Lisensi: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Journal of Artificial Intelligence and Digital Business (RIGGS) Volume 4 Nomor 2, 2025
+peningkatan perhatian etika. Memastikan keamanan dan privasi data, serta mencegah kecerdasan buatan
+melanggar hak asasi manusia, sangatlah penting. Oleh karena itu, penting bagi individu untuk mendapatkan
+pendidikan tentang etika penggunaan AI sejak usia muda. Mereka harus memahami konsep menghormati privasi
+orang lain, kesetaraan dalam pengambilan keputusan AI, dan implikasi sosialnya. Pedoman dan batasan etika
+sangat penting untuk studi, pengembangan, dan penggunaan kecerdasan buatan, karena harus akuntabel,
+transparan, terverifikasi, tidak korup, dan dapat diprediksi (Najwa Fathiro Cahyono et al., 2023)
+Kecerdasan buatan (AI) memiliki pengaruh yang signifikan terhadap cara belajar siswa. Siswa mungkin
+cenderung tidak terlibat dalam pembelajaran yang mendalam dan reflektif karena kemudahan AI dalam mencari
+jawaban langsung (Kasneci dkk., 2023). Akibatnya, siswa mungkin tidak sepenuhnya memahami materi dan
+mengembangkan kemampuan berpikir kritis mereka, yang krusial untuk mengatasi masalah kehidupan nyata.
+Integritas akademik dan plagiarisme adalah dua masalah tambahan yang muncul dari penggunaan ChatAPI,
+ChatGPT, dan aplikasi AI lainnya (Cotton dkk., 2024). Sangat penting untuk menyelidiki pandangan siswa tentang
+penggunaan AI karena jurang antara penggunaan teknologi dan pengetahuan etika semakin melebar setiap harinya.
+Guru dapat lebih baik mengatasi kekhawatiran siswa tentang potensi dampak negatif AI terhadap masyarakat dan
+kelas dengan memahami pengalaman dan sudut pandang mereka dengan lebih baik (Kurniahtunnisa et al., 2025)
+Di era AI, pengembangan karakter dalam pendidikan membutuhkan keseimbangan antara teknologi
+canggih dan nilai-nilai kemanusiaan. Teknologi AI memiliki beberapa manfaat dalam proses pendidikan;
+meskipun demikian, penting untuk memastikan bahwa penggunaannya tidak mengorbankan nilai-nilai etika,
+empati, dan moralitas. Pendidikan harus terstruktur untuk memastikan bahwa siswa mahir dalam teknologi
+sekaligus menunjukkan karakter dan integritas yang baik. Mengintegrasikan kecerdasan buatan dengan nilai-nilai
+kemanusiaan dapat melahirkan generasi yang siap menghadapi masalah di masa depan dengan kebijaksanaan dan
+perilaku etis (Muqorrobin et al., 2024)
+Dengan demikian, seiring berkembangnya teknologi kecerdasan buatan (AI) dan semakin meluasnya
+penggunaannya di kalangan pelajar, penting bagi sekolah untuk tidak hanya mengenalkan alat-alat AI, tetapi juga
+membekali siswa dengan pemahaman yang kuat tentang etika dalam penggunaannya. Pembelajaran etika AI
+menjadi aspek kunci dalam membentuk generasi digital yang cerdas secara teknologi dan bertanggung jawab
+secara moral. Etika AI mencakup kesadaran tentang bagaimana, kapan, dan untuk tujuan apa teknologi digunakan.
+Tanpa pemahaman etis, siswa cenderung menyalahgunakan AI untuk menyelesaikan tugas tanpa usaha pribadi,
+menyalin jawaban tanpa izin, atau mengklaim karya AI sebagai hasil orisinal mereka. Hal ini dapat merusak nilai
+kejujuran akademik, menghambat kemampuan berpikir kritis, serta melemahkan karakter siswa dalam jangka
+panjang.
+5. Dampak AI Terhadap Kemampuan Berfikir Kritis Siswa
+Revolusi digital yang melaju pesat di abad ke-21 telah menggeser paradigma pendidikan global menuju
+integrasi teknologi canggih dalam proses pembelajaran, salah satunya adalah kecerdasan buatan (Artificial
+Intelligence/AI). Teknologi AI memungkinkan terjadinya personalisasi pembelajaran melalui adaptasi materi
+sesuai kebutuhan individu, yang sulit dicapai dalam model pengajaran tradisional. Sejumlah platform seperti Chat
+GPT, Quillionz, hingga Socratic kini telah banyak diadopsi sebagai asisten virtual untuk memperkuat proses
+pembelajaran siswa dan mendukung peningkatan literasi digital (Pohn dkk., 2025). Fenomena ini menegaskan
+bahwa AI bukan lagi sekadar inovasi teknis, melainkan instrumen strategis dalam membentuk cara siswa
+memperoleh, mengolah, dan memanfaatkan informasi secara kritis. (Zaini, M., Wardani, M., & Gina, 2025)
+Keterampilan berpikir kritis sangat penting untuk mempersiapkan siswa untuk menghadapi masalah di
+masa depan, baik di dunia akademik maupun dalam kehidupan sehari-hari. Keberhasilan seseorang di dunia yang
+semakin kompleks bergantung pada kemampuan mereka untuk menganalisis informasi, menilai argumen, (Nujum
+& Hadi, 2025)dan membuat keputusan berdasarkan data. Sayangnya, banyak siswa di Indonesia tidak memiliki
+keterampilan berpikir kritis yang cukup, yang membuat mereka lebih rentan menghadapi masalah dalam situasi
+yang membutuhkan analisis mendalam (Liu, 2023).
+Keunggulan dan kebaruan penelitian ini terletak pada fokus analisis terhadap interaksi siswa dengan AI
+sebagai mitra kolaboratif dalam proses belajar, bukan sekadar alat penyedia informasi. Penelitian ini bertujuan
+untuk menelaah bagaimana AI dapat mengarahkan siswa dalam proses berpikir kritis di sabilal muhtadin nw lopok,
+seperti merumuskan argumen berbasis data, mengevaluasi kredibilitas sumber informasi digital, serta
+mengembangkan solusi inovatif atas persoalan pembelajaran di tengah arus informasi yang melimpah (Kinasih
+Lisensi: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Journal of Artificial Intelligence and Digital Business (RIGGS) Volume 4 Nomor 2, 2025
+dkk., 2023). Hal ini sejalan dengan kebutuhan dunia pendidikan saat ini yang menempatkan AI sebagai mediator
+dalam pengembangan literasi dan kecakapan berpikir kompleks.(Zaini, M., Wardani, M., & Gina, 2025)
+Dari analisis tersebut, bahwa kecerdasan buatan (AI) semakin sering digunakan oleh siswa dalam proses
+belajar, mulai dari mencari informasi, membuat ringkasan, hingga menyusun esai. Meskipun AI dapat menjadi
+alat bantu yang efisien dan informatif, penggunaannya yang berlebihan tanpa bimbingan dapat membawa dampak
+negatif terhadap kemampuan berpikir kritis siswa. Berpikir kritis merupakan kemampuan penting dalam
+pendidikan, yang mencakup analisis, evaluasi, pemecahan masalah, dan penyusunan argumen secara logis. Ketika
+siswa terlalu mengandalkan AI untuk menyelesaikan tugas, mereka cenderung menerima informasi secara pasif
+tanpa memproses atau mempertanyakan kebenaran dan relevansinya. Hal ini dapat melemahkan daya nalar,
+kreativitas, dan kemampuan mengambil keputusan secara mandiri. Dengan pendekatan yang tepat, guru dan
+sekolah dapat memanfaatkan AI sebagai sarana untuk meningkatkan, bukan menggantikan, proses berpikir kritis.
+Hal ini menuntut adanya pendampingan, kebijakan penggunaan yang bijaksana, serta integrasi etika dan literasi
+digital dalam proses pembelajaran.
+4. Kesimpulan
+Penggunaan kecerdasan buatan (AI) dalam lingkungan sekolah telah membuka peluang besar untuk
+meningkatkan efisiensi dan aksesibilitas dalam proses belajar-mengajar. Namun, tanpa pemahaman etis dan
+kebijakan yang tepat, teknologi ini juga membawa risiko serius terhadap integritas akademik. Salah satu tantangan
+utama adalah menurunnya keaslian karya siswa akibat kecenderungan untuk menggunakan AI sebagai alat
+penghasil jawaban instan, yang berpotensi menimbulkan plagiarisme terselubung. Oleh karena itu, dibutuhkan
+pedoman penggunaan AI yang jelas dan bertanggung jawab, agar siswa dapat membedakan antara bantuan belajar
+yang sah dan penyalahgunaan teknologi. sekolah perlu mengembangkan kebijakan AI (AI policy) secara
+komprehensif yang mencakup batasan penggunaan, transparansi, edukasi etika, dan mekanisme sanksi. Kebijakan
+ini harus disusun tidak hanya sebagai aturan formal, tetapi sebagai alat pembinaan karakter akademik. Penting
+pula untuk mengajarkan etika AI kepada siswa, agar mereka tidak hanya menjadi pengguna teknologi yang cakap,
+tetapi juga individu yang memahami tanggung jawab moral dalam lingkungan digital. Pendidikan ini akan
+membantu siswa membangun kesadaran kritis terhadap teknologi yang mereka gunakan setiap hari. Penggunaan
+AI yang tidak terkontrol dapat berdampak pada melemahnya kemampuan berpikir kritis siswa, karena mereka
+cenderung menerima jawaban tanpa analisis atau evaluasi. Untuk itu, AI harus diarahkan menjadi alat bantu yang
+memicu eksplorasi dan pemikiran mendalam, bukan menggantikan proses berpikir itu sendiri. Menyeimbangkan
+inovasi teknologi dengan integritas akademik bukanlah pilihan, melainkan kebutuhan mendesak. Sekolah, guru,
+dan siswa harus bersama-sama menciptakan budaya digital yang cerdas, etis, dan berintegritas, agar teknologi
+dapat menjadi pendukung pendidikan yang memanusiakan
+1. Ageng Surat Cakraningtyas, Ivranda Alinta, & Bramantyo Susilo. (2025). Ageng+101-106 (1). Lentera Ilmu Nusantara, 3(01),
+101–106.
+2. Erlynda Ayu Kusumawati1, Ngatman2, W. (2025). Kalam Cendekia: 
+Nomor 2 Tahun 2021 
+3. Ikhsan, I., Artasoma, P., Karliani, E., & Sunarno, A. (2025). Etika Dalam Pemanfaatan Kecerdasan Buatan Di Kelas Ix Smp Negeri
+8 Palangka Raya. SCIENCE : 
+4. Kurniahtunnisa, Manuel, M. Y., Aini, M., & Agustina, T. P. (2025). Persepsi dan Sikap Siswa Terhadap Penggunaan Artificial
+Intelligence. Scholaria: 
+5. Muqorrobin, syamsul, Arifin, S., Wutsqah, U., & Uulanian, H. (2024). Membangun Karakter di Era AI (Menggabungkan Teknologi
+dan Nilai Kemanusiaan dalam Pendidikan). Hikamatzu | Journal of Multidisciplinary, 1(1), 289–298.
+6. Najwa Fathiro Cahyono, Khurrotul ’Uyun, & Siti Mukaromah. (2023). Etika Penggunaan Kecerdasan Buatan Pada Teknologi
+Informasi. Prosiding Seminar Nasional Teknologi Dan Sistem Informasi, 3(1), 482–491. 
+7. Nujum, N., & Hadi, M. S. (2025). Pengaruh Pembelajaran Berbasis Masalah Berbantuan Media AI terhadap Peningkatan
+8. Putra, A. P., Akbar, S., Setyosari, P., & Praherdhiono, H. (2024). Analisis Pemanfaatan Artificial Intelligence (AI) dalam
+Pendidikan terhadap Kualitas Pembelajaran di Sekolah Dasar. Ilmu Pendidikan : 
+9(5), 99–105. 
+9. Silalahi, E., Silalahi, D., Plagiarisme Sebagai Peningkatan, D., Irani Tarigan, M., & Veronica Sinaga, R. (2024). Deteksi Plagiarisme
+10. Suariqi Diantama. (2023). Pemanfaatan Artificial Intelegent (AI) Dalam Dunia Pendidikan. DEWANTECH 
+Pendidikan, 1(1), 8–14. 
+11. Sukma, G. D., Farisa, F. A., Amelia, L. K., Zahran, M. A., & Rozak, R. W. A. (2025). Pemahaman Pelajar Tentang Kecerdasan
+12. Ummah, M., Siswanto, W., & Andajani, K. (2025). Implikasi Etika Keilmuan Dalam Penggunaan Artificial Intelligence (Ai) Pada
+Lisensi: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Journal of Artificial Intelligence and Digital Business (RIGGS) Volume 4 Nomor 2, 2025
+Indonesia, 14(1), 179–191.
+13. Widodo, Y. B., Sibuea, S., & Narji, M. (2024). Kecerdasan Buatan dalam Pendidikan: Meningkatkan Pembelajaran Personalisasi.
+14. Yam, J. H. (2024). Kajian Penelitian: Tinjauan Literatur Sebagai Metode Penelitian. 
+15. Zaini, M., Wardani, M., & Gina, M. (2025). INTEGRASI KECERDASAN BUATAN (AI) DALAM PEMBELAJARAN:
+DAMPAKNYA PADA LITERASI DIGITAL DAN BERPIKIR KRITIS SISWA. Maulana Atsani: 
+Multidisipliner,. Maulana Atsani: 
+Lisensi: Creative Commons Attribution 4.0 International (CC BY 4.0)
+e-ISSN 2808-7844
+p-ISSN 2963-1165
+Peran dan Tantangan Kecerdasan Buatan (AI) dalam Pendidikan Tinggi:
+Implementasi dan Implikasi Etis
+1,3
+* Korespondensi Penulis. E-mail:  Telp: +628124261494
+Article received: 10 02 25, article revised: 20 02 25, article published: 28 02 25
+in education in Indonesia. The method used is a literature study with a descriptive qualitative
+approach, which involves the systematic collection and analysis of literature from academic journals
+in the last three years. The results of the study indicate that AI contributes significantly to improving
+learning personalization, administrative efficiency, and automated evaluation. However, there are
+challenges such as data privacy risks, student over-reliance, technology gaps, and algorithm bias.
+Therefore, regulations, increased digital literacy, and development of technological infrastructure are
+needed to ensure ethical and inclusive implementation of AI in education.
+Keyword: Artificial Intelligence; education; challenges; learning personalization; ethics.
+PENDAHULUAN
+beberapa tahun terakhir, membawa dampak signifikan di berbagai sektor, termasuk pendidikan tinggi
+(Peliza, 2024). Teknologi ini menawarkan peluang besar dalam meningkatkan efektivitas
+pembelajaran, baik melalui personalisasi materi ajar, otomatisasi evaluasi, maupun analisis data
+akademik untuk meningkatkan kualitas pengajaran (Taruklimbong & Sihotang, 2023). Selain itu, AI juga
+berperan dalam mendukung penelitian dan pengembangan di bidang pendidikan, memungkinkan
+eksplorasi metode pembelajaran baru serta inovasi dalam kurikulum berbasis data (Rochmawati dkk,
+2023). Dengan adanya alat analisis data berbasis AI, peneliti dapat mengolah informasi dalam jumlah
+besar secara lebih cepat dan akurat, sehingga mempercepat pengambilan keputusan yang berbasis
+bukti serta mendorong pengembangan teknologi pendidikan yang lebih adaptif dan relevan dengan
+kebutuhan zaman (Masrichah, 2023).
+Namun, implementasi AI dalam pendidikan tinggi tidak terlepas dari tantangan. Isu privasi dan
+keamanan data mahasiswa menjadi perhatian utama, mengingat AI memerlukan akses terhadap data
+pribadi untuk berfungsi secara optimal (Gea dkk, 2025). Selain itu, terdapat kekhawatiran bahwa
+ketergantungan berlebihan pada AI dapat mengurangi kemampuan berpikir kritis dan kreativitas
+mahasiswa (Harmilawati dkk, 2024). Kesenjangan teknologi antar institusi juga dapat mempengaruhi
+pemerataan akses terhadap manfaat AI (Jusman & Usman, 2025).
+Implikasi etis juga perlu dipertimbangkan dalam penerapan AI di pendidikan tinggi. Potensi
+bias dalam algoritma AI dapat mempengaruhi keadilan dalam evaluasi akademik. Oleh karena itu,
+diperlukan regulasi dan pedoman etika yang jelas untuk memastikan bahwa penggunaan AI tidak
+hanya bermanfaat secara edukatif, tetapi juga adil dan menghormati hak-hak semua pihak yang
+terlibat (Andriyani dkk, 2024).
+Urgensi penelitian ini terletak pada perlunya kajian mendalam mengenai peran dan tantangan
+AI dalam pendidikan tinggi. Penelitian ini menyoroti pentingnya kebijakan dan strategi implementasi
+e-ISSN 2808-7844
+p-ISSN 2963-1165
+AI yang etis dan inklusif, serta memberikan wawasan bagi institusi pendidikan dalam mengadopsi AI
+secara bijak dan berkelanjutan.
+METODE
+Metode penelitian yang digunakan dalam studi literatur ini adalah metode kualitatif deskriptif.
+Penelitian ini mengkaji berbagai literatur relevan yang membahas tentang dampak dan tantangan
+artificial intelligence terhadap kualitas pendidikan di Indonesia. Data yang terkumpul akan dianalisis
+secara sistematis dan komprehensif untuk mengidentifikasi tema-tema kunci, pola hubungan, dan
+kesenjangan pengetahuan yang ada.
+Proses analisis data terdiri atas beberapa tahapan, yang dimulai dengan mengidentifikasi dan
+mengumpulkan literatur yang relevan. Setelah terkumpul, literatur yang ada kemudian diseleksi
+berdasarkan kriteria inklusi dan eksklusi yang telah ditetapkan. Kriteria inklusi dalam penelitian ini
+adalah sebagai berikut:
+1. Artikel harus berfokus pada penerapan AI dalam pendidikan, baik dari aspek pembelajaran,
+evaluasi, maupun manajemen pendidikan.
+2. Artikel yang dipilih mencakup berbagai metodologi, termasuk literature review, systematic
+review, serta penelitian kuantitatif dan kualitatif.
+3. Hanya artikel dari jurnal akademik yang memiliki standar publikasi ilmiah atau prosiding seminar
+nasional/internasional yang dipertimbangkan.
+4. Artikel harus membahas AI dalam konteks pendidikan tinggi .
+5. Studi yang memberikan hasil kualitatif mengenai dampak dan tantangan AI
+6. Artikel yang dipilih adalah yang terbit dalam tiga tahun terakhir untuk memastikan relevansi
+dengan tren AI terkini.
+Kriteria eksklusi yang digunakan dalam penelitian ini adalah sebagai berikut:
+1. Artikel yang tidak tersedia dalam teks lengkap.
+2. Penelitian yang tidak memiliki data empiris atau hanya bersifat opini.
+3. Studi yang hanya membahas AI dalam bidang selain pendidikan.
+4. Artikel yang diterbitkan sebelum tahun 2023.
+5. Studi dengan metodologi yang tidak jelas atau tidak sesuai dengan tujuan penelitian.
+Literatur yang telah di seleksi kemudian diekstraksi, hasilnya kemudian dianalisis untuk
+mengidentifikasi tema-tema kunci dan pola hubungan. Langkah terakhir ialah sintesis dan interpretasi
+temuan untuk menghasilkan kesimpulan yang komprehensif (Hartini dkk, 2025).
+HASIL DAN PEMBAHASAN
+Hasil ekstraksi literatur terpilih kemudian disajikan dalam bentuk tabel.
+Tabel 1. Hasil ekstraksi Literatur
+1 Tren 2024 Febri SINTAMA: • AI • Kesenjangan
+Penggunaan AI Yollanda & 
+dalam Ramona. Sistem personalisasi institusi
+Mahasiswa dan akses materi dalam
+Manajemen belajar. penggunaan AI.
+, 4(2), 225- • Memberikan • Kesiapan
+235. umpan balik pengguna
+real-time. dalam
+mengadopsi AI.
+e-ISSN 2808-7844
+p-ISSN 2963-1165
+2 Pengaruh AI 2025 Ikhsan Kamil JEDBUS • AI • Kurangnya
+terhadap & Trisca (Journal of mempermudah privasi dan
+Mahasiswa di Miranda Economic and akses materi keamanan data
+2(1), 33-40. manajemen plagiarisme
+waktu dalam
+mahasiswa. pembelajaran
+• Pembelajaran • Ketergantunga
+adaptif sesuai n berlebihan
+gaya belajar pada AI.
+individu.
+3 Implementasi 2025 Nasrulloh Journal of • AI • Kesiapan
+AI dalam Sektor Isnain Multidisciplin meningkatkan infrastruktur
+Pendidikan ary Inquiry in efisiensi teknologi
+Science, pembelajaran masih kurang.
+Technology adaptif. • Akses AI
+and • Mempermudah terbatas di
+Educational sistem evaluasi daerah
+Research, otomatis. tertentu.
+2(2), 3175- • Mengurangi • Bias algoritma
+3182. beban dalam sistem
+administratif AI.
+pendidik.
+4 Efektivitas 2024 Hikmatiar, 
+ChatGPT dalam H., Pendidikan merasa ketergantunga
+Astronomi N., Jayadin, 121-130 membantu pada ChatGPT.
+R. A., et al. menyelesaikan • Perlunya
+tugas pengawasan
+perkuliahan. dosen dalam
+• 50% penggunaanny
+menyatakan a
+ChatGPT sangat • Isu etika
+efektif dalam akademik
+memahami terkait
+materi plagiarisme.
+astronomi.
+5 AI dalam Kelas: 2024 Risqah Indonesian • AI memperkaya • Masalah privasi
+Inovasi atau Amaliah Journal of konten dan data
+Pendidikan? Judijanto, L., (INJOE), 4(3), keterlibatan • Ketidakadilan
+& Elmiwati. 844-856 mahasiswa. algoritma AI
+• AI dapat dalam menilai
+menyesuaikan mahasiswa.
+tingkat kesulitan • Kekurangan
+pembelajaran interaksi
+berdasarkan manusia dalam
+kebutuhan proses
+mahasiswa. pendidikan.
+e-ISSN 2808-7844
+p-ISSN 2963-1165
+• Sistem evaluasi
+AI mengurangi
+beban pendidik.
+6 Peran AI dalam 2023 Velda Seminar • AI • Tantangan
+Mahasiswa di Putri, Kadek 
+ni, & Raihan evaluasi n mahasiswa
+Andre otomatis untuk terhadap AI.
+Rafael. mengurangi • Kurangnya
+beban dosen. pemahaman
+• AI membantu dosen tentang
+manajemen pemanfaatan
+waktu AI.
+mahasiswa.
+7 Application of 2023 Innocent International • AI • Masalah bias
+Intelligence (AI) Igbokwe Scientific and efisiensi dalam
+in Educational Research administrasi penilaian
+13(3), 300- • AI • Perlunya
+312 memungkinkan regulasi etika
+analisis prediktif AI dalam
+untuk pendidikan.
+identifikasi • Kebutuhan re-
+siswa berisiko skilling tenaga
+putus sekolah. pendidik untuk
+• AI dapat mengadopsi AI.
+membantu
+personalisasi
+kurikulum
+berbasis data.
+8 Analisis 2024 Almira INNOVATIVE: • AI • Masih terdapat
+(AI) Dan Opan personal, dan terutama di
+Indonesia belajar secara pendidikan
+lebih terukur memunculkan
+dan objektif isu terkait
+• Penerapan AI keamanan data
+dapat siswa dan etika
+e-ISSN 2808-7844
+p-ISSN 2963-1165
+membantu penggunaanny
+dalam a
+perencanaan • AI tidak dapat
+strategi sepenuhnya
+pendidikan menggantikan
+berbasis data peran guru,
+terutama
+dalam aspek
+bimbingan,
+motivasi, dan
+pengembangan
+karakter siswa
+• Diperlukan
+investasi dalam
+pelatihan guru
+agar mereka
+dapat
+memanfaatkan
+AI secara
+optimal dalam
+pembelajaran
+Manfaat AI dalam dunia pendidikan di Indonesia
+Kecerdasan buatan (AI) telah membawa perubahan signifikan dalam dunia pendidikan,
+terutama dalam meningkatkan personalisasi pembelajaran (Putri dkk, 2023; Yolanda & Ramona, 2024).
+Dengan adanya teknologi AI, proses pembelajaran dapat disesuaikan dengan karakteristik dan
+kebutuhan setiap individu, memungkinkan pendekatan yang lebih adaptif dan efektif. Salah satu
+keunggulan AI dalam pendidikan adalah kemampuannya untuk menyesuaikan materi pembelajaran
+dengan gaya belajar masing-masing mahasiswa, sehingga mereka dapat memperoleh pemahaman
+yang lebih optimal sesuai dengan p
+mampu menyesuaikan tingkat kesulitan pembelajaran berdasarkan kemampuan dan perkembangan
+mahasiswa, memberikan tantangan yang sesuai tanpa membuat mereka merasa kewalahan atau
+terlalu mudah bosan (Kasman dkk, 2024).
+dengan kebutuhan dan karakteristik masing-masing peserta didik, sehingga menciptakan pengalaman
+belajar yang lebih efektif dan adaptif. Selain itu, penerapan AI juga berkontribusi dalam perencanaan
+strategi pendidikan yang berbasis data, sebagaimana diungkapkan oleh Ulimaz dkk. (2024). Dengan
+kemampuan AI dalam menganalisis data secara mendalam, institusi pendidikan dapat mengidentifikasi
+pola belajar, mengevaluasi efektivitas metode pengajaran, serta merancang intervensi yang lebih tepat
+sasaran. Hal ini memungkinkan pengambilan keputusan yang lebih berbasis bukti, sehingga
+meningkatkan kualitas pembelajaran secara keseluruhan.
+AI memungkinkan sistem pembelajaran untuk menyesuaikan materi dan metode pengajaran
+berdasarkan kebutuhan serta kemampuan masing-masing peserta didik, sehingga proses belajar
+menjadi lebih efektif dan personal (Ulimaz dkk, 2024; Isnain, 2025). Selain itu, AI juga berperan dalam
+memperluas akses pendidikan melalui berbagai inovasi digital, seperti chatbot akademik yang dapat
+memberikan bimbingan serta menjawab pertanyaan mahasiswa secara real-time. Sistem
+pembelajaran daring berbasis AI semakin memperkaya pengalaman belajar dengan menyediakan
+materi interaktif serta evaluasi otomatis yang membantu peserta didik dalam memahami konsep
+secara lebih mendalam (Putri dkk, 2023).
+e-ISSN 2808-7844
+p-ISSN 2963-1165
+materi belajar, memungkinkan mahasiswa untuk memperoleh sumber belajar yang lebih luas dan
+bervariasi sesuai dengan kebutuhan mereka. Selain itu, AI tidak hanya memperkaya konten
+pembelajaran, tetapi juga berperan dalam meningkatkan keterlibatan mahasiswa dalam proses
+belajar-mengajar (Kasman dkk., 2024). Dengan adanya sistem berbasis AI, mahasiswa dapat lebih aktif
+berpartisipasi dalam diskusi, menyelesaikan tugas interaktif, serta mendapatkan umpan balik yang
+lebih cepat dan relevan. Penelitian yang dilakukan oleh Murcahyanto (2023) juga membuktikan bahwa
+AI dapat meningkatkan kemandirian mahasiswa, sehingga dapat menjadi alternatif metode
+pembelajaran yang efektifLebih lanjut, AI juga membantu dalam pemantauan perkembangan belajar
+secara lebih terukur dan objektif (Ulimaz dkk., 2024).
+Kecerdasan buatan (AI) telah membantu manajemen waktu mahasiswa, memungkinkan mereka
+untuk mengatur jadwal perkuliahan, tugas, dan kegiatan akademik lainnya secara lebih terstruktur
+(Putri dkk, 2023; Kamil & Miranda, 2025). Berbagai aplikasi berbasis AI mampu memberikan
+rekomendasi jadwal belajar yang optimal berdasarkan pola aktivitas pengguna, sehingga mahasiswa
+dapat memanfaatkan waktu mereka dengan lebih produktif. Selain itu, AI juga berperan dalam
+meningkatkan efektivitas dan efisiensi penyelesaian tugas, misalnya melalui fitur otomatisasi
+pencarian 
+sistematis (Hikmatiar, 2024).
+Dalam hal evaluasi dan umpan balik pembelajaran, AI mampu memberikan umpan balik real-
+time kepada mahasiswa, sehingga mereka dapat segera mengetahui kekuatan dan kelemahan dalam
+pemahaman materi (Yolanda & Ramona, 2024). Selain itu, AI juga mempermudah sistem evaluasi
+otomatis yang memungkinkan penilaian dilakukan secara lebih cepat dan objektif (Putri dkk, 2023;
+Isnain, 2025). Dengan adanya sistem ini, proses penilaian tidak lagi sepenuhnya bergantung pada
+tenaga pengajar, sehingga dosen dapat lebih fokus pada aspek bimbingan akademik dan
+pengembangan materi pembelajaran (Putri dkk, 2023; Kasman dkk, 2024).
+Mengurangi beban administratif dosen menjadi salah satu langkah strategis dalam
+meningkatkan efektivitas dan kualitas pembelajaran di perguruan tinggi (Isnain, 2025). Beban
+administratif yang berlebihan sering kali mengurangi waktu dosen untuk fokus pada kegiatan akademik
+utama, seperti penelitian, pengajaran, dan pengabdian kepada masyarakat. Oleh karena itu,
+diperlukan sistem administrasi yang lebih efisien untuk mendukung kelancaran tugas akademik tanpa
+membebani tenaga pengajar. Penerapan teknologi digital dalam manajemen administrasi pendidikan
+dapat menjadi solusi untuk meningkatkan efisiensi, transparansi, dan akurasi dalam pengelolaan data
+serta pelaporan akademik (Igbokwe, 2023). Dengan demikian, optimalisasi sistem administrasi tidak
+hanya meringankan beban dosen, tetapi juga berkontribusi pada peningkatan mutu pendidikan secara
+keseluruhan.
+Lebih luas lagi, Igbokwe (2023) dalam penelitiannya mengungkapkan kemungkinan AI
+melakukan analisis prediktif untuk mengidentifikasi risiko putus sekolah. Dengan kemampuannya
+dalam mengolah data dalam jumlah besar, AI dapat mengenali pola-pola yang menunjukkan potensi
+siswa mengalami kesulitan akademik atau faktor lain yang berkontribusi terhadap kemungkinan
+mereka berhenti sekolah. Analisis ini mencakup berbagai variabel, seperti riwayat akademik, tingkat
+kehadiran, keterlibatan dalam kegiatan sekolah, serta faktor sosial-ekonomi yang mempengaruhi
+prestasi siswa. Dengan pemanfaatan AI, pihak sekolah dapat melakukan intervensi dini dan
+memberikan dukungan yang lebih tepat sasaran untuk mencegah siswa dari kemungkinan putus
+sekolah. Oleh karena itu, integrasi teknologi kecerdasan buatan dalam dunia pendidikan tidak hanya
+berperan dalam meningkatkan efektivitas pembelajaran, tetapi juga dalam menjaga keberlanjutan
+pendidikan.
+Integrasi AI di perguruan tinggi berperan penting dalam meningkatkan kualitas pembelajaran,
+efisiensi administrasi, serta mendorong inovasi dan penelitian. Selain itu, pemanfaatan AI juga
+menekankan pentingnya penerapan teknologi secara etis, membekali mahasiswa dengan
+keterampilan yang relevan, serta memperkuat kerja sama antara akademisi, industri, dan pemerintah.
+AI turut mendukung kolaborasi lintas disiplin ilmu, mempercepat transfer pengetahuan, serta memacu
+inovasi dalam berbagai bidang. Untuk mengelola AI secara efektif dalam proses akademik dan
+e-ISSN 2808-7844
+p-ISSN 2963-1165
+penelitian, para pemimpin dapat menerapkan berbagai strategi, seperti meningkatkan literasi digital,
+mengembangkan sumber daya manusia, membangun kemitraan strategis, serta menerapkan
+kepemimpinan yang beretika dan inovatif dalam pendidikan. Selain itu, kepemimpinan yang
+berorientasi pada strategi berkelanjutan juga diperlukan guna menghadapi tantangan dan
+memanfaatkan peluang yang ditawarkan AI, sehingga dapat meningkatkan kualitas serta daya saing
+akademik dan penelitian.
+Tantangan pengimplementasian AI dalam pendidikan di Indonesia
+Meskipun kecerdasan buatan (AI) memberikan banyak manfaat dalam dunia pendidikan,
+terdapat beberapa tantangan yang perlu diperhatikan, terutama terkait privasi dan keamanan data
+mahasiswa. Putri dkk. (2023), Kasman dkk. (2024), serta Ulimaz dkk. (2024) menyoroti bahwa
+penggunaan AI dalam sistem pembelajaran dan administrasi akademik berpotensi menimbulkan risiko
+kebocoran data serta penyalahgunaan informasi pribadi mahasiswa. Selain itu, Yolanda dan Ramona
+(2024) serta Kamil dan Miranda (2025) menambahkan bahwa ketergantungan yang berlebihan pada
+AI dapat mengurangi kemampuan berpikir kritis serta kreativitas mahasiswa dalam menyelesaikan
+permasalahan secara mandiri. Salah satu bentuk ketergantungan ini terlihat pada penggunaan
+ChatGPT sebagai alat bantu belajar. Menurut Putri dkk. (2023) dan Hikmatiar dkk. (2024), banyak
+mahasiswa cenderung mengandalkan ChatGPT untuk menyelesaikan tugas akademik tanpa melakukan
+analisis mendalam, yang berpotensi menghambat perkembangan keterampilan berpikir kritis mereka.
+Oleh karena itu, diperlukan regulasi serta pendekatan yang bijak dalam pemanfaatan AI agar teknologi
+ini tetap menjadi alat yang mendukung pembelajaran tanpa menggantikan peran utama mahasiswa
+dalam proses akademik.
+Selain itu, regulasi yang tepat sangat diperlukan dalam menghadapi tantangan etis (Igbokwe,
+2023; Putri dkk, 2023). Salah satu tantangan utama adalah risiko plagiarisme yang semakin meningkat
+dengan adanya AI generatif, yang dapat digunakan untuk menghasilkan teks atau tugas akademik
+secara otomatis tanpa mencerminkan pemahaman asli dari mahasiswa (Hikmatiar dkk, 2024; Kamil &
+Miranda, 2025). Hal ini menuntut adanya pedoman etika yang jelas dalam penggunaan AI di lingkungan
+akademik, sehingga mahasiswa tetap didorong untuk berpikir kritis dan mengembangkan kemampuan
+analitis mereka. Selain itu, institusi pendidikan perlu mengadopsi teknologi pendeteksi plagiarisme
+berbasis AI serta memberikan pemahaman kepada mahasiswa tentang batasan penggunaan AI dalam
+penulisan akademik. Dengan regulasi yang tepat, AI dapat dimanfaatkan secara bertanggung jawab
+untuk mendukung pembelajaran tanpa mengurangi nilai kejujuran akademik dan integritas ilmiah.
+Kesenjangan teknologi antara institusi pendidikan masih menjadi tantangan yang signifikan
+dalam dunia akademik (Yolanda & Ramona, 2024). Perbedaan akses terhadap teknologi canggih,
+seperti kecerdasan buatan (AI), sistem pembelajaran daring, dan infrastruktur digital, menyebabkan
+ketimpangan dalam kualitas pendidikan yang diterima oleh mahasiswa di berbagai institusi. Institusi
+dengan sumber daya yang memadai mampu memanfaatkan teknologi untuk meningkatkan efektivitas
+pembelajaran, menyediakan materi interaktif, serta menerapkan sistem evaluasi otomatis yang lebih
+akurat. Sebaliknya, institusi dengan keterbatasan teknologi sering kali menghadapi kesulitan dalam
+mengadopsi metode pembelajaran berbasis digital, sehingga berdampak pada efektivitas pengajaran
+dan kesiapan mahasiswa dalam menghadapi era digital. Oleh karena itu, diperlukan upaya strategis,
+baik dari pemerintah maupun institusi pendidikan, untuk mengurangi kesenjangan ini melalui
+peningkatan infrastruktur teknologi, pelatihan bagi tenaga pendidik, serta kebijakan yang mendukung
+pemerataan akses terhadap teknologi pendidikan.
+Kebutuhan re-skilling tenaga pendidik menjadi aspek krusial dalam mengadopsi kecerdasan
+buatan (AI) dalam dunia pendidikan (Igbokwe, 2023). Meskipun AI memiliki potensi besar dalam
+meningkatkan kualitas pembelajaran, banyak dosen masih memiliki pemahaman yang terbatas
+tentang cara memanfaatkan teknologi ini secara efektif dalam proses pengajaran (Putri dkk, 2023).
+Kurangnya literasi digital dan keterampilan teknis dalam penggunaan AI dapat menghambat
+optimalisasi teknologi ini dalam mendukung personalisasi pembelajaran, evaluasi otomatis, serta
+pengelolaan akademik yang lebih efisien. Oleh karena itu, diperlukan investasi yang berkelanjutan
+e-ISSN 2808-7844
+p-ISSN 2963-1165
+dalam pelatihan tenaga pendidik agar mereka dapat menguasai keterampilan yang dibutuhkan untuk
+mengintegrasikan AI dalam metode pengajaran mereka (Ulimaz dkk, 2024). Pelatihan ini tidak hanya
+mencakup aspek teknis dalam penggunaan AI, tetapi juga strategi pedagogis yang memungkinkan
+pemanfaatan AI secara inovatif dan efektif. Dengan demikian, peningkatan kompetensi dosen dalam
+bidang AI akan berkontribusi pada pembelajaran yang lebih adaptif, interaktif, dan sesuai dengan
+tuntutan perkembangan teknologi di era digital.
+Kesiapan pengguna dalam mengadopsi AI menjadi faktor kunci dalam keberhasilan
+implementasi teknologi ini dalam berbagai sektor, termasuk pendidikan dan administrasi akademik
+(Yolanda & Ramona, 2024). Namun, tantangan utama yang masih dihadapi adalah kesiapan
+infrastruktur teknologi yang belum merata. Di beberapa wilayah, terutama daerah yang kurang
+berkembang, akses terhadap teknologi masih terbatas, sehingga menghambat pemanfaatan AI secara
+optimal (Ulimaz dkk., 2024). Perbedaan akses ini menciptakan kesenjangan digital yang semakin
+memperlebar jurang antara daerah maju dan daerah tertinggal dalam penerapan teknologi cerdas.
+Selain itu, keterbatasan jaringan internet dan kurangnya perangkat pendukung juga menjadi kendala
+utama yang menyebabkan pemanfaatan AI di daerah tertentu masih sangat terbatas (Isnain, 2025).
+Oleh karena itu, diperlukan upaya strategis dalam pengembangan infrastruktur teknologi yang lebih
+merata agar AI dapat diakses dan dimanfaatkan oleh semua pihak secara lebih inklusif dan berkeadilan.
+Bias algoritma dalam sistem AI telah menjadi salah satu tantangan utama dalam
+pengembangannya, terutama dalam konteks pendidikan dan pengambilan keputusan akademik
+(Igbokwe, 2023; Kasman dkk., 2024; Isnain, 2025). Bias ini dapat muncul akibat data pelatihan yang
+tidak representatif, metode pemrosesan yang tidak netral, atau kecenderungan sistem dalam
+memberikan hasil yang lebih menguntungkan kelompok tertentu dibandingkan kelompok lainnya.
+Dalam dunia pendidikan, bias algoritma dapat berdampak pada seleksi mahasiswa, penilaian
+akademik, serta rekomendasi pembelajaran yang tidak selalu adil dan objektif. Misalnya, jika sistem AI
+dilatih menggunakan data historis yang mencerminkan ketimpangan akses pendidikan, maka AI
+berisiko mereplikasi dan memperkuat ketidakadilan tersebut. Oleh karena itu, penting bagi
+pengembang sistem AI untuk menerapkan strategi mitigasi, seperti diversifikasi data pelatihan,
+peningkatan transparansi dalam algoritma, serta evaluasi berkala untuk memastikan bahwa keputusan
+yang dihasilkan lebih adil dan inklusif bagi semua pengguna.
+Tantangan lainnya dalam penerapan kecerdasan buatan (AI) dalam pendidikan adalah
+berkurangnya interaksi manusia dalam proses pembelajaran (Kasman dkk., 2024). Meskipun AI mampu
+memberikan materi yang dipersonalisasi dan umpan balik secara real-time, kehadiran seorang
+pendidik tetap sangat penting dalam membangun hubungan emosional dengan peserta didik. AI tidak
+dapat sepenuhnya menggantikan peran pendidik, terutama dalam aspek bimbingan, motivasi, dan
+pengembangan karakter (Ulimaz dkk., 2024). Interaksi langsung antara pendidik dan peserta didik
+berperan dalam membangun empati, memberikan dukungan moral, serta menanamkan nilai-nilai
+etika yang tidak dapat diajarkan oleh teknologi secara efektif. Selain itu, dalam situasi tertentu, siswa
+membutuhkan dorongan dan arahan langsung dari pendidik untuk mengatasi kesulitan belajar atau
+menghadapi tantangan akademik dan sosial. Oleh karena itu, meskipun AI dapat menjadi alat bantu
+yang sangat berguna dalam dunia pendidikan, peran manusia sebagai pendidik tetap tidak tergantikan
+dalam membentuk individu yang tidak hanya cerdas secara intelektual, tetapi juga memiliki karakter
+yang kuat dan sikap yang baik dalam kehidupan bermasyarakat.
+SIMPULAN
+Secara keseluruhan, kecerdasan buatan (AI) telah memberikan kontribusi yang signifikan dalam
+dunia pendidikan, terutama dalam meningkatkan personalisasi pembelajaran, efektivitas evaluasi,
+serta efisiensi administrasi akademik. AI memungkinkan sistem pembelajaran yang lebih adaptif dan
+interaktif, menyesuaikan materi serta metode pengajaran sesuai dengan kebutuhan dan kemampuan
+peserta didik. Selain itu, AI juga berperan dalam memperluas akses pendidikan melalui berbagai
+inovasi digital, seperti chatbot akademik dan sistem pembelajaran daring berbasis AI. Dalam aspek
+manajemen akademik, AI membantu mahasiswa dalam pengaturan jadwal belajar yang lebih optimal
+e-ISSN 2808-7844
+p-ISSN 2963-1165
+serta mempermudah dosen dalam mengelola tugas administratif, sehingga mereka dapat lebih fokus
+pada pengajaran dan penelitian. Lebih jauh, AI juga berpotensi dalam menganalisis data pendidikan
+secara prediktif, membantu mengidentifikasi risiko putus sekolah serta merancang intervensi yang
+lebih tepat sasaran. Dengan demikian, penerapan AI dalam dunia pendidikan tidak hanya
+meningkatkan kualitas pembelajaran, tetapi juga mendukung keberlanjutan pendidikan dan
+pengelolaan akademik yang lebih efisien.
+Kecerdasan buatan (AI) menawarkan berbagai manfaat dalam dunia pendidikan, terdapat
+sejumlah tantangan yang perlu diatasi agar implementasinya dapat berjalan optimal dan
+berkelanjutan. Tantangan utama meliputi isu privasi dan keamanan data, risiko ketergantungan
+berlebihan pada AI yang dapat menghambat pengembangan keterampilan berpikir kritis mahasiswa,
+serta meningkatnya potensi plagiarisme akademik. Selain itu, kesenjangan teknologi antar institusi
+pendidikan dan keterbatasan infrastruktur di beberapa wilayah turut menjadi hambatan dalam
+pemerataan akses terhadap AI. Kesiapan tenaga pendidik dalam mengadopsi AI juga menjadi faktor
+krusial yang perlu diperhatikan, mengingat kurangnya literasi digital dapat menghambat pemanfaatan
+teknologi ini dalam proses pembelajaran. Lebih lanjut, bias algoritma dalam AI dapat berpotensi
+menciptakan ketidakadilan dalam pengambilan keputusan akademik, sehingga diperlukan strategi
+mitigasi yang tepat. Di samping itu, peran pendidik tetap tidak tergantikan dalam aspek bimbingan,
+motivasi, dan pengembangan karakter mahasiswa, yang tidak dapat sepenuhnya dilakukan oleh AI.
+Oleh karena itu, regulasi yang jelas, penguatan infrastruktur, peningkatan literasi digital, serta
+pendekatan yang seimbang antara teknologi dan interaksi manusia menjadi kunci utama dalam
+pemanfaatan AI yang efektif dan bertanggung jawab dalam dunia pendidikan.
+Andriyani, W., Natsir, F., Asri, Y.N., (2024). AI Generatif dan Mutu Pendidikan. Bandung: Widina Media
+Harmilawati, Rifqatussa’diyah, Amalia, P., et al. (2024). Peran Teknologi AI dalam Pengembangan
+Keguruan IAIM Sinjai, 3, 26-31
+Hartini, Y., Noorhafizah., Novitawati. (2025). Peran Kepemimpinan Dan Strategi Manajeman Mutu
+Pendidikan dan Pembelajaran, 5(1), 303-311
+Hikmatiar, H., Sya’bania, N., Jayadin, R. A., et al. (2024). The Effectiveness of Chatgpt in Completing
+Igbokwe, I. C. (2023). Application of Artificial Intelligence (AI) in Educational Management.
+Isnain, N. (2025). Implementasi AI dalam Sektor Pendidikan. Journal of Multidisciplinary Inquiry in
+Science, Technology and Educational Research, 2(2), 3175-3182.
+Jusman & Usman, A. (2025). Peran Teknologi Pendidikan dalam Meningkatkan Kualitas Pembelajaran
+di Era Digital: Sebuah Studi Literatur. Sultra: Jurna Pendidikan Multidisiplin, 1(1), 1-10
+Kamil, I., & Miranda, T. (2025). Pengaruh AI terhadap Mahasiswa di Perguruan Tinggi. JEDBUS (Journal
+of Economic and Digital Business), 2(1), 33-40.
+e-ISSN 2808-7844
+p-ISSN 2963-1165
+Kasman, R. A., Judijanto, L., & Elmiwati. (2024). Facing The Digital Era: A Comprehensive
+844-856
+Masrichah, S. (2023). Ancaman Dan Peluang Artificial Intelligence (AI). Khatulistiwa: 
+Murcahyanto, H. (2023). Penerapan Media Chat GPT pada Pembelajaran Manajemen Pendidikan
+terhadap Kemandirian Mahasiswa. Edumatic: 
+Peliza, R. (2024). Penerapan Teknologi Artificial Intelligence (Ai) Terhadap Peningkatan Efektivitas
+Putri, V. A., Andjani, K. C., & Rafael, R. A. (2023). Peran AI dalam Pembelajaran Mahasiswa. Seminar
+Nasional 
+Taruklimbong, E.S.W. & Sihotang, H. (2023). Peluang dan Tantangan Penggunaan AI (Artificial
+Intelligence) dalam Pembelajaran Kimia. 
+Rochmawati, D.R., Arya, I., & Zakarriya, A. (2023). Manfaat Kecerdasan Buatan Untuk Pendidikan.
+Sape, H. (2024). Pengaruh Platform Digital Terhadap Kemampuan Literasi Numerasi Siswa. 
+Ulimaz, A., Cahyono, D., Dhaniswara, E., et al. (2024). Analisis Dampak Kolaborasi Pemanfaatan
+INNOVATIVE: Journal Of Socal Science Research, 4(3), 9312-9319
+Yollanda, F., & Ramona. (2024). Tren Penggunaan AI dalam Meningkatkan Pembelajaran Mahasiswa.
+SINTAMA: 
+Volume 4, Number 1, Maret 2024
+Pendidikan dan Analisis Pembelajaran di Indonesia
+Isdayani.B1*, Andi Nurlinda Thamrin2, Agus Milani3
+1,2,3
+merupakan bidang yang kompleks dan terus berkembang pesat. Perkembangan
+ini membawa potensi besar untuk mentransformasi proses belajar-mengajar,
+Diajukan: 12 Agustus 2024
+namun juga menimbulkan berbagai tantangan etis dan praktis yang perlu
+Disetujui: 20 Agustus 2024
+diatasi. Implementasi AI dalam pendidikan membutuhkan pertimbangan yang
+Dipublikasi: 24 Agustus 2024
+cermat dan menyeluruh terhadap berbagai aspek kritis, termasuk privasi data
+peserta didik, keadilan dan inklusivitas dalam akses serta penggunaan
+teknologi, transparansi algoritma dan pengambilan keputusan, tingkat dan
+Penggunaan, Teknologi,
+bentuk kontrol manusia yang tepat, aksesibilitas bagi semua kelompok peserta
+Pendidikan, dan Etika AI
+didik termasuk mereka dengan kebutuhan khusus, serta potensi dampak jangka
+panjang terhadap perkembangan kognitif, sosial, dan emosional peserta didik.
+Technology (Digitech) is an
+Mengingat kompleksitas isu-isu tersebut, pendekatan etis terhadap integrasi AI
+work is licensed under a dalam pendidikan harus melibatkan dialog berkelanjutan dan kolaborasi erat
+NonCommercial 4.0 International tingkatan, pengembang teknologi AI, pembuat kebijakan pendidikan, siswa
+(CC BY-NC 4.0). sebagai pengguna utama, serta masyarakat luas yang memiliki kepentingan
+dalam sistem pendidikan. Tujuan utama dari dialog dan kolaborasi ini adalah
+untuk memastikan bahwa teknologi AI diimplementasikan dan digunakan
+dengan cara yang tidak hanya bermanfaat dari segi edukasi, tetapi juga adil,
+etis, dan menghormati hak-hak serta kepentingan semua pihak yang terlibat.
+Penelitian ini mengadopsi pendekatan kualitatif untuk mengeksplorasi secara
+mendalam berbagai aspek penggunaan AI dalam pendidikan. Tujuan utama
+dari penelitian ini adalah untuk mengidentifikasi dan menganalisis manfaat
+potensial dari integrasi kecerdasan buatan dalam bidang pendidikan.
+PENDAHULUAN
+Pemanfaatan kecerdasan buatan (AI) dalam membantu pekerjaan individu di bidang pendidikan merupakan
+topik yang sangat menarik dan relevan di era digital saat ini. AI memiliki potensi besar untuk mengubah cara kita
+belajar, mengajar, dan mengelola sistem pendidikan secara keseluruhan. Dalam konteks pembelajaran, AI dapat
+digunakan untuk menciptakan pengalaman belajar yang lebih personal dan adaptif. Sistem pembelajaran berbasis
+AI mampu menganalisis gaya belajar, kekuatan, dan kelemahan setiap siswa, kemudian menyesuaikan materi dan
+metode pengajaran sesuai kebutuhan individual. (Oktavisa, et al. 2022)
+Misalnya, jika seorang siswa kesulitan memahami konsep tertentu, sistem AI dapat memberikan penjelasan
+tambahan atau menyajikan materi dalam format yang lebih mudah dipahami oleh siswa tersebut. Hal ini
+memungkinkan setiap siswa untuk belajar dengan kecepatan dan cara yang paling sesuai untuk mereka,
+meningkatkan efektivitas pembelajaran secara signifikan.
+Bagi para guru, AI dapat menjadi asisten yang sangat berharga dalam berbagai tugas administratif dan
+persiapan pengajaran. Sistem AI dapat membantu dalam penyusunan rencana pembelajaran, pembuatan materi
+ajar, dan bahkan dalam menilai tugas dan ujian siswa. Dengan mengotomatisasi tugas-tugas rutin ini, guru
+memiliki lebih banyak waktu untuk fokus pada aspek-aspek pengajaran yang membutuhkan sentuhan manusia,
+seperti memberikan bimbingan personal kepada siswa atau mengembangkan metode pengajaran yang lebih
+inovatif.
+Dalam hal penilaian dan evaluasi, AI dapat memberikan analisis yang lebih mendalam dan objektif terhadap
+kinerja siswa. Sistem AI dapat menganalisis pola jawaban siswa, mengidentifikasi area-area di mana siswa
+mengalami kesulitan, dan memberikan umpan balik yang lebih spesifik dan konstruktif. Ini tidak hanya membantu
+guru dalam memberikan penilaian yang lebih akurat, tetapi juga memungkinkan siswa untuk memahami kekuatan
+dan kelemahan mereka dengan lebih baik.
+AI juga dapat dimanfaatkan untuk meningkatkan aksesibilitas pendidikan. Melalui platform pembelajaran
+Volume 4, Number 1, Maret 2024
+online yang didukung AI, siswa dari berbagai latar belakang dan lokasi geografis dapat mengakses materi
+pembelajaran berkualitas tinggi. Sistem AI dapat menyediakan terjemahan real-time untuk konten pembelajaran,
+memungkinkan siswa dari berbagai negara untuk mengakses sumber daya pendidikan global tanpa hambatan
+bahasa.
+Dalam konteks administrasi pendidikan, AI dapat membantu dalam pengelolaan data siswa, penjadwalan
+kelas, dan bahkan dalam proses penerimaan siswa baru. Sistem AI dapat menganalisis data historis untuk
+memprediksi tren pendaftaran, membantu dalam alokasi sumber daya yang lebih efisien, dan mengidentifikasi
+siswa yang mungkin memerlukan dukungan tambahan. Namun, penting untuk diingat bahwa pemanfaatan AI
+dalam pendidikan juga memiliki tantangan dan batasan. Kekhawatiran tentang privasi data siswa, potensi bias
+dalam algoritma AI, dan risiko over-reliance pada teknologi perlu dipertimbangkan dengan cermat. Selain itu,
+peran guru sebagai fasilitator, mentor, dan sumber inspirasi bagi siswa tetap tidak tergantikan oleh AI.
+Oleh karena itu, pendekatan terbaik dalam memanfaatkan AI di bidang pendidikan adalah dengan
+mengintegrasikannya secara bijak sebagai alat bantu, bukan sebagai pengganti peran manusia. AI harus dilihat
+sebagai teknologi yang memperkuat dan meningkatkan kemampuan pendidik dan siswa, bukan menggantikannya
+sepenuhnya. Dalam perkembangannya ke depan, kita mungkin akan melihat lebih banyak inovasi dalam
+pemanfaatan AI di bidang pendidikan. Misalnya, penggunaan realitas virtual dan augmented reality yang
+didukung AI untuk menciptakan pengalaman belajar yang lebih imersif, atau pengembangan chatbot AI yang
+dapat bertindak sebagai tutor personal 24/7 bagi siswa.
+Implementasi etika penggunaan kecerdasan buatan dalam sistem pendidikan di Indonesia memerlukan
+perhatian yang serius dan pendekatan yang holistik. Dengan mempertimbangkan aspek-aspek seperti
+perlindungan data pribadi, keadilan akses, penghindaran bias, transparansi dalam analisis pembelajaran, dan
+pendidikan etika AI, kita dapat memastikan bahwa teknologi ini digunakan untuk meningkatkan kualitas
+pendidikan tanpa mengorbankan nilai-nilai kemanusiaan dan keadilan sosial. (Chen, et al, 2020)
+STUDI LITERATURE
+Penggunaan AI
+Penggunaan kecerdasan buatan (AI) telah berkembang pesat dalam beberapa tahun terakhir dan telah menjadi
+bagian integral dari berbagai sektor, termasuk pendidikan, kesehatan, bisnis, dan banyak lagi. AI merujuk pada
+kemampuan mesin untuk meniru fungsi kognitif manusia, seperti belajar, berpikir, dan memecahkan masalah.
+Dengan kemajuan teknologi, AI kini dapat melakukan tugas-tugas yang sebelumnya hanya dapat dilakukan oleh
+manusia, dan ini membawa dampak yang signifikan terhadap cara kita hidup dan bekerja.
+Dalam konteks pendidikan, penggunaan AI menawarkan berbagai manfaat yang dapat meningkatkan
+pengalaman belajar bagi siswa dan efisiensi bagi pendidik. Salah satu aplikasi utama AI dalam pendidikan adalah
+dalam pengembangan sistem pembelajaran adaptif. Sistem ini menggunakan algoritma untuk menganalisis data
+tentang kemajuan belajar siswa dan menyesuaikan materi pelajaran sesuai dengan kebutuhan individu. Dengan
+cara ini, siswa yang memiliki kecepatan belajar yang berbeda dapat menerima pengalaman belajar yang lebih
+personal dan efektif. Misalnya, jika seorang siswa kesulitan dengan konsep tertentu, sistem AI dapat memberikan
+lebih banyak latihan dan sumber daya yang relevan untuk membantu siswa tersebut memahami materi dengan
+lebih baik.
+Selain itu, AI juga dapat digunakan untuk mengotomatiskan tugas-tugas administratif yang sering kali
+memakan waktu bagi pendidik. Tugas seperti penilaian, pengelolaan jadwal, dan pengolahan data siswa dapat
+diotomatisasi dengan menggunakan teknologi AI. Hal ini memungkinkan guru untuk menghabiskan lebih banyak
+waktu untuk berinteraksi dengan siswa dan fokus pada pengajaran, daripada terjebak dalam tugas-tugas
+administratif yang repetitif. Dengan demikian, AI tidak hanya meningkatkan efisiensi operasional, tetapi juga
+meningkatkan kualitas interaksi antara guru dan siswa.
+Di sektor kesehatan, penggunaan AI telah merevolusi cara diagnosis dan perawatan dilakukan. Algoritma AI
+dapat menganalisis data medis dalam jumlah besar, termasuk gambar medis, catatan kesehatan, dan hasil
+laboratorium, untuk membantu dokter dalam membuat keputusan yang lebih tepat dan cepat. Misalnya, dalam
+radiologi, AI dapat digunakan untuk mendeteksi kelainan dalam gambar X-ray atau MRI dengan akurasi yang
+tinggi, bahkan lebih baik daripada beberapa ahli radiologi. Ini tidak hanya mempercepat proses diagnosis tetapi
+juga dapat meningkatkan hasil perawatan pasien.
+Dalam dunia bisnis, AI telah menjadi alat yang sangat berharga untuk analisis data dan pengambilan
+keputusan. Perusahaan menggunakan AI untuk menganalisis pola perilaku konsumen, memprediksi tren pasar,
+dan mengoptimalkan rantai pasokan. Dengan memanfaatkan data besar, AI dapat memberikan wawasan yang
+mendalam tentang p
+lebih efektif. Selain itu, chatbot berbasis AI telah menjadi alat penting dalam layanan pelanggan, memberikan
+respons cepat dan efisien terhadap pertanyaan pelanggan, serta meningkatkan pengalaman pelanggan secara
+keseluruhan.
+Volume 4, Number 1, Maret 2024
+Namun, meskipun penggunaan AI menawarkan banyak manfaat, ada juga tantangan dan risiko yang perlu
+diperhatikan. Salah satu isu utama adalah privasi dan keamanan data. Dengan semakin banyaknya data yang
+dikumpulkan dan dianalisis oleh sistem AI, ada kekhawatiran tentang bagaimana data tersebut digunakan dan
+dilindungi. Pelanggaran data dapat mengakibatkan konsekuensi serius bagi individu dan organisasi, sehingga
+penting untuk menerapkan langkah-langkah keamanan yang ketat dan kebijakan privasi yang jelas.
+Selain itu, ada juga kekhawatiran tentang bias dalam algoritma AI. Jika data yang digunakan untuk melatih
+sistem AI tidak representatif atau mengandung bias, hasil yang dihasilkan dapat merugikan kelompok tertentu.
+Misalnya, dalam rekrutmen, algoritma yang bias dapat menyebabkan diskriminasi terhadap kandidat dari latar
+belakang tertentu. Oleh karena itu, penting untuk memastikan bahwa data yang digunakan dalam pengembangan
+AI bersih dari bias dan mencerminkan keragaman populasi.
+Di samping itu, ada juga pertanyaan etis yang muncul seiring dengan meningkatnya penggunaan AI. Misalnya,
+dalam konteks otonomi kendaraan, siapa yang bertanggung jawab jika terjadi kecelakaan yang melibatkan mobil
+yang dikendalikan oleh AI? Pertanyaan-pertanyaan ini menuntut diskusi yang mendalam dan pengembangan
+kerangka hukum yang jelas untuk mengatur penggunaan AI.
+Secara keseluruhan, penggunaan kecerdasan buatan memiliki potensi yang sangat besar untuk meningkatkan
+berbagai aspek kehidupan kita. Dari pendidikan hingga kesehatan dan bisnis, AI dapat membantu kita menjadi
+lebih efisien, produktif, dan inovatif. Namun, untuk memanfaatkan potensi ini secara maksimal, kita perlu
+menghadapi tantangan yang ada dengan bijaksana dan bertanggung jawab. Ini termasuk memastikan bahwa
+penggunaan AI dilakukan dengan mempertimbangkan etika, privasi, dan keadilan, sehingga teknologi ini dapat
+memberikan manfaat yang adil dan merata bagi semua orang. Dengan pendekatan yang tepat, AI dapat menjadi
+alat yang kuat untuk menciptakan masa depan yang lebih baik.
+Sistem pendidikan adalah struktur yang kompleks dan terorganisir yang dirancang untuk memberikan
+pendidikan kepada individu, mulai dari usia dini hingga pendidikan tinggi. Sistem ini mencakup berbagai institusi,
+kurikulum, metode pengajaran, dan kebijakan yang bertujuan untuk mengembangkan pengetahuan, keterampilan,
+dan sikap siswa. Pendidikan memiliki peran yang sangat penting dalam membentuk individu dan masyarakat,
+karena ia tidak hanya berfungsi untuk mentransfer pengetahuan, tetapi juga untuk membentuk karakter, nilai-nilai,
+dan kemampuan sosial.
+Sistem pendidikan biasanya dibagi menjadi beberapa tingkat, yaitu pendidikan dasar, pendidikan menengah,
+dan pendidikan tinggi. Pendidikan dasar adalah tahap awal yang biasanya dimulai pada usia enam tahun dan
+berlangsung selama enam tahun. Pada tahap ini, siswa diperkenalkan pada mata pelajaran dasar seperti membaca,
+menulis, matematika, dan ilmu pengetahuan. Tujuan utama dari pendidikan dasar adalah untuk memberikan
+fondasi yang kuat bagi siswa agar mereka dapat melanjutkan ke tingkat pendidikan yang lebih tinggi.
+Setelah menyelesaikan pendidikan dasar, siswa melanjutkan ke pendidikan menengah, yang biasanya
+berlangsung selama tiga hingga enam tahun, tergantung pada sistem pendidikan di masing-masing negara.
+Pendidikan menengah dibagi menjadi dua tahap: pendidikan menengah pertama dan pendidikan menengah atas.
+Pada tahap ini, siswa mulai mempelajari mata pelajaran yang lebih spesifik dan mendalam, serta memiliki
+kesempatan untuk memilih jalur pendidikan yang sesuai dengan minat dan bakat mereka, seperti jalur akademik,
+vokasional, atau teknik. Pendidikan menengah bertujuan untuk mempersiapkan siswa untuk melanjutkan ke
+pendidikan tinggi atau memasuki dunia kerja.
+Pendidikan tinggi adalah tahap terakhir dalam sistem pendidikan, yang mencakup universitas, perguruan
+tinggi, dan institusi pendidikan tinggi lainnya. Pada tahap ini, siswa dapat memilih program studi yang lebih
+spesifik sesuai dengan minat dan tujuan karir mereka. Pendidikan tinggi tidak hanya memberikan pengetahuan
+dan keterampilan yang lebih mendalam, tetapi juga mengembangkan kemampuan berpikir kritis, analitis, dan
+kreatif. Lulusan pendidikan tinggi diharapkan dapat berkontribusi secara signifikan dalam masyarakat dan dunia
+kerja.
+Sistem pendidikan juga mencakup berbagai metode pengajaran dan pembelajaran. Metode pengajaran
+tradisional sering kali berfokus pada pengajaran langsung dari guru kepada siswa, di mana guru berperan sebagai
+sumber utama pengetahuan. Namun, dengan perkembangan teknologi dan pemahaman yang lebih baik tentang
+cara belajar, metode pengajaran telah berkembang menjadi lebih interaktif dan berbasis siswa. Pendekatan
+pembelajaran berbasis proyek, pembelajaran kolaboratif, dan pembelajaran berbasis masalah adalah beberapa
+contoh metode yang lebih modern yang mendorong siswa untuk aktif terlibat dalam proses belajar.
+Selain itu, sistem pendidikan juga dipengaruhi oleh kebijakan pemerintah dan lembaga pendidikan. Kebijakan
+pendidikan mencakup berbagai aspek, seperti kurikulum, standar pendidikan, pelatihan guru, dan pendanaan.
+Kebijakan ini dirancang untuk memastikan bahwa pendidikan yang diberikan berkualitas tinggi dan dapat diakses
+oleh semua lapisan masyarakat. Di banyak negara, ada upaya untuk meningkatkan inklusi dalam pendidikan,
+memastikan bahwa anak-anak dari berbagai latar belakang, termasuk mereka yang memiliki kebutuhan khusus,
+dapat mendapatkan pendidikan yang layak.
+Volume 4, Number 1, Maret 2024
+Sistem pendidikan juga berperan penting dalam pengembangan sosial dan ekonomi suatu negara. Pendidikan
+yang berkualitas dapat meningkatkan keterampilan tenaga kerja, yang pada gilirannya dapat mendorong
+pertumbuhan ekonomi. Selain itu, pendidikan juga berkontribusi pada pengurangan kemiskinan dan
+ketidaksetaraan, karena memberikan individu kesempatan untuk meningkatkan kualitas hidup mereka melalui
+pengetahuan dan keterampilan yang diperoleh.
+Namun, sistem pendidikan juga menghadapi berbagai tantangan. Salah satu tantangan utama adalah
+kesenjangan pendidikan, di mana akses dan kualitas pendidikan tidak merata di berbagai daerah dan kelompok
+sosial. Di banyak negara, anak-anak dari keluarga berpenghasilan rendah atau daerah terpencil sering kali
+memiliki akses yang lebih terbatas terhadap pendidikan berkualitas. Selain itu, perubahan cepat dalam teknologi
+dan kebutuhan pasar kerja menuntut sistem pendidikan untuk beradaptasi dan memperbarui kurikulum agar
+relevan dengan perkembangan zaman.
+Tantangan lainnya adalah kebutuhan untuk melatih dan mendukung guru. Guru adalah kunci dalam sistem
+pendidikan, dan kualitas pengajaran sangat bergantung pada kompetensi dan keterampilan guru. Oleh karena itu,
+penting untuk memberikan pelatihan yang memadai dan dukungan berkelanjutan bagi guru agar mereka dapat
+mengajar dengan efektif dan memenuhi kebutuhan siswa.
+Dalam era globalisasi, sistem pendidikan juga harus mempertimbangkan aspek internasional. Pendidikan
+global mendorong siswa untuk memahami dan menghargai keragaman budaya, serta mempersiapkan mereka
+untuk berpartisipasi dalam masyarakat global. Banyak institusi pendidikan kini menawarkan program pertukaran
+pelajar, kolaborasi internasional, dan kurikulum yang mencakup perspektif global.
+METODE
+Metode penelitian ini menggunakan metode kualitatif deskriptif dengan data sekunder sebagai acuan
+penelitiannya. Metode kualitatif deskriptif merujuk pada pendekatan penelitian yang bertujuan untuk
+menggambarkan, menjelaskan, dan menginterpretasikan fenomena, situasi, atau pengalaman secara mendalam
+dan holistik. Pendekatan ini tidak berfokus pada pengukuran numerik atau analisis statistik, melainkan lebih
+menekankan pada pemahaman yang mendalam tentang konteks dan makna dari fenomena yang diteliti.
+Gambar 1. Tahapan Penelitian
+Dalam metode kualitatif deskriptif, penulis mengumpulkan data yang detail, kemudian dianalisis untuk
+mengidentifikasi pola, tema, dan wawasan yang muncul.
+Gambar 2. Presentasi Aplikasi yang Populer
+Volume 4, Number 1, Maret 2024
+Metode ini sangat berguna untuk penulis memahami suatu masalah atau situasi dari perspektif partisipan
+atau subjek penelitian. Penggunaan data sekunder sebagai acuan penelitian menunjukkan bahwa peneliti tidak
+mengumpulkan data primer atau data baru secara langsung untuk studi ini. Sebaliknya, penelitian ini
+mengandalkan data yang sudah ada atau yang telah dikumpulkan sebelumnya oleh pihak lain untuk tujuan yang
+mungkin berbeda. Data sekunder dapat berupa dokumen, laporan, artikel jurnal, buku, statistik yang
+dipublikasikan, atau sumber-sumber lain yang relevan dengan topik penelitian. Hasil dari penelitian ini diharapkan
+dapat memberikan kontribusi signifikan terhadap pemahaman kita tentang peran AI dalam membentuk masa
+depan pendidikan, serta menyediakan landasan bagi pengembangan kebijakan dan praktik yang lebih informed
+dan etis dalam mengintegrasikan teknologi AI ke dalam sistem pendidikan.
+HASIL
+Implementasi etika penggunaan kecerdasan buatan (AI) dalam sistem pendidikan di Indonesia merupakan
+topik yang sangat penting dan relevan, terutama di era digital saat ini. Kecerdasan buatan telah menjadi bagian
+integral dari berbagai sektor, termasuk pendidikan, di mana ia menawarkan berbagai solusi inovatif untuk
+meningkatkan proses belajar mengajar. Namun, seiring dengan potensi besar yang dimiliki AI, muncul juga
+tantangan etis yang perlu diatasi agar teknologi ini dapat digunakan secara bertanggung jawab dan bermanfaat
+bagi semua pihak yang terlibat.
+Pertama-tama, penting untuk memahami apa yang dimaksud dengan etika dalam konteks penggunaan AI.
+Etika berkaitan dengan prinsip-prinsip moral yang mengatur perilaku individu dan organisasi. Dalam konteks
+pendidikan, etika penggunaan AI mencakup pertimbangan tentang bagaimana teknologi ini dapat digunakan untuk
+mendukung pembelajaran tanpa mengorbankan nilai-nilai kemanusiaan, privasi, dan keadilan. Di Indonesia, di
+mana keragaman budaya dan nilai-nilai sosial sangat kaya, penerapan etika ini menjadi semakin kompleks.
+Gambar 3. TYPES of AI
+Salah satu aspek penting dari etika penggunaan AI dalam pendidikan adalah perlindungan data pribadi. Dalam
+banyak aplikasi pendidikan berbasis AI, data siswa dikumpulkan untuk menganalisis kemajuan belajar dan
+memberikan umpan balik yang dipersonalisasi. Namun, pengumpulan dan penggunaan data ini harus dilakukan
+dengan sangat hati-hati. Di Indonesia, Undang-Undang Perlindungan Data Pribadi yang baru-baru ini disahkan
+memberikan kerangka hukum untuk melindungi data pribadi individu. Oleh karena itu, institusi pendidikan harus
+memastikan bahwa mereka mematuhi regulasi ini dan mengimplementasikan langkah-langkah yang tepat untuk
+melindungi privasi siswa.
+Selanjutnya, keadilan dalam akses dan penggunaan teknologi juga merupakan isu etis yang krusial. Di
+Indonesia, terdapat kesenjangan yang signifikan dalam akses terhadap teknologi antara daerah perkotaan dan
+pedesaan. Implementasi AI dalam pendidikan harus mempertimbangkan kesenjangan ini dan berusaha untuk
+menyediakan akses yang setara bagi semua siswa, terlepas dari latar belakang ekonomi atau geografis mereka.
+Jika tidak, penggunaan AI dapat memperburuk ketidakadilan yang sudah ada dalam sistem pendidikan.
+Selain itu, ada juga pertimbangan tentang bias dalam algoritma AI. Algoritma yang digunakan dalam aplikasi
+pendidikan dapat mencerminkan bias yang ada dalam data yang digunakan untuk melatihnya. Misalnya, jika data
+yang digunakan untuk melatih sistem AI tidak mencakup keragaman yang cukup, hasil yang dihasilkan dapat
+merugikan kelompok tertentu. Oleh karena itu, penting bagi pengembang dan pendidik untuk secara aktif
+Volume 4, Number 1, Maret 2024
+mengidentifikasi dan mengatasi bias ini, serta memastikan bahwa sistem AI yang digunakan dalam pendidikan
+adil dan inklusif.
+Dalam konteks analisis pembelajaran, AI dapat digunakan untuk mengumpulkan dan menganalisis data
+tentang cara siswa belajar, yang dapat membantu pendidik dalam merancang kurikulum yang lebih efektif.
+Namun, analisis ini juga harus dilakukan dengan mempertimbangkan etika. Misalnya, penggunaan data untuk
+mengevaluasi kinerja siswa harus dilakukan dengan transparansi dan kejelasan, sehingga siswa dan orang tua
+memahami bagaimana data mereka digunakan dan untuk tujuan apa. Ini juga mencakup memberikan kesempatan
+bagi siswa untuk memberikan umpan balik tentang pengalaman mereka dengan sistem AI.
+Pendidikan di Indonesia juga harus mempersiapkan siswa untuk menghadapi dunia yang semakin dipengaruhi
+oleh AI. Ini berarti bahwa kurikulum harus mencakup pendidikan tentang etika AI, sehingga siswa dapat
+memahami implikasi dari teknologi ini dan belajar untuk menggunakan AI secara bertanggung jawab. Dengan
+memberikan pendidikan yang memadai tentang etika AI, siswa tidak hanya akan menjadi pengguna teknologi
+yang cerdas, tetapi juga akan menjadi individu yang mampu berkontribusi pada pengembangan teknologi yang
+etis di masa depan.
+Kolaborasi antara pemerintah, institusi pendidikan, dan sektor swasta sangat penting dalam mengembangkan
+kerangka etika untuk penggunaan AI dalam pendidikan. Pemerintah dapat berperan dalam menetapkan regulasi
+dan pedoman yang jelas, sementara institusi pendidikan dan sektor swasta dapat bekerja sama untuk
+mengembangkan praktik terbaik dalam penggunaan AI. Dengan pendekatan kolaboratif ini, diharapkan bahwa
+implementasi AI dalam pendidikan di Indonesia dapat dilakukan dengan cara yang etis, adil, dan bermanfaat bagi
+semua pihak.
+PEMBAHASAN
+Kecerdasan buatan (AI) telah mengalami perkembangan yang sangat pesat dan signifikan sejak awal
+kemunculannya. Berawal dari konsep dasar yang diajukan pada tahun 1950-an, AI kini telah menjadi salah satu
+teknologi yang paling berpengaruh dan transformatif di era modern. Pada awalnya, penelitian AI berfokus pada
+pemecahan masalah logika dan penalaran simbolik. Para pionir seperti Alan Turing, John McCarthy, Marvin
+Minsky, dan lainnya mengembangkan dasar-dasar teoretis dan praktis untuk menciptakan mesin yang dapat
+"berpikir". Salah satu tonggak penting adalah pengembangan bahasa pemrograman LISP oleh McCarthy, yang
+menjadi alat utama dalam penelitian AI selama beberapa dekade.
+Kecerdasan buatan (AI) telah mengalami perkembangan yang sangat pesat dan signifikan sejak awal
+kemunculannya. Berawal dari konsep dasar yang diajukan pada tahun 1950-an, AI kini telah menjadi salah satu
+teknologi yang paling berpengaruh dan transformatif di era modern. Pada awalnya, penelitian AI berfokus pada
+pemecahan masalah logika dan penalaran simbolik. Para pionir seperti Alan Turing, John McCarthy, Marvin
+Minsky, dan lainnya mengembangkan dasar-dasar teoretis dan praktis untuk menciptakan mesin yang dapat
+"berpikir". Salah satu tonggak penting adalah pengembangan bahasa pemrograman LISP oleh McCarthy, yang
+menjadi alat utama dalam penelitian AI selama beberapa dekade.
+Memasuki era 1960-an dan 1970-an, AI mengalami periode optimisme yang tinggi, sering disebut sebagai
+"AI summer". Banyak prediksi ambisius dibuat tentang kemampuan AI di masa depan. Namun, keterbatasan
+komputasi dan kompleksitas masalah yang dihadapi menyebabkan kemajuan yang lebih lambat dari yang
+diharapkan, yang mengakibatkan periode penurunan minat dan pendanaan yang dikenal sebagai "AI winter".
+Meskipun menghadapi tantangan, penelitian AI terus berlanjut. Pada 1980-an, pendekatan berbasis aturan
+dan sistem pakar mulai mendapatkan popularitas. Sistem-sistem ini mampu menangani tugas-tugas spesifik
+dengan keahlian yang setara atau bahkan melebihi manusia dalam domain tertentu. Namun, keterbatasan dalam
+menangani ketidakpastian dan pembelajaran adaptif mendorong pencarian pendekatan baru.
+Titik balik besar terjadi pada 1990-an dan 2000-an dengan munculnya pembelajaran mesin (machine
+learning) sebagai paradigma dominan dalam AI. Metode-metode seperti jaringan saraf tiruan, yang sebenarnya
+telah ada sejak 1950-an, mengalami kebangkitan berkat peningkatan kekuatan komputasi dan ketersediaan data
+yang lebih besar. Algoritma pembelajaran seperti support vector machines dan random forests mulai menunjukkan
+keberhasilan dalam berbagai aplikasi praktis.
+Revolusi besar berikutnya datang dengan kemajuan dalam deep learning, terutama sejak 2010-an.
+Arsitektur jaringan saraf dalam seperti convolutional neural networks (CNN) dan recurrent neural networks
+(RNN) memungkinkan AI untuk mencapai kinerja yang luar biasa dalam tugas-tugas seperti pengenalan gambar,
+pemrosesan bahasa alami, dan pengenalan suara. Prestasi-prestasi seperti kemenangan AlphaGo atas juara dunia
+Go pada 2016 menandai pencapaian penting dalam kemampuan AI untuk menangani masalah kompleks.
+Perkembangan terkini dalam AI mencakup kemajuan dalam pembelajaran transfer, di mana model yang
+dilatih untuk satu tugas dapat diadaptasi untuk tugas lain dengan lebih efisien. Teknik-teknik seperti few-shot
+learning dan zero-shot learning memungkinkan AI untuk belajar dari jumlah data yang lebih sedikit. Model bahasa
+besar seperti GPT (Generative Pre-trained Transformer) telah menunjukkan kemampuan yang menakjubkan
+Volume 4, Number 1, Maret 2024
+dalam memahami dan menghasilkan teks, membuka pintu untuk aplikasi-aplikasi baru dalam interaksi manusia-
+komputer.
+Selain itu, penelitian dalam AI juga berkembang ke arah sistem yang lebih explainable dan etis.
+Explainable AI (XAI) bertujuan untuk membuat keputusan AI lebih transparan dan dapat dipahami oleh manusia,
+sementara AI etis berfokus pada pengembangan sistem yang adil, tidak bias, dan menghormati privasi serta nilai-
+nilai manusia. Aplikasi AI kini telah meresap ke berbagai sektor kehidupan, dari asisten virtual di smartphone
+hingga sistem rekomendasi di platform e-commerce, dari diagnosis medis hingga kendaraan otonom. AI juga
+memainkan peran penting dalam penelitian ilmiah, membantu dalam penemuan obat, analisis data astronomi, dan
+pemodelan perubahan iklim.
+Namun, perkembangan pesat AI juga membawa tantangan dan pertanyaan etis yang signifikan. Isu-isu
+seperti privasi data, keamanan siber, dampak otomatisasi terhadap pekerjaan, dan potensi penyalahgunaan AI
+untuk manipulasi informasi atau senjata otonom menjadi perhatian serius. Diskusi global tentang regulasi AI dan
+prinsip-prinsip etis dalam pengembangan dan penerapan AI terus berlangsung. Ke depan, arah perkembangan AI
+mencakup area-area seperti AI umum (Artificial General Intelligence atau AGI) yang mampu menangani berbagai
+tugas seperti manusia, integrasi yang lebih baik antara pembelajaran mesin dan penalaran simbolik, serta
+pengembangan sistem AI yang lebih efisien energi dan ramah lingkungan.
+Perkembangan kecerdasan buatan telah dan akan terus membentuk ulang cara kita hidup, bekerja, dan
+berinteraksi dengan teknologi. Meskipun tantangan yang dihadapi masih besar, potensi AI untuk memecahkan
+masalah-masalah kompleks dan meningkatkan kualitas hidup manusia tetap menjadi pendorong utama inovasi
+dan penelitian di bidang ini. Seiring berjalannya waktu, kolaborasi antara manusia dan AI kemungkinan akan
+menjadi semakin penting, membuka era baru di mana kecerdasan buatan bukan hanya alat, tetapi mitra dalam
+kemajuan peradaban manusia.
+Etika penggunaan AI dalam bidang pendidikan merupakan topik yang sangat penting dan kompleks.
+Penggunaan teknologi kecerdasan buatan membawa banyak manfaat potensial, namun juga menimbulkan
+berbagai pertimbangan etis yang perlu diperhatikan dengan seksama.
+Salah satu prinsip etika utama yang harus diperhatikan adalah privasi dan keamanan data. Sistem AI dalam
+pendidikan seringkali mengumpulkan dan menganalisis data siswa dalam jumlah besar, termasuk informasi
+sensitif seperti data demografis, prestasi akademik, dan bahkan informasi tentang kesulitan belajar. Oleh karena
+itu, sangat penting untuk memastikan bahwa data pribadi siswa dilindungi dengan baik dan tidak disalahgunakan.
+Institusi pendidikan dan pengembang AI harus mematuhi peraturan privasi yang berlaku dan menerapkan langkah-
+langkah keamanan yang ketat untuk melindungi data siswa. Transparansi dalam pengumpulan dan penggunaan
+data juga sangat penting - siswa dan orang tua harus diberi tahu dengan jelas bagaimana data mereka dikumpulkan,
+disimpan, dan digunakan oleh sistem AI.
+Prinsip etika kedua yang krusial adalah keadilan dan kesetaraan. Penggunaan AI dalam pendidikan harus
+bertujuan untuk meningkatkan akses dan kesetaraan, bukan memperlebar kesenjangan yang sudah ada. Algoritma
+AI harus dirancang dan diimplementasikan dengan hati-hati untuk menghindari bias yang dapat merugikan
+kelompok siswa tertentu. Misalnya, jika sistem AI digunakan untuk membuat keputusan penting seperti
+penerimaan siswa atau pemberian beasiswa, harus dipastikan bahwa algoritma tersebut tidak mendiskriminasi
+berdasarkan ras, gender, status sosial ekonomi, atau faktor-faktor lain yang tidak relevan. Pengembang AI dan
+institusi pendidikan harus secara aktif berupaya untuk mengidentifikasi dan menghilangkan bias dalam sistem
+mereka.
+Transparansi merupakan prinsip etika ketiga yang sangat penting. Siswa, orang tua, dan pendidik harus
+memahami bagaimana AI digunakan dalam proses pendidikan mereka. Ini termasuk penjelasan tentang bagaimana
+sistem AI membuat keputusan atau rekomendasi, serta batasan dan potensi kesalahan dari teknologi tersebut.
+Transparansi ini penting untuk membangun kepercayaan dan memungkinkan pengguna untuk membuat keputusan
+informasi tentang penggunaan AI dalam pendidikan mereka.
+Prinsip keempat adalah mempertahankan pengawasan dan kontrol manusia. Meskipun AI dapat
+memberikan wawasan dan rekomendasi yang berharga, keputusan penting yang mempengaruhi siswa tidak boleh
+sepenuhnya diserahkan kepada sistem otomatis. Guru, administrator, dan profesional pendidikan lainnya harus
+tetap berperan aktif dalam mengawasi dan memvalidasi keputusan yang dihasilkan oleh AI. Ini penting untuk
+memastikan bahwa pertimbangan etis dan kontekstual yang mungkin tidak dapat sepenuhnya dipahami oleh AI
+tetap menjadi bagian dari proses pengambilan keputusan.
+Aksesibilitas juga merupakan pertimbangan etis yang penting. Teknologi AI dalam pendidikan harus
+dirancang agar dapat diakses oleh semua siswa, termasuk mereka yang memiliki kebutuhan khusus atau
+disabilitas. Ini mungkin memerlukan adaptasi khusus dalam desain interface, penyediaan alternatif untuk input
+suara atau visual, dan pertimbangan lain untuk memastikan bahwa semua siswa dapat memanfaatkan teknologi
+AI secara setara.
+Volume 4, Number 1, Maret 2024
+Selain itu, penting untuk memastikan bahwa penggunaan AI dalam pendidikan mendukung, bukan
+menggantikan, tujuan pendidikan yang lebih luas. AI harus digunakan untuk meningkatkan pengembangan
+keterampilan kritis, kreativitas, dan kemampuan pemecahan masalah, bukan hanya untuk meningkatkan efisiensi
+administratif atau skor tes standar. Pendidik dan pembuat kebijakan harus mempertimbangkan bagaimana AI
+dapat diintegrasikan ke dalam kurikulum dan metode pengajaran dengan cara yang mendukung perkembangan
+holistik siswa.
+Etika penggunaan AI dalam pendidikan juga melibatkan pertimbangan tentang dampak jangka panjang
+terhadap siswa dan masyarakat. Misalnya, bagaimana penggunaan AI yang luas dalam pendidikan akan
+mempengaruhi keterampilan sosial dan emosional siswa? Bagaimana hal itu akan mempengaruhi peran guru dan
+nilai interaksi manusia dalam pendidikan? Pertanyaan-pertanyaan ini perlu dijawab secara berkelanjutan seiring
+dengan perkembangan teknologi.
+Ppenting untuk mempertimbangkan implikasi global dari penggunaan AI dalam pendidikan. Teknologi ini
+memiliki potensi untuk memperluas akses ke pendidikan berkualitas di seluruh dunia, tetapi juga dapat
+memperlebar kesenjangan digital antara mereka yang memiliki akses ke teknologi canggih dan mereka yang tidak.
+Upaya harus dilakukan untuk memastikan bahwa manfaat AI dalam pendidikan dapat diakses secara luas dan
+tidak terbatas pada negara-negara atau komunitas yang kaya saja.
+Pemanfaatan kecerdasan buatan (AI) dalam bidang pendidikan telah mengalami perkembangan yang
+signifikan dan memberikan dampak positif bagi proses belajar mengajar. AI memiliki potensi besar untuk
+membantu pekerjaan individu dalam bidang pendidikan, baik itu guru, siswa, maupun administrator sekolah.
+Bagi para guru, AI dapat membantu dalam berbagai aspek pekerjaan mereka. Salah satu manfaat utama
+adalah dalam hal penilaian dan evaluasi siswa. Sistem AI dapat menganalisis jawaban siswa secara otomatis,
+memberikan umpan balik yang cepat dan akurat, serta mengidentifikasi area-area di mana siswa mungkin
+memerlukan bantuan tambahan. Hal ini memungkinkan guru untuk menghemat waktu yang biasanya dihabiskan
+untuk mengoreksi tugas dan ujian secara manual, sehingga mereka dapat fokus pada aspek pengajaran yang lebih
+penting.
+AI juga dapat membantu guru dalam menyusun materi pembelajaran yang lebih personal dan adaptif.
+Dengan menganalisis data tentang kemampuan, minat, dan gaya belajar masing-masing siswa, AI dapat
+merekomendasikan strategi pengajaran yang paling efektif untuk setiap individu. Ini memungkinkan guru untuk
+memberikan pengalaman belajar yang lebih terpersonalisasi dan memenuhi kebutuhan unik setiap siswa.
+Dalam hal manajemen kelas, AI dapat membantu guru untuk melacak kehadiran, partisipasi, dan kemajuan
+siswa secara real-time. Sistem AI dapat mengidentifikasi pola-pola tertentu, seperti penurunan kinerja atau
+perubahan perilaku, yang mungkin memerlukan perhatian khusus dari guru. Dengan informasi ini, guru dapat
+mengambil tindakan proaktif untuk mendukung siswa yang mungkin mengalami kesulitan.
+Bagi para siswa, AI menawarkan berbagai alat dan sumber daya yang dapat meningkatkan pengalaman
+belajar mereka. Tutor virtual berbasis AI dapat memberikan bantuan dan penjelasan tambahan di luar jam sekolah,
+memungkinkan siswa untuk belajar dengan kecepatan mereka sendiri dan mendapatkan dukungan kapan pun
+mereka membutuhkannya. Sistem rekomendasi berbasis AI dapat menyarankan materi pembelajaran tambahan,
+buku, atau sumber daya online yang sesuai dengan minat dan tingkat kemampuan siswa, memperluas wawasan
+mereka di luar kurikulum standar.
+AI juga dapat membantu siswa dalam mengembangkan keterampilan berpikir kritis dan pemecahan
+masalah. Simulasi dan permainan edukatif yang ditenagai oleh AI dapat menciptakan skenario kompleks yang
+menantang siswa untuk menerapkan pengetahuan mereka dalam situasi praktis. Selain itu, alat penulisan berbasis
+AI dapat membantu siswa dalam meningkatkan keterampilan menulis mereka dengan memberikan saran tentang
+tata bahasa, gaya, dan struktur.
+Dalam konteks administrasi sekolah, AI dapat mengotomatisasi banyak tugas administratif yang memakan
+waktu. Ini termasuk penjadwalan kelas, manajemen sumber daya, dan pemrosesan pendaftaran siswa. Sistem AI
+dapat menganalisis data sekolah untuk mengidentifikasi tren dan pola yang dapat membantu dalam pengambilan
+keputusan strategis, seperti alokasi anggaran atau perencanaan kurikulum.
+AI juga memiliki potensi untuk meningkatkan keamanan dan kesejahteraan di lingkungan sekolah. Sistem
+pengawasan berbasis AI dapat memantau aktivitas di kampus dan mengidentifikasi potensi masalah keamanan.
+Selain itu, analisis sentimen berbasis AI dapat membantu mengidentifikasi siswa yang mungkin berisiko
+mengalami masalah kesehatan mental atau perilaku, memungkinkan intervensi dini.
+Namun, penting untuk dicatat bahwa pemanfaatan AI dalam pendidikan juga memiliki tantangan dan
+pertimbangan etis yang perlu diperhatikan. Privasi data siswa, potensi bias dalam algoritma AI, dan kekhawatiran
+tentang ketergantungan berlebihan pada teknologi adalah beberapa masalah yang perlu ditangani. Oleh karena itu,
+implementasi AI dalam pendidikan harus dilakukan dengan hati-hati dan dengan mempertimbangkan dampak
+jangka panjang terhadap proses belajar mengajar.
+Volume 4, Number 1, Maret 2024
+Terlepas dari tantangan-tantangan tersebut, potensi AI untuk mentransformasi dunia pendidikan sangat
+besar. Dengan memanfaatkan kekuatan AI, pendidik dapat menciptakan lingkungan belajar yang lebih efektif,
+inklusif, dan menarik. AI dapat membantu menjembatani kesenjangan dalam akses pendidikan, memberikan
+dukungan yang dipersonalisasi kepada siswa dari berbagai latar belakang dan kemampuan, dan mempersiapkan
+generasi mendatang untuk dunia yang semakin didorong oleh teknologi.
+Ke depannya, integrasi AI dalam pendidikan kemungkinan akan semakin mendalam dan luas. Kita
+mungkin akan melihat perkembangan platform pembelajaran yang sepenuhnya adaptif, di mana konten dan
+metode pengajaran secara dinamis menyesuaikan diri dengan kebutuhan setiap siswa secara real-time. Realitas
+virtual dan augmented yang didukung AI mungkin akan menjadi alat umum untuk menciptakan pengalaman
+belajar yang imersif dan interaktif.
+Penggunaan kecerdasan buatan (AI) dalam dunia pendidikan membawa berbagai dampak positif yang
+signifikan. Salah satu manfaat utama adalah kemampuan AI untuk menciptakan pengalaman pembelajaran yang
+lebih personal dan adaptif. Sistem AI dapat menganalisis gaya belajar, kekuatan, dan kelemahan setiap siswa
+secara individual, kemudian menyesuaikan materi pembelajaran, kecepatan, dan metode pengajaran sesuai dengan
+kebutuhan spesifik masing-masing siswa. Hal ini memungkinkan setiap pelajar untuk belajar dengan cara yang
+paling efektif bagi mereka, meningkatkan pemahaman dan retensi materi.
+Selain itu, AI juga meningkatkan aksesibilitas pendidikan. Dengan adanya asisten virtual berbasis AI dan
+platform pembelajaran online, siswa dapat mengakses materi pembelajaran kapan saja dan di mana saja. Ini sangat
+bermanfaat terutama bagi mereka yang tinggal di daerah terpencil atau memiliki keterbatasan mobilitas. AI juga
+dapat membantu siswa dengan kebutuhan khusus, misalnya dengan menyediakan alat bantu seperti pembaca layar
+untuk siswa dengan gangguan penglihatan atau sistem pengenalan suara untuk siswa dengan keterbatasan fisik.
+AI juga berkontribusi pada peningkatan efisiensi dalam proses pembelajaran. Tugas-tugas administratif
+seperti penilaian, pemberian umpan balik, dan pelacakan kemajuan siswa dapat diotomatisasi, membebaskan
+waktu guru untuk fokus pada aspek-aspek pengajaran yang lebih penting seperti interaksi langsung dengan siswa
+dan pengembangan kurikulum. Sistem penilaian otomatis berbasis AI dapat memberikan umpan balik instan
+kepada siswa, memungkinkan mereka untuk segera mengidentifikasi area yang perlu ditingkatkan.
+Penggunaan AI dalam pendidikan juga mendorong pengembangan keterampilan digital yang sangat
+penting di era modern ini. Melalui interaksi dengan teknologi AI, siswa tidak hanya belajar tentang subjek tertentu,
+tetapi juga mengasah kemampuan mereka dalam menggunakan dan memahami teknologi canggih. Ini
+mempersiapkan mereka dengan lebih baik untuk masa depan di mana literasi digital menjadi semakin penting.
+AI juga membuka peluang untuk metode pembelajaran yang lebih inovatif dan menarik. Teknologi seperti
+realitas virtual dan augmented reality yang didukung AI dapat menciptakan pengalaman belajar yang imersif dan
+interaktif. Misalnya, siswa dapat melakukan eksperimen virtual yang kompleks atau mengunjungi situs bersejarah
+secara virtual, memperkaya pemahaman mereka melalui pengalaman langsung yang sebelumnya tidak mungkin
+dilakukan.
+Lebih jauh lagi, AI dapat membantu dalam mengidentifikasi tren dan pola dalam data pendidikan skala
+besar, memberikan wawasan berharga bagi pembuat kebijakan dan administrator pendidikan. Analisis ini dapat
+membantu dalam pengambilan keputusan berbasis data untuk meningkatkan sistem pendidikan secara
+keseluruhan, mulai dari alokasi sumber daya hingga pengembangan kurikulum.
+AI juga berpotensi untuk menjembatani kesenjangan pendidikan. Dengan menyediakan akses ke sumber
+daya pembelajaran berkualitas tinggi dan pengajaran yang dipersonalisasi, AI dapat membantu menyetarakan
+peluang pendidikan bagi siswa dari berbagai latar belakang sosial ekonomi. Dalam konteks pembelajaran bahasa,
+termasuk bahasa Arab, AI menawarkan alat-alat yang canggih untuk meningkatkan kemahiran berbahasa. Sistem
+pengenalan suara dan sintesis ucapan berbasis AI dapat membantu siswa memperbaiki pengucapan mereka,
+sementara chatbot yang didukung AI dapat memberikan kesempatan untuk berlatih percakapan secara interaktif.
+KESIMPULAN
+Pemanfaatan kecerdasan buatan dalam membantu pekerjaan individu di bidang pendidikan membuka
+banyak peluang untuk meningkatkan kualitas, efisiensi, dan aksesibilitas pendidikan. Namun, implementasinya
+harus dilakukan dengan hati-hati, mempertimbangkan aspek etika dan kemanusiaan, serta tetap mempertahankan
+esensi pendidikan sebagai proses pengembangan manusia seutuhnya.Namun, penting untuk diingat bahwa AI
+seharusnya berfungsi sebagai alat untuk meningkatkan, bukan menggantikan, peran guru dan interaksi manusia
+dalam pendidikan. Teknologi AI harus digunakan dengan cara yang memperkuat hubungan guru-siswa dan
+mendorong perkembangan keterampilan sosial dan emosional yang penting. Dengan pendekatan yang seimbang
+dan bijaksana, pemanfaatan AI dalam pendidikan dapat membuka pintu menuju era baru pembelajaran yang lebih
+efektif, inklusif, dan berpusat pada siswa.
+Volume 4, Number 1, Maret 2024
+Oktavia, D. H & Suseno, G. (2024). Pemanfaatan Kecerdasan Buatan dalam Pendidikan di Indonesia. Indo-
+MathEdu Intellectuals Journal, 5 (2), 1680-1686.76
+R Kusumawati. (2024). Kecerdasan Buatan Manusia (Artificial Intelligence}: Teknologi Impian Masa Depan.
+Abidin, M. A. (2023). Implementasi Teknologi Artificial Intelligence (Ai) Untuk Mendukung Pembelajaran Siswa
+Zakiyah, S. I, et al. (2024). Penggunaan AI dalam Dunia Pendidikan. 
+Abimanto, D., & Mahendro, I. (2023). Efektivitas Penggunaan Teknologi AI Dalam Pembelajaran Bahasa Inggris.
+Pendidikan. 
+Alam, A. (2021). Possibilities and apprehensions in the landscape of artificial intelligence in education. In
+2021 International Conference on Computational Intelligence and Computing Applications (ICCICA)
+Antaguna, I., Gede, N., Budiartha, I., & Putu, N. (2021). The Existence of Artificial Intelligence in the Law
+Barakina, E. Y., Popova, A. V., Gorokhova, S. S., & Voskovskaya, A. S. (2021). Digital Technologies and
+285 - 296.
+Bates, T., Cobo, C., Mariño, O., & Wheeler, S. (2020). Can artificial intelligence trasform higher education?
+Cayeni, W., & Utari, A. S. (2019). Penggunaan Teknologi Dalam Pendidikan: Tantangan Guru Pada Era Revolusi
+Industri 4.0. In Prosiding Seminar Nasional Program Pascasarjana 
+Chassignol, M., Khoroshavin, A., Klimova, A., & Bilyatdinova, A. (2018). Artificial Intelligence trends in
+education: a narrative overview. Procedia Computer Science, 136, 16 - 24.
+Chen, L., Chen, P., & Lin, Z, (2020). Artificial intelligence in education: A review. Ieee Access, 8, 75264-
+75278.
+Chiu, T. K. (2021). A holistic approach to the design of artificial intelligence (AI) education for K-12 schools.
+TechTrends, 65 (5), 796 - 807.
+Chiu, T. K., & Chai, C. S. (2020). Sustainable curriculum planning for artificial intelligence education: A self -
+determination theory perspective. Sustainability, 12 (14), 5568.
+Generasi yang Bertanggung Jawab terhadap Teknologi
+1,2,3,4
+Ethics, Artificial Artificial Intelligence (AI) is one of the technological inventions that
+Intelligence, attracts attention because it has the potential to revolutionize the world
+Responsible of education. The rapid advancement of technology has become a
+fundamental aspect and important instrument in managing human
+resource needs and maintaining social values. Digital ethics education
+is important to equip people with the knowledge and skills needed as a
+foundation for safe and responsible use of digital technology. This
+research uses a library research method with a qualitative approach.
+Data collection in this research is done by collecting various kinds of
+studies and literature in the form of scientific journals. This research
+will describe the context of AI ethics education, analyze the framework
+of AI ethics education and its evaluation of challenges and solutions in
+the implementation of AI ethics education.
+terhadap cara individu berkomunikasi. Teknologi muncul dengan beragam terobosan
+baru melalui media – media digital, sehingga dapat memudahkan manusia dalam
+berkomunikasi secara efektif. Pada bidang Pendidikan, melesatnya kemajuan teknologi
+menjadi aspek yang fundamental dan menjadi instrument penting dalam mengelola
+kebutuhan sumber daya manusia serta menjaga nilai – nilai sosial.
+Pada dasarnya, Pendidikan merupakan upaya untuk menyampaikan serangkaian
+keyakinan, nilai, norma dan pengetahuan dari generasi terdahulu kepada generasi
+penerus. Pendidikan berperan penting dan menjadi landasan utama dalam mencetak
+*correspondence Author
+© 2024. The author(s). Publised by Tribakti Press.
+generasi yang siap berkontribusi bagi kemajuan bangsa.1 Indikator keberhasilan suatu
+negara dapat dilihat dari beberhasilan pendidikannya. Selain itu, peran penting
+pendidikan juga menjadi jalan untuk membuka, mengembangkan pengetahuan dan
+wawasan, menanamkan nilai – nilai sosial dan budaya yang pada akhirnya meningkatkan
+kualitas hidup manusia.2
+Pada puncak kemajuan teknologi saat ini, dunia digital memiliki tata krama yang
+dikenal dengan netiket (network etiquette). Netiket merupakan panduan dalam berinteraksi
+di internet. Di samping itu, netiket juga diartikan kesadaran di balik layar monitor yang
+menyatakan kesadaran individu dalam berinteraksi dengan individu lain secara nyata,
+bukan hanya deretan karakter huruf. Etika digital didefinisikan sebagai kompetensi
+seseorang dalam menjalani kehidupan digital yang sadar akan aturan, mampu memberi
+contoh positif, fleksibel dalam menghadapi perubahan, menggunakan nalar, merancang
+interaksi yang baik, dan terus-menerus meningkatkan tata kelola digital. Penggunaan
+media digital khususnya di Indonesia yang memiliki keragaman budaya, pemahaman dan
+penerapan etika digital menjadi hal utama bagi warga negara. Sebab bukan hanya soal
+tanggung jawab dan moral namun juga kebutuhan individu dalam berkehidupan sosial .3
+“jumlah pengguna internet di Indonesia pada tahun 2024 mencapai 221.563.479 jiwa dari
+total populasi 278.696.200 jiwa penduduk indonesia tahun 2023”. Terdapat peningkatan
+yang cukup signifikan sebesar 1,4% dibandingkan tahun sebelumnya. Selain itu “Gen X
+(kelahiran 1965-1980) sebanyak 18,98%, Post Gen Z (kelahiran kurang dari 2023) sebanyak
+9,17%, baby boomers (kelahiran 1946-1964) sebanyak 6,58% dan pre boomer (kelahiran
+1945 sebanyak 0,24%”.4
+Kemajuan teknologi digital memiliki dampak pada perubahan masyarakat saat ini,
+termasuk dalam hal nilai – nilai dan norma dalam penggunaannya. Berbagai
+permasalahan etika digital seperti hoax, privasi, keamanan data, pembajakan dan
+kejahatan menjadi permasalahan dilematis bagi masyarakat. Pendidikan etika digital
+menjadi penting sebagai pedoman bagi Masyarakat guna meniingkatkan pengetahuan
+dan mengembangkan keterampilan yang diperlukan sebagai landasan dalam penggunaan
+teknologi digital secara aman dan bertanggung jawab. Masyarakat sebagai objeknya
+menjadi bagian penting bahwa tujuannya adalah memastikan adanya teknologi memberi
+1 Firda Laila Syahda, Yuniaridha Nur’aisyah, and Ichsan Fauzi Rachman, “Pentingnya Pendidikan
+66–80, 
+2 Andhini Ardhiya, Ria Audina, and Kharisma Laila Ramadani, “Peran Konselor Dalam Mewujudkan
+(2022): 176–87.
+3 Syahda, Nur’aisyah, and Rachman, “Pentingnya Pendidikan Etika Digital Dalam Konteks SDGs
+2030.”
+4 APJII, “Asosiasi Penyelenggara Jasa Internet Indonesia,” 2022, 
+jumlah-pengguna-internet-indonesia-tembus-221-juta-orang.
+manfaat bagi semua individu.5 Akuntabilitas menjadi fokus utama sebagai bentuk
+transparansi untuk menjelaskan dan mempertanggungjawabkan setiap tahap dalam
+proses pengembangan dan penggunaan teknologi.6
+Berkembangnya kecerdasan buatan (AI) dengan signifikan dalam beberapa tahun
+terakhir serta berdampak pada berbagai aspek, slah satunya bidang pendidikan. Pada
+bidang pendidikan, Artificial Intelligence memberikan ragam kontribusi seperti perbaikan
+dalam proses pembelajaran sehingga dapat menunjang aktivitas belajar.7 Hadirnya AI
+dalam pendidikan dapat menjadi momentum perubahan besar dalam hal paparan materi,
+pemberian evaluasi pembelajaran serta eksplorasi kurikulum.8 Di samping itu, AI
+memberikan terobosan penting pada bidang pendidikan yakni adanya personalisasi
+pembelajaran. Bagi pendidik, pemanfaatan AI bagi memiliki manfaat yang beragam
+seperti membantu menyusun pengalaman belajar peserta didik sesuai kebutuhan individu
+sehingga dapat meningkatkan efektivitas pembelajaran serta mendorong efisiensi belajar
+peserta didik.9
+belajar lewat fitur- fitur canggih misalnya, simulasi, chatbot dan pembelajaran berbasis
+game.10 Tidak hanya dalam kegiatan pembelajaran, Artificial Intelligence (AI) dapat
+menganalisis secara masif terhadap data hasil ujian dan akurasinya lebih baik bagi peserta
+didik maupun pendidik.11 Aksesibilitas pendidikan melalui Artificial Intelligence (AI)
+dapat membantu pelaksanaan pembelaajaran jarak jauh (e - learning) dengan kualitas
+optimal khususnya bagi peserta didik dengan keterbatasan fisik dan wilayah terpencil.12
+Pada bidang manajemen pembelajaran, pendidik akan terbantu untuk pengelolaan data
+peserta didik, pengelolaan jadwal serta masukan – masukan mengenai pengembangan
+kapasitas peserta didik. Otomatisasi tugas – tugas administratif juga lebih baik dengan
+5 Meidi Saputra, “Integrasi Kewarganegaraan Digital dalam Mata Kuliah Pendidikan
+Kewarganegaraan untuk Menumbuhkan Etika Berinternet (Netiket) di Kalangan Mahasiswa,” 
+6 Ratna Dewi et al., “Analisis Perspektif Hukum Perdata Dalam Menghadapi Cyberbullying Di Era
+Digital,” JICN: 
+7 Ma’soem University, “Berita - Perkembangan Kecerdasan Buatan (AI) Dalam Dunia Pendidikan
+Tinggi - Ma’soem University,” July 12, 2023, 
+kecerdasan-buatan-ai-dalam-dunia-pendidikan-tinggi.php.
+8 Sehan Rifky, “Dampak Penggunaan Artificial Intelligence Bagi Pendidikan Tinggi,” Indonesian
+Journal of Multidisciplinary on Social and Technology 2, no. 1 (February 2, 2024): 37–42,
+9 Rifky.
+10 Rifky.
+11 Dwi Robiul Rochmawati, Ivan Arya, and Azka Zakariyya, “Manfaat Kecerdasan Buatan Untuk
+Pendidikan,” 
+12 Rifky, “Dampak Penggunaan Artificial Intelligence Bagi Pendidikan Tinggi.”
+demikian pendidik dapat fokus pada aspek lain yang mendukung proses pembelajaran.
+Deteksi hasil karya peserta didik juga dapat menggunakan pendekatan Artificial
+Intelligence (AI), hal ini dapat memperkuat integritas akademik di bidang pendidikan.
+Pada aspek kurikulum, pendekatan AI dapat memberikan kontribusi signifikan dan
+responsif dalam membantu merancang kurikulum yang sesuai dengan periode zaman.13
+Meningkatnya kebutuhan masyarakat terhadap teknologi menjadi tantangan besar
+bagi generasi muda. Kemampuan berpikir analitis dan kritis dalam menerima informasi
+menjadi hal penting untuk meminimalkan bias informasi. Etika tidak hanya meliputi
+kepantasan namun juga akuntabilitas. Adanya kegagalan dalam berhati – hati menyikapi
+informasi serta menjunjung prinsip etika selama berinteraksi di media sosial akan
+mengakibatkan konsekuensi yang merugikan termasuk berhadapan dengan hukum yang
+berdampak pada permasalahan pribadi.
+Berdasarkan perspektif C. Widyo Hermawan, media sosial melalui forum web
+mampu menciptakan ruang digital interaktif yang memungkinkan terbangunnya
+komunitas online. Forum tersebut berfungsi sebagai platform dinamis yang memfasilitasi
+pertukaran ide dan gagasan antaranggota, di mana meskipun memiliki fokus pembahasan
+spesifik, tetap memberikan ruang fleksibilitas untuk pengembangan diskusi lintas bidang
+secara produktif dan inklusif.14
+Akses informasi internet memungkinkan munculnya konten negatif dan merusak
+sehingga berdampak buruk pada perkembangan moral peserta didik. Dampak besar dari
+pola interaksi lewat internet ini dapat merubah nilai-nilai dalam masyarakat.15 Sesuai
+pedoman Kamus Besar Bahasa Indonesia (KBBI), “etika adalah ilmu tentang apa yang
+baik dan apa yang buruk serta hak dan kewajiban moral”. Berkaitan dengan etika di era
+digital sekarang menjadi aspek penting dan tidak boleh diremehkan, sebab batasan antara
+dunia maya dan nyata makin memudar. Pendidikan etika di era digital sangat penting
+sebagai pondasi meminimalkan dampak signifikan akibat perilaku di dunia digital yang
+seringkali mengaburkan pemahaman tentang etika.16 Kesenjangan antara perkembangan
+teknologi dan kaitannya dengan pemahaman etika pada generasi muda menjadi perhatian
+penting untuk dikaji sebagai langkah prevensi bahkan kuratif dampak buruk baik di
+aspek pendidikan maupun moral individual. Di sisi lain teknologi ini telah menjadi
+13 Rifky.
+14 Irma Nurul Utami et al., “Mengapa Etika Penting di Era Digital?,” 
+Humaniora 2, no. 3 (Agustus 2024): 122–32, 
+15 Nur Asyikin, Afnisa, and Chanifudin, “Pendidikan Moral di Era Digital: Membangun Karakter
+Tangguh di Tengah Tantangan Modern” 9, no. 5 (2024): 80–88.
+16 E.A. Krasnova, S.I. Kuzina, and I.G. Sagiryan, “New Academic Culture: Digital Ethics in Virtual
+Communication,” KnE Social Sciences, February 4, 2022, 114–25, 
+bagian erat dari kehidupan modern. Teknologi Artificial Intelligence memiliki banyak
+keuntungan pada peningkatan kualitas kehidupan manusia.17
+Penelitian ini menyoroti pendidikan etika Artificial Intelligence (AI) dapat
+dirancang untuk generasi muda. Hal – hal yang menjadi tantangan dalam implementasi
+pendidikan etika Artificial Intelligence (AI) di lingkup pendidikan, serta keterlibatan
+peran pendidik dalam memfasilitasi pembelajaran etika Artificial Intelligence (AI).
+Penelitian ini akan mendeskripsikan konteks etika Artificial Intelligence (AI),
+menganalisis kerangka kerja pendidikan etika Artificial Intelligence (AI) dan evaluasinya
+terhadap tantangan, serta solusi dalam implementasi pendidikan etika Artificial
+Intelligence (AI). Diharapkan hasil dari penelitian ini dapat menjadi kontribusi bidang
+pendidikan teknologi maupun etika. Adanya pedoman bagi pendidik sebagai media
+integrasi etika Artificial Intelligence (AI) dalam kurikulum serta meningkatkan kesadaran
+masyarakat tentang pentingnya penerapan etika Artificial Intelligence (AI).
+Teknik pengumpulan data pada penelitian ini dilakukan dengan cara mengumpulkan
+berbagai macam kajian serta kepustakaan berupa jurnal-jurnal ilmiah. Studi kepustakaan
+dipilih karena dapat memberikan 
+khususnya penelitian tentang etika pemanfaatan AI. Tema tentang Artificial Intelligence
+(AI) terus berkembang dan banyak sekali peneliti lain yang sedang tertarik untuk
+membahasnya, sehingga peneliti memilih metode studi kepustakaan sebagai metode
+penelitian yang sesuai untuk bisa mendapatkan landasan teori dari berbagai 
+penelitian terdahulu. Penelitian ini menggunakan sumber data berdasarkan artikel-artikel
+ilmiah yang terkait dengan topik penelitian.
+Berdasarkan penelusuran awal melalui metode library research, ditemukan 11.200
+artikel terkait etika pemanfaatan Artificial Intelligence antara tahun 2020-2024, dengan
+hanya 2 artikel jurnal yang memenuhi kriteria judul spesifik. Sementara itu, pencarian
+dengan kata kunci "mendidik generasi yang bertanggung jawab terhadap teknologi"
+menghasilkan 15.500 artikel, namun tidak satupun artikel yang memiliki judul persis
+tersebut, sehingga penelitian ini difokuskan pada kajian komprehensif literatur seputar
+etika pemanfaatan AI dan pendidikan generasi teknologi yang bertanggung jawab. Data -
+data yang terkumpul akan diintegrasikan untuk kemudian dianalisis menggunakan
+teknik analisis isi (content analysis).
+17 Misnawati Misnawati, “ChatGPT: Keuntungan, Risiko, Dan Penggunaan Bijak Dalam Era
+BUDAYA 2, no. 1 (April 21, 2023): 54–67, 
+Hasil dan Pembahasan
+teknologi saat ini. Artificial Intelligence (AI) menjadi salah satu hasil dari penemuan
+teknologi yang menarik perhatian karena berpotensi merevolusi dunia pendidikan.
+dengan menggunakan instrumen, hardware dan software.18 Artificial Intelligence ini dapat
+melakukan tugas dan memiliki kemampuan persepsi, kreativitas dan pengetahuan yang
+mirip dengan manusia.19
+mengoptimalkan kemampuan manusia di berbagai bidang.20 Kemampuan artificial
+intelligence dalam meniru aktivitas manusia, pengerjaan tugas yang membutuhkan
+kecakapan layaknya kapasitas intelektual manusia, menyelesaikan penugasan yang
+melibatkan kecerdasan manusia..21 Oleh karena itu, kecerdasan buatan sangat membantu
+manusia untuk menyelesaikan tugas di segala bidang yang biasanya membutuhkan
+daya pikir, analisa, pemecahan masalah manusia dan pengambilan keputusan.22
+Perkembangan kecerdasan buatan, menurut para ahli, diprediksi akan mengalami
+perkembangan signifikan yang dampaknya beragam bagi kehidupan manusia, misalnya
+ekonomi, sosial, serta kesehatan. Seperti yang disampaikan oleh Elon Musk bahwa “AI
+lebih berbahaya dari nuklir”, sebab perkembangan berlangsung sangat cepat yang
+kemampuannya melebihi manusia dan mampu lebih inovatif.23
+muda, terutama dalam konteks pekerjaan, di mana otomatisasi dan pergantian tugas rutin
+oleh mesin berpotensi mengubah lanskap ketenagakerjaan. Di era Revolusi Industri, AI
+mendorong pergeseran permintaan pekerjaan, dengan pekerjaan tradisional seperti
+pengantaran surat dan layanan pelanggan berhadapan dengan risiko berkurangnya
+permintaan akibat teknologi. Selain kompleksitas ketenagakerjaan, AI juga memunculkan
+18 Muhammad Yahya, Wahyudi, and Akmal Hidayat, “Implementasi Artificial Intelligence (AI) di
+(July 29, 2023): 190–99, 
+19 Adinda Arly, Nanda Dwi, and Rea Andini, “Implementasi Penggunaan Artificial Intelligence Dalam
+20 Yenni Fitriani et al., “Konsep Kecerdasan Buatan (Artificial Intelligence) Dalam Manajemen
+Kurikulum SD / MI,” 
+21 Yulita Sirinti Pongtambing et al., “Peluang dan Tantangan Kecerdasan Buatan Bagi Generasi
+Muda,” Bakti Sekawan : 
+22 Danny Manongga et al., “Dampak Kecerdasan Buatan Bagi Pendidikan,” ADI Bisnis Digital
+Interdisiplin 
+23 Untung Rahardja, “Masalah Etis dalam Penerapan Sistem Kecerdasan Buatan,” Technomedia Journal
+7, no. 2 (August 24, 2022): 181–88, 
+dimensi tanggung jawab dan etika yang krusial, mencakup sensitivitas isu - isu seperti
+kerahasiaan data, data yang aman serta berbagai implikasi aspek sosial yang memerlukan
+pertimbangan mendalam.24
+Sebagai salah satu ciptaan manusia yang muncul karena kebutuhan industri,
+perlu dipahami bersama adalah terkait melekatnya landasan etik atas munculnya
+Akan tetapi, lahirnya kecerdasan buatan (AI) adalah hasil murni dari kebutuhan industri,
+bukan produk yang dibidangi oleg tokoh agama, para filsuf serta orang – orang
+spiritualis.25
+sistem pakar, pemrosesan bahasa alami, pengenalan ucapan, robotika, sistem sensor,
+computer vision, instruksi komputer cerdas, jaringan syaraf tiruan, game playing,
+penerjemahan bahasa, fuzzy logic, algoritma genetika, dan agen cerdas, yang secara
+kolektif menggambarkan kompleksitas dan keragaman aplikasi teknologi kecerdasan
+buatan dalam berbagai bidang ilmu pengetahuan dan praktik.
+Etika merupakan seperangkat prinsip moral yang mengarahkan dan mengatur
+perilaku individu atau aktivitas tertentu, di mana salah satu prinsip dasarnya adalah
+wujud perlakuan pada tiap individu melalui penghormatan serta martabat yang
+seimbang, tanpa adanya pandangan perbedaan latar belakang, status, atau karakteristik
+personal. Etika AI mencakup serangkaian pertimbangan kritis tentang tanggung jawab
+manusia dalam mengembangkan, memproduksi, dan mengoperasikan teknologi
+kecerdasan buatan, dengan fokus utama pada upaya sistematis untuk meminimalkan
+potensi dampak negatif etis yang dapat muncul akibat desain yang tidak etis,
+ketidaktepatan dalam penerapan, bahkan adanya potensi penyalahgunaan teknologi di
+tengah masyarakat.
+Untuk memastikan penggunaan teknologi Artificial Intelligence yang bijak, terdapat
+beberapa hal yang dapat dilakukan, meliputi upaya memantau pengembangan AI sesuai
+etika, melindungi data dan privasi pengguna, mencegah pengambilan keputusan yang
+berbasis diskriminasi, menghindari penggantian pekerja manusia secara massal, dan
+24 Syafie Syafie, “Kesiapan Teknologi Informasi Perbankan hadapi Revolusi Industri era 4.0,” JATISI
+(
+25 Wolfgang Bibel, “Artificial Intelligence in a Historical Perspective,” AI Communications 27, no. 1
+(2014): 87–102, 
+memastikan sistem AI aman26. Berikut ini sedang diupayakan untuk melindungi data
+konsumen:27
+1. Transparansi: Untuk memastikan transparansi, desainer algoritmik perlu menjelaskan
+bagaimana algoritme pengambilan keputusan dapat digunakan. Perusahaan harus
+memiliki kebijakan privasi yang ketat yang akan mengatur bagaimana regulator
+menangani data perusahaan dan meminta perusahaan bertanggung jawab.28
+2. Menjelaskan kemampuan: Fitur penting system AI salah satunya adalah penjelasan
+kemampuan, kemungkinan seseorang yang dipengaruhi oleh keputusan otomatis
+algoritma untuk mencari dalam penjelasan kemampuan atau orang yang dipengaruhi
+dapat mendekati orang untuk Keputusan logis. Kemampuan yang dimaksud terdiri
+dari tiga komponen: a. identifikasi keputusan algoritma, b. membatalkan keputusan
+tertentu, c. keberberfungsian.29
+3. Penilaian Risiko: Ini adalah komponen penting lainnya dari setiap sistem AI yang
+mencakup keputusan otomatis yang melibatkan risiko tinggi bagi manusia. Terdapat
+penilaian resiko terhadap individu atas peraturan yang berkaitan dengan pengambilan
+keputusan. Selain itu, munculnya tindakan lain yang harus diantisipasi terlebih dahulu
+sebelum setiap bias dalam desain algoritma atau data memiliki dampak potensial pada
+individu.30
+4. Audit: Audit dilakukan untuk memastikan bahwa kebijakan privasi merupakan hal
+penting dalam penerapan kepatuhan suatu perusahaan. Audit program, yang juga
+dikenal sebagai audit diri, dapat dilakukan oleh perusahaan itu sendiri atau melalui
+pihak ketiga..31
+Pendidikan dan Teknologi dalam Artificial Intelligence
+Integrasi teknologi dianggap penting karena memungkinkan akses pendidikan yang
+lebih inklusif dan merata, contohnya adalah penggunaannya sebagai media pembelajaran
+jarak jauh yang tentu memudahkan pembelajaran dari manapun.32 Teknologi yang
+terkoneksi dalam pendidikan memberikan pengalaman belajar yang lebih optimal,
+26 Misnawati Misnawati, “ChatGPT.”
+27 Rahardja, “Masalah Etis dalam Penerapan Sistem Kecerdasan Buatan.”
+28 Ashok Kumar Yadav and Ramendra Kumar Bajpa, “KYC Optimization Using Blockchain Smart
+(September 1, 2020): 669–74, 
+29 Amitkumar Dudhat et al., “Blockchain in Indonesia University: A Design Viewboard of Digital
+30 Mark MacCarthy, “An Examination of the Algorithmic Accountability Act of 2019,” SSRN Electronic
+Journal, 2019, 
+31 Nicol Turner Lee, Paul Resnick, and Genie Barton, “Algorithmic Bias Detection and Mitigation: Best
+Practices and Policies to Reduce Consumer Harms,” Brookings Institute: Washington, DC, USA, 2019.
+32 Saripudin and Muhammad Dzikri Fathur Robbani, “Integrasi Teknologi Dalam Pendidikan,”
+Edutech 
+keaktifan peserta didik meningkat dan menciptakan suasana belajar yang interaktif.33
+Perkembangan ini harus diikuti oleh seluruh elemen pendidikan, yaitu baik guru maupun
+peserta didik. Pendidik harus mampu menjadi tonggak keberhasilan pembelajaran
+berbasis teknologi tersebut.34
+Peran pendidik mengalami pergeseran setelah adanya integrasi teknologi dalam
+pendidikan. Tugas pendidik tidak hanya sebagai penyedia informasi tetapi juga dituntut
+untuk kompeten menjadi motivator dan fasilitator serta mampu memberikan inovasi
+dalam proses pembelajaran.35 Di era ini pendidik dituntut untuk selalu dapat mengikuti
+perkembangan teknologi, karena dengan ini guru dapat mengembangkan pembelajaran
+dengan berbagai cara agar peserta didik turut aktif dalam proses pembelajaran.36 Pendidik
+harus selalu berupaya untuk memberikan bimbingan dan mendorong semangat belajar
+sebagai upaya peningkatan kualitas pendidikan peserta didik serta memaksimalkan
+prestasi peserta didik.37
+Tantangan perkembangan teknologi terlihat dari beberapa hal terkait sumber daya
+manusia yang meliputi kemampuan, keterampilan, serta kapasitas dalam menghadapi
+teknologi. Tantangan yang dihadapi diantaranya kesenjangan teknologi, kurangnya
+kesiapan dalam penyediaan media, jaminan keamanan, kebutuhan pembiayaan yang
+sesuai dengan pembelajaran dan fasilitas yang memadai.38 Dibalik tantangan dalam
+pembelajaran berbasis teknologi, terdapat banyak manfaat di dalamnya diantaranya
+efisiensi dan efektivitas dalam proses pembelajaran akan meningkat, aksesibilitas
+pendidikan lebih luas serta terdapat pengalaman pembelajaran yang lebih interaktif bagi
+peserta didik.39
+33 Rosa Zulfikhar et al., “Dampak Integrasi Teknologi dalam Pembelajaran Terhadap Prestasi
+34 Dewi Ambarwati et al., “Studi Literatur: Peran Inovasi Pendidikan pada Pembelajaran Berbasis
+35 Andi Sadriani, M. Ridwan Said Ahmad, and Ibrahim Arifin, “Peran Guru Dalam Perkembangan
+36 Khalisatun Husna et al., “Transformasi Peran Guru Di Era Digital: Tantangan Dan Peluang,”
+Perspektif : 
+37 Adi Saputra Sihombing, Rafly Syamsa Rahardjo, and Ichsan Fauzi Rachman, “Peran Guru dan
+Pendidik dalam Menumbuhkan Literasi Digital dan Mendukung Pembangunan Berkelanjutan,” 
+38 Sucipto, “Tantangan Dan Peluang Implementasi Pembelajaran Berbasis Teknologi Di Era Digital,”
+39 Yofhanda Septi Eirlangga et al., “Peluang dan Tantangan Transformasi Pendidikan Melalui
+Teknologi,” Risalah: 
+Di era modern ini, arus globalisasi terus menampakkan perkembangannya. Kita
+dihadapkan pada perubahan yang signifikan, mulai dari gaya hidup, mode pakaian,
+bahkan teknologi, salah satunya Artificial Intelligence (AI). Teknologi yang berkembang
+telah mengambil peranan yang sangat penting dalam menetapkan pembentukan dan
+perkembangan kehidupan manusia.40 Dengan pesatnya kemajuan dan kecanggihan
+teknologi, generasi muda menghadapi tantangan untuk meningkatkan moral.41 Lebih dari
+itu, peningkatan globalisasi yang cepat tidak diragukan lagi dapat memunculkan berbagai
+masalah dan hambatan.42 Tentunya ini mengharuskan kita sebagai pengguna untuk
+memiliki benteng moral yang kuat agar tidak terjerumus ke dalam keburukan akibat
+perkembangan yang ada, terutama dampak teknologi.
+Penting untuk kita pahami bahwa era perkembangan teknologi begitu cepat
+menimbulkan perdebatan mengenai etika dan moral dalam penggunaan AI sangat
+penting. Terutama ketika teknologi AI tersebut sudah mampu mengambil keputusan yang
+berdampak signifikan pada kehidupan individu dan masyarakat secara keseluruhan.
+Karena hal tersebut AI memiliki pola kerja yang berubah signifikan, termasuk cara
+berkomunikasi, berinteraksi, serta mengambil keputusan. Alat-alat berbasis Artificial
+Intelligence juga sudah banyak dikembangkan seperti mobil otonom, diagnosis medis,
+dan banyak aplikasi lainnya yang telah merambah berbagai sektor kehidupan manusia.
+Prinsip etika AI yang berkelanjutan adalah adanya tanggung jawab dalam penggunaan
+AI, privasi menjadi prioritas penting kaitannya dengan menjaga kerahasiaan data untuk
+meminimalkan dampak negatif.43
+AI telah menjadi pilar utama dalam mengambil keputusan cerdas dan memecahkan
+masalah yang kompleks. Kemajuan AI didorong oleh kemampuan mesin untuk
+mengumpulkan dan menganalisis data dalam skala besar, serta perkembangan algoritma
+yang semakin cerdas. Dalam beberapa dekade terakhir, kecepatan dan kapasitas
+komputasi telah melonjak pesat, memungkinkan AI untuk mengatasi masalah yang
+dulunya tidak dapat dipecahkan. Keberhasilan teknologi ini terutama terletak pada
+40 Paulus Wisnu Yudoprakoso, “Simposium Hukum Indonesia,” 2019,
+41 Sofia Dewi Nugraheni and Fatma Ulfatun Najicha, “Pentingnya Pendidikan Kewarganegaraan
+Kewarganegaraan 12, no. 2 (December 1, 2023): 110–21, 
+42 Muhammad Raya Hayqal and Fatma Ulfatun Najicha, “Peran Pendidikan Pancasila sebagai
+(2023): 55–62.
+43 Michael Reskiantio Pabubung, “Epistemologi Kecerdasan Buatan (AI) dan Pentingnya Ilmu Etika
+dalam Pendidikan Interdisipliner,” 
+kemampuannya untuk memproses data dalam waktu singkat, mengidentifikasi pola yang
+rumit, dan memberikan prediksi yang akurat.44
+Namun, di balik potensi besar AI, muncul tantangan etis yang serius. Teknologi ini
+memiliki kemampuan untuk mengambil keputusan kompleks yang mempengaruhi
+kehidupan manusia. Oleh karena itu, perlu diingat bahwa sifat dan tingkat kecerdasan
+mesin ini sejatinya adalah hasil dari perancangan manusia. Ini menimbulkan pertanyaan
+etis penting mengenai bagaimana kita harus menggunakan dan mengatur teknologi AI ini
+agar penerapan nilai – nilai moral tidak memudar.. Nilai-nilai etis dan moral memainkan
+peran penting dalam pengembangan, penggunaan, dan regulasi alat-alat berbasis
+praktis, tetapi juga sesuai dengan norma dan prinsip-prinsip moral yang menjadi dasar
+hubungan antar manusia.
+Perkembangan teknologi terlihat dengan semakin banyaknya pengguna media
+sosial. Mudahnya akses internet menjadi penyumbang dampak negatif globalisasi, seperti
+terjadinya perilaku kekerasan, pragmatis, egois, bersumbu pendek, dan mereka mudah
+terpengaruh dari dunia maya. Tidak dipungkiri hal tersebut membuat generasi muda
+menjadi pasif, minim berpikir kritis, reaksioner negatif, dan tidak kreatif positif.45
+Untuk memperkuat pertahanan diri menghadapi perkembangan tersebut,
+muncullah pentingnya pendidikan karakter dan nilai-nilai. Karakter seseorang pada
+dasarnya memiliki potensi untuk senantiasa berkembang menuju kebaikan, sehingga
+pendidikan karakter menjadi sangat berarti dalam membimbing manusia memiliki
+karakter yang unggul.46 Etika merupakan nilai dan norma moral yang menjadi suatu
+acuan untuk individual ataupun kelompok dalam mengelola tingkah lakunya.
+Pendidikan tentang etika dan konsekuensi penggunaan kecerdasan buatan (AI)
+diharapkan dapat mengajarkan peserta didik tidak hanya tentang teknologi itu sendiri,
+tetapi juga mengajarkan mereka untuk menemukan dan menganalisis dampak Artificial
+Intelligence (AI) pada berbagai aspek kehidupan.
+Berdasarkan pemahaman ini, diharapkan peserta didik dapat lebih bijak berperilaku
+dan bertanggung jawab dalam memanfaatkan teknologi, sehingga mereka dapat menjadi
+generasi yang cerdas secara teknis, tetapi integritas moral yang tinggi juga diperlukan.47
+44 Mochammad Dhiya Ulhaq and Fatma Ulfatun Najicha, “Implementasi Perlindungan Hak Asasi
+Manusia dalam Pemanfaatan Teknologi Kecerdasan Buatan: Implementasi Hukum dan Prinsip-Prinsip
+Pancasila sebagai Panduan Moral dan Etika,” n.d.
+45 Risma Yuliana Saputri and Fatma Ulfatun Najicha, “Penguatan Nilai-Nilai Pancasila Dan
+46 Purnamansyah Purnamansyah, “Konsep Pemikiran Muhammad Iqbal tentang Pendidikan Karakter
+Ditinjau dari Perspektif Psikologi Islam,” DIKSI: 
+48, 
+47 Lisa Amelia Fransen et al., “Edukasi Etika dan Dampak Penggunaan Kecerdasan Buatan di Era
+Digital pada Siswa Sma Xaverius 2 Palembang,” 
+engineering dedication) 4, no. 1 (2024).
+Oleh karena itu, pendidik dan pihak lembaga pendidikan diharapkan dapat memfasilitasi
+upaya pembinaan karakter ini melalui berbagai pendekatan yang sesuai dengan
+kebutuhan, situasi dan kondisi peserta didik. Pengajaran etika dalam konteks penggunaan
+teknologi Artificial Intelligence (AI) memerlukan pendekatan yang holistik dan
+kontekstual, terutama dalam pendidikan etika menurut psikologi Islam. Pendekatan yang
+dapat diterapkan di antaranya :
+1. Program pengembangan karakter: Pendekatan ini dilakukan dengan menerapkan
+program pengembangan karakter yang terorganisasi supaya terdapat pemahaman
+nilai – nilai moral pada peserta didik serta mengembangkan karakter unggul. Dalam
+konteks AI, program ini harus mencakup pemahaman tentang tanggung jawab etis
+dalam penggunaan teknologi.4849
+2. Literasi Digital dan Etika Teknologi: Di era maraknya penggunaan AI, mengajarkan
+literasi digital seperti pemahaman keamanan online, penanganan informasi secara
+akurat, dan keterampilan sosial di dunia maya menjadi pendekatan sangat penting.
+Hal ini harus dilakukan dengan tetap memperhatikan prinsip-prinsip Islam.5051
+3. Pembelajaran berbasis kasus: Pada pendekatan ini, peserta didik diberikan studi kasus
+yang menunjukkan keterampilan berpikir etis dan moral mereka dalam skenario
+kehidupan nyata. Hal tersebut membantu peserta didik memahami dampak tindakan
+mereka dan mempertimbangkan nilai-nilai moral ketika mengambil keputusan.52
+4. Diskusi etika: Pendidik mendorong dan memfasilitasi dialog terbuka tentang masalah
+moral dan etika di kelas. Pendekatan ini memberikan kesempatan kepada peserta
+didik untuk menyampaikan pendapatnya dan mempertimbangkan sudut pandang
+yang berbeda. Tentunya hal ini dapat memperkaya pemahaman mereka tentang
+penggunaan AI.53
+5. Peran orang tua dan masyarakat: Melibatkan peran orang tua dan masyarakat dalam
+pendidikan etika dapat memperkuat nilai-nilai yang diajarkan di sekolah. Kolaborasi
+ini penting untuk menciptakan lingkungan yang mendukung pembelajaran etis dan
+menguatkan pendidikan etika yang telah diajarkan di sekolah.5455
+48 Devi Ayu Lestari, Wanda Kholisah, and M. Rifqi Januar Supriyanto, “Pentingnya Etika dan Moral
+dalam Pendidikan,” Khatulistiwa: 
+49 Roychan Abdul Aziz, Yuli Fitriyanti, and Fathur Rohman, “TANTANGAN PENDIDIKAN
+KARAKTER ISLAMI DI ERA TEKNOLOGI ARTIFICIAL INTELLIGENCE,” Tarbawi : 
+2023.
+50 Aziz, Fitriyanti, and Rohman.
+51 Herwinsyah, “Kajian Teoritis: Artificial Intelligence (AI) Dalam Pandangan Islam Dan Etikanya,”
+JURNAL SALAM INSTITUTE ISLAMIC STUDIES, 2024.
+52 Lestari, Kholisah, and Supriyanto, “Pentingnya Etika dan Moral dalam Pendidikan.”
+53 Lestari, Kholisah, and Supriyanto.
+54 Lestari, Kholisah, and Supriyanto.
+55 Aziz, Fitriyanti, and Rohman, “TANTANGAN PENDIDIKAN KARAKTER ISLAMI DI ERA
+TEKNOLOGI ARTIFICIAL INTELLIGENCE.”
+6. Menghadapi tantangan moral AI: Pendidikan karakter harus mengajarkan peserta
+didik berpikir kritis dan bernalar moral untuk menghadapi tantangan yang
+ditimbulkan oleh AI, termasuk risiko berkurangnya interaksi manusia dan potensi
+konflik dengan nilai-nilai Islam.5657
+7. Integrasi etika dalam kurikulum: Memasukkan pembelajaran etika dan moral ke
+dalam semua mata pelajaran akan membantu peserta didik mengenali keterkaitan
+nilai-nilai moral dalam berbagai situasi, termasuk penggunaan AI. Hal ini penting
+untuk menumbuhkan rasa etika yang kuat di kalangan peserta didik.58
+Lebih lanjut, dalam mengembangkan kurikulum pendidikan etika di era digital
+memerlukan kerangka komprehensif yang memperhatikan kompleksitas AI. Kurikulum
+tidak sebatas memperkenalkan teknologi, melainkan membangun kesadaran yang kritis
+tentang implikasi etis penggunaannya. Pada tingkat pendidikan dasar dan menengah,
+fokus diarahkan pada pemahaman dasar tentang teknologi, privasitas data, dan
+pentingnya penggunaan teknologi yang bertanggung jawab. Di level perguruan tinggi,
+kurikulum perlu merancang modul khusus yang mendalam menganalisis dilema etis,
+risiko bias algoritma, dan konsekuensi sosial dari pengembangan Artificial Intelligence.59
+Poin penting dalam kurikulum adalah menjaga keseimbangan antara apresiasi
+teknologi dan kesadaran akan batasan-batasannya. Artificial Intelligence harus dipandang
+sebagai alat bantu yang meningkatkan kapasitas manusia, bukan sebagai pengganti
+interaksi dan pertimbangan manusia.60 Oleh karena itu, kurikulum etika teknologi tidak
+hanya berfokus pada aspek teknis, tetapi lebih pada pembentukan sikap moral dan
+kemampuan reflektif peserta didik dalam menghadapi perkembangan teknologi.
+Sejalan dengan pemikiran tersebut, bijak dalam menggunakan teknologi sangat
+penting untuk meminimalkan risiko dan memaksimalkan manfaatnya. Beberapa hal di
+antaranya adalah teks yang dihasilkan dapat dipastikan akurasinya dan tidak
+mengandung bias, menghindari penggunaan aplikasi untuk tujuan yang tidak etis, dan
+mempertimbangkan implikasi sosial. Etika dapat diterapkan dengan memperhatikan
+prinsip-prinsip moral dan aturan yang baik. Adanya tanggung jawab dalam penggunaan
+artificial intelligence (AI) sehingga tidak muncul pelanggaran privasi orang lain atau
+adanya dampak kerugian bagi individu maupun kelompok. Hal ini perlu dipastikan
+bahwa tidak melanggar hukum maupun norma – norma sosial yang berlaku.
+Guna memastikan penggunaan teknologi yang bertanggung jawab, maka terdapat
+beberapa langkah: Pertama, cara kerja teknologi dapat dipelajari agar terdapat
+56 Aziz, Fitriyanti, and Rohman.
+57 Herwinsyah, “Kajian Teoritis: Artificial Intelligence (AI) Dalam Pandangan Islam Dan Etikanya.”
+58 Lestari, Kholisah, and Supriyanto, “Pentingnya Etika dan Moral dalam Pendidikan.”
+59 Isdayani B, Andi Nurlinda Thamrin, and Agus Milani, “Implementasi Etika Penggunaan
+60 Isdayani B, Thamrin, and Milani.
+pemahaman atas batasan-batasan dan potensi kekurangannya. Kedua, kecerdasan buatan
+yang digunakan berdasarkan tujuan yang jelas supaya tidak merugikan. Ketiga,
+pertimbangkan dampak penggunaan kecerdasan buatan pada orang lain dan lingkungan
+sekitar. Keempat, menggunakan kecerdasan buatan untuk tujuan yang tidak merugikan
+orang lain. Selain itu, prioritas menghargai privasi orang lain dalam pemanfaatan
+kecerdasan buatan. Memperkuat pemahaman bahwa kecerdasan buatan (AI) merupakan
+alat sehingga tidak dapat menggantikan peran kebijakan maupun cara membuat
+keputusan yang etis. Adanya upaya memastikan bahwa dalam membuat Keputusan perlu
+pertimbangan nilai sosial dan moral. Hal ini dapat memberikan poin kebermanfaatan bagi
+Masyarakat dan secara menuyeluruh dan menghindari kerugian atau pelanggaran etika
+dan moral.61
+penggunaannya. beberapa hal yang dapat dilakukan, meliputi memantau etika
+pengembangan AI, privasi pengguna dan keamanan data tetap terlindungi, mencegah
+diskriminasi dalam pengambilan keputusan, menghindari penggantian pekerja manusia
+secara massal, dan memastikan sistem AI aman. Untuk memperkuat pertahanan diri
+sebagai bentuk tanggung jawab terhadap teknologi, maka pendidikan karakter dan nilai-
+nilai moral sangat penting adanya. Karakter seseorang pada dasarnya memiliki potensi
+untuk senantiasa berkembang menuju kebaikan, sehingga pendidikan karakter menjadi
+unsur penting dalam membimbing manusia memiliki karakter yang unggul. Pendidikan
+etika dan konsekuensi penggunaan kecerdasan buatan (AI) diharapkan dapat
+mengajarkan tidak hanya tentang teknologi itu sendiri, tetapi juga mengajarkan untuk
+menemukan dan menganalisis dampak Artificial Intelligence (AI) pada berbagai aspek
+kehidupan.
+Dengan adanya pemahaman ini, diharapkan generasi selanjutnya lebih bijak
+berperilaku dan bertanggung jawab dalam memanfaatkan teknologi, sehingga dapat
+menjadi generasi yang cerdas dalam penggunaan teknis serta mempunyai jiwa integritas
+moral yang tinggi.
+Ambarwati, Dewi, Udik Budi Wibowo, Hana Arsyiadanti, and Sri Susanti. “Studi
+Literatur: Peran Inovasi Pendidikan pada Pembelajaran Berbasis Teknologi
+Digital.” 
+NATALIS 62 1 (July 29, 2023): 32–37. 
+61 Misnawati Misnawati, “ChatGPT.”
+APJII. “Asosiasi Penyelenggara Jasa Internet Indonesia,” 2022.
+juta-orang.
+Ardhiya, Andhini, Ria Audina, and Kharisma Laila Ramadani. “Peran Konselor Dalam
+on Islamic Guidance and Counseling 2 (2022): 176–87.
+Arly, Adinda, Nanda Dwi, and Rea Andini. “Implementasi Penggunaan Artificial
+Asyikin, Nur, Afnisa, and Chanifudin. “Pendidikan Moral di Era Digital: Membangun
+Aziz, Roychan Abdul, Yuli Fitriyanti, and Fathur Rohman. “TANTANGAN
+PENDIDIKAN KARAKTER ISLAMI DI ERA TEKNOLOGI ARTIFICIAL
+INTELLIGENCE.” Tarbawi : 
+Bibel, Wolfgang. “Artificial Intelligence in a Historical Perspective.” AI Communications 27,
+no. 1 (2014): 87–102. 
+Dewi, Ratna, Ismi Azis, Asri Sugiharti, Gomulia Oscar, I Made Rai Natawidnyana, and
+Nusantara 1, no. 2 (April 2024). 
+Dudhat, Amitkumar, Nuke Puji Lestari Santoso, Henderi, Sugeng Santoso, and Riri
+Setiawati. “Blockchain in Indonesia University: A Design Viewboard of Digital
+(March 31, 2021): 68–80. 
+Eirlangga, Yofhanda Septi, Aldo Eko Syaputra, Kiki Hariani Manurung, Nova Hayati, and
+Teknologi.” Risalah: 
+Fransen, Lisa Amelia, Dorie Pandora Kesuma, M Wildan Solihan, and Syifa Wahyuni.
+“Edukasi Etika dan Dampak Penggunaan Kecerdasan Buatan di Era Digital pada
+(informatics engineering dedication) 4, no. 1 (2024).
+Hayqal, Muhammad Raya, and Fatma Ulfatun Najicha. “Peran Pendidikan Pancasila
+sebagai Pembentuk Karakter Mahasiswa.” 
+Pancasila dan Kewarganegaraan 7, no. 1 (2023): 55–62.
+Herwinsyah. “Kajian Teoritis: Artificial Intelligence (AI) Dalam Pandangan Islam Dan
+Etikanya.” JURNAL SALAM INSTITUTE ISLAMIC STUDIES, 2024.
+Isdayani B, Andi Nurlinda Thamrin, and Agus Milani. “Implementasi Etika Penggunaan
+Indonesia.” Digital Transformation Technology 4, no. 1 (August 24, 2024): 714–23.
+“Transformasi Peran Guru Di Era Digital: Tantangan Dan Peluang.” Perspektif :
+Krasnova, E.A., S.I. Kuzina, and I.G. Sagiryan. “New Academic Culture: Digital Ethics in
+Lee, Nicol Turner, Paul Resnick, and Genie Barton. “Algorithmic Bias Detection and
+Mitigation: Best Practices and Policies to Reduce Consumer Harms.” Brookings
+Institute: Washington, DC, USA, 2019.
+Lestari, Devi Ayu, Wanda Kholisah, and M. Rifqi Januar Supriyanto. “Pentingnya Etika
+dan Moral dalam Pendidikan.” Khatulistiwa: 
+4, no. 3 (July 6, 2024): 43–49. 
+MacCarthy, Mark. “An Examination of the Algorithmic Accountability Act of 2019.” SSRN
+Manongga, Danny, Untung Rahardja, Irwan Sembiring, Ninda Lutfiani, and Ahmad Bayu
+Yadila. “Dampak Kecerdasan Buatan Bagi Pendidikan.” ADI Bisnis Digital
+Interdisiplin 
+Ma’soem University. “Berita - Perkembangan Kecerdasan Buatan (AI) Dalam Dunia
+dunia-pendidikan-tinggi.php.
+SASTRA, SENI, DAN BUDAYA 2, no. 1 (April 21, 2023): 54–67.
+Nugraheni, Sofia Dewi, and Fatma Ulfatun Najicha. “Pentingnya Pendidikan
+Citizen : 
+110–21. 
+Pabubung, Michael Reskiantio. “Epistemologi Kecerdasan Buatan (AI) dan Pentingnya
+(September 1, 2021): 152–59. 
+Pongtambing, Yulita Sirinti, Felycitae Ekalaya Appa, A. Muh. Amil Siddik, Eliyah A M
+Sampetoding, Harsi Admawati, Arini Anestesia Purba, Arnold Sau, and Esther S
+Manapa. “Peluang dan Tantangan Kecerdasan Buatan Bagi Generasi Muda.” Bakti
+Sekawan : 
+Purnamansyah, Purnamansyah. “Konsep Pemikiran Muhammad Iqbal tentang
+Pendidikan dan Sosial 4, no. 2 (July 5, 2023): 40–48.
+Rahardja, Untung. “Masalah Etis dalam Penerapan Sistem Kecerdasan Buatan.”
+Raharjo, Budi. Teori Dan Etika Dalam Kecerdasan Buatan (AI). Semarang: Yayasan Prima
+Rifky, Sehan. “Dampak Penggunaan Artificial Intelligence Bagi Pendidikan Tinggi.”
+2024): 37–42. 
+Rochmawati, Dwi Robiul, Ivan Arya, and Azka Zakariyya. “Manfaat Kecerdasan Buatan
+2023): 124–34. 
+Saputra, Meidi. “Integrasi Kewarganegaraan Digital dalam Mata Kuliah Pendidikan
+Kewarganegaraan untuk Menumbuhkan Etika Berinternet (Netiket) di Kalangan
+Mahasiswa.” 
+Saputri, Risma Yuliana, and Fatma Ulfatun Najicha. “Penguatan Nilai-Nilai Pancasila Dan
+Saripudin, and Muhammad Dzikri Fathur Robbani. “Integrasi Teknologi Dalam
+Pendidikan.” Edutech 
+Sihombing, Adi Saputra, Rafly Syamsa Rahardjo, and Ichsan Fauzi Rachman. “Peran Guru
+dan Pendidik dalam Menumbuhkan Literasi Digital dan Mendukung
+2024): 360–70. 
+Sucipto. “Tantangan Dan Peluang Implementasi Pembelajaran Berbasis Teknologi Di Era
+Digital.” 
+Syafie, Syafie. “Kesiapan Teknologi Informasi Perbankan hadapi Revolusi Industri era
+4.0.” JATISI (
+533–46. 
+Syahda, Firda Laila, Yuniaridha Nur’aisyah, and Ichsan Fauzi Rachman. “Pentingnya
+dan Ilmu Bahasa 2, no. 2 (May 28, 2024): 66–80.
+Ulhaq, Mochammad Dhiya, and Fatma Ulfatun Najicha. “Implementasi Perlindungan Hak
+Hukum dan Prinsip-Prinsip Pancasila sebagai Panduan Moral dan Etika,” n.d.
+Utami, Irma Nurul, Nadya Putri Pranata, Najwa Mutiara Syihab, and Maulia Depriya.
+“Mengapa Etika Penting di Era Digital?” 
+Humaniora 2, no. 3 (Agustus 2024): 122–32. 
+widyakarya.v2i3.3418.
+Winfield, Alan. “Ethical Standards in Robotics and AI.” Nature Electronics 2, no. 2
+(February 15, 2019): 46–48. 
+Yadav, Ashok Kumar, and Ramendra Kumar Bajpa. “KYC Optimization Using Blockchain
+Sciences and Engineering 4, no. 3 (September 1, 2020): 669–74.
+Yahya, Muhammad, Wahyudi, and Akmal Hidayat. “Implementasi Artificial Intelligence
+(AI) di Bidang Pendidikan Kejuruan Pada Era Revolusi Industri 4.0.” SEMINAR
+NASIONAL DIES NATALIS 62 1 (July 29, 2023): 190–99.
+“Konsep Kecerdasan Buatan (Artificial Intelligence) Dalam Manajemen Kurikulum
+SD / MI.” 
+Yudoprakoso, Paulus Wisnu. “Simposium Hukum Indonesia,” 2019.
+Zulfikhar, Rosa, Mustofa Mustofa, Emmy Hamidah, Heppy Sapulete, Joni Wilson Sitopu,
+and Mike Nurmalia Sari. “Dampak Integrasi Teknologi dalam Pembelajaran
+no. 4 (May 14, 2024): 18381–90.
