@@ -1,4 +1,4 @@
-
+UAS _ Galang Dwiwana Thabrani _ 1227050048 _ NLP C
 
 1. Identifikasi Tujuan / Goals Task NLP
 Pada tugas ini, saya memilih tema “Etika Penggunaan Kecerdasan Buatan (AI) dalam Pendidikan”, karena topik tersebut sedang berkembang pesat dan memiliki implikasi besar terhadap dunia akademik serta proses pembelajaran modern. Untuk mengolah materi kajian yang cukup kompleks dan panjang, saya menggunakan teknik text summarization sebagai task utama dalam Natural Language Processing (NLP).
@@ -38,3 +38,20 @@ Model summarization yang digunakan terbukti berhasil menghasilkan ringkasan dari
 * Proses chunking teks panjang dapat diproses dengan baik walaupun dilakukan secara bertahap.
 * Ringkasan akhir mencerminkan keseluruhan topik secara singkat, informatif, dan mudah dipahami.
 Meskipun tidak menggunakan evaluasi kuantitatif seperti ROUGE, penilaian kualitatif menunjukkan bahwa model Transformer yang digunakan telah mampu menjalankan tugas summarization dengan baik, terutama dalam konteks teks akademik berbahasa Indonesia.
+
+
+Ringkasan Workflow Secara Singkat
+
+Kumpulkan 5 PDF
+
+Extract PDF → text.py → dataset_ai_full.txt
+
+Cleaning → clean_text.py → dataset_ai_superclean.txt
+
+Load & potong teks di Jupyter Notebook
+
+Summarization dengan model T5 Indonesia
+
+Gabungkan dan simpan hasil ringkasan
+
+Validasi dan analisis hasil
