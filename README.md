@@ -24,10 +24,10 @@ Tahapan ini menghasilkan file teks bersih yang siap diproses, yaitu dataset_ai_s
 4. Penggunaan Deep Learning / Transformers / LLM
 Proses summarization dilakukan menggunakan model Transformer modern dari HuggingFace, yaitu Irvan14/t5-small-indonesian-summarization
 . Model ini merupakan varian T5 yang telah dilatih khusus untuk tugas summarization dalam bahasa Indonesia. Mekanisme pengerjaan meliputi:
-1. Memuat model dan tokenizer melalui pipeline summarization.
-2. Memproses setiap chunk teks menggunakan parameter panjang ringkasan tertentu (misalnya 60–150 token).
-3. Menggabungkan seluruh ringkasan per bagian menjadi satu dokumen ringkasan lengkap (final_summary.txt).
-4. Melakukan summarization lanjutan terhadap hasil ringkasan untuk menghasilkan ringkasan inti yang lebih singkat (grand_summary.txt).
+    1. Memuat model dan tokenizer melalui pipeline summarization.
+    2. Memproses setiap chunk teks menggunakan parameter panjang ringkasan tertentu (misalnya 60–150 token).
+    3. Menggabungkan seluruh ringkasan per bagian menjadi satu dokumen ringkasan lengkap (summary_output.txt).
+
 Model Transformer dipilih karena kemampuannya dalam memahami konteks teks panjang, menjaga koherensi ringkasan, serta menghasilkan output yang padat dan informatif.
 
 Evaluasi Kualitas Model
